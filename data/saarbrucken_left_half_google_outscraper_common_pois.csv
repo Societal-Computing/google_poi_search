@@ -1,5 +1,5 @@
 place_id,type,reviews,rating
-ChIJlSsoZNKzlUcRknG3jH2MVY8,Appliance store,1.0,
+ChIJlSsoZNKzlUcRknG3jH2MVY8,Appliance store,1.0,0.0
 ChIJD29xon2xlUcRdq1yZRGgNAM,Appliance store,870.0,4.0
 ChIJS1afqAOxlUcRbHej-DpkdUU,Appliance store,207.0,4.1
 ChIJC05dz3uxlUcRHWiZWcAcmPM,Appliance store,554.0,4.2
@@ -19,23 +19,23 @@ ChIJSclcIluxlUcR2XQep4tNc2Y,Appliance store,408.0,3.2
 ChIJ16GXLeWxlUcRU0Ge80N8-Tk,Appliance store,126.0,4.1
 ChIJYUsVPFmxlUcRzlC0zeNgnRA,Appliance store,1299.0,4.1
 ChIJmXBLJIyxlUcRaeIKxOhgzzI,Appliance store,108.0,4.3
-ChIJ0xtscSSxlUcRpw8e5peKkd0,Appliance store,,
-ChIJdUQDZoyxlUcRKF-lfDicf-U,Appliance store,,
+ChIJ0xtscSSxlUcRpw8e5peKkd0,Appliance store,0.0,0.0
+ChIJdUQDZoyxlUcRKF-lfDicf-U,Appliance store,0.0,0.0
 ChIJq0O_ok6xlUcRFtypcedFJvU,Appliance store,964.0,4.4
 ChIJExQzkvezlUcRWd7fHdMyCE4,Appliance store,501.0,3.8
 ChIJgSDPdYEslkcRs9ra_7ekop8,Appliance store,474.0,3.3
 ChIJdSfRBVexlUcRBZ55D2E6NPM,Appliance store,6.0,3.8
 ChIJkUWbzf6zlUcRJX36ccJj_dU,Appliance store,5.0,5.0
-ChIJzwPdNlmxlUcRCtuMREmQD7Q,Appliance store,,
+ChIJzwPdNlmxlUcRCtuMREmQD7Q,Appliance store,0.0,0.0
 ChIJ5R3XF4yxlUcRXga_K0a-nUM,Appliance store,9.0,4.4
 ChIJlwER-d-zlUcR6IzMbIzkmtE,Appliance store,65.0,4.2
 ChIJsf8DdmSxlUcRgTQK_RL7lQg,Appliance store,661.0,3.8
 ChIJKYlZ-tWzlUcRsNrLdWFr7r8,Appliance store,175.0,4.5
 ChIJfTbmw1-xlUcRy8wopc5aPaI,Appliance store,475.0,3.8
-ChIJh_5sxf6zlUcRankyJL2BRJQ,Appliance store,,
+ChIJh_5sxf6zlUcRankyJL2BRJQ,Appliance store,0.0,0.0
 ChIJH-0yA-CzlUcRumJGsVpHH9k,Appliance store,1621.0,4.1
 ChIJH9eFjYuzlUcRELVD4c1a_fc,Appliance store,9.0,4.8
-ChIJe6_QGHyxlUcRlhKcqrKa6pM,Appliance store,,
+ChIJe6_QGHyxlUcRlhKcqrKa6pM,Appliance store,0.0,0.0
 ChIJpzXE7w-xlUcReXrfDsD5uRw,Appliance store,2.0,5.0
 ChIJ0VNMcNazlUcR4xRgxixdt_4,Appliance store,547.0,4.3
 ChIJFSg6sh6ylUcRK82G3AV-HtE,Appliance store,437.0,3.6
@@ -76,19 +76,19 @@ ChIJTygOI1uxlUcRDiIvgh2WeWE,Appliance store,11.0,4.2
 ChIJYb0HIRGylUcRVVbQETrWExE,Dentist,16.0,4.8
 ChIJt2u8mF-xlUcR0YLsTjgGXtM,Dentist,28.0,3.6
 ChIJGZhq21yxlUcRm1a6MlSKFlc,Dentist,50.0,4.0
-ChIJj72lgV5-U6ERRab7Naz77qw,Dentist,,
-ChIJb7V9MrOzlUcRHMcQCIa1fkA,Dentist,,
+ChIJj72lgV5-U6ERRab7Naz77qw,Dentist,0.0,0.0
+ChIJb7V9MrOzlUcRHMcQCIa1fkA,Dentist,0.0,0.0
 ChIJJc8STCqylUcRBO7bUpnAZcg,Dentist,52.0,4.5
 ChIJe_byE2ixlUcRNuPPKViiEj4,Dentist,1.0,1.0
 ChIJYQEcVwqylUcR6wcIUsc-BBM,Dentist,42.0,5.0
-ChIJoxUjieN-C0ER9e-8ThMeJtE,Dentist,,
+ChIJoxUjieN-C0ER9e-8ThMeJtE,Dentist,0.0,0.0
 ChIJSclcIluxlUcRpn5trngJRZg,Dentist,61.0,4.3
-ChIJRQ9FFnyxlUcRhLyBd4eTiUc,Dentist,,
+ChIJRQ9FFnyxlUcRhLyBd4eTiUc,Dentist,0.0,0.0
 ChIJMQoCEXyxlUcRAL8_X1axi1U,Dentist,2.0,4.5
 ChIJg5VKK2OxlUcRY_QJr6bp6DM,Dentist,21.0,4.3
 ChIJLTJUfJWxlUcRH4_U0xyGVLs,Dentist,40.0,4.5
 ChIJf6KOFW21lUcRSoyghZkZXZg,Dentist,20.0,4.4
-ChIJq6r2gfezlUcRgW2LK4If9Nk,Dentist,,
+ChIJq6r2gfezlUcRgW2LK4If9Nk,Dentist,0.0,0.0
 ChIJY1aulr-xlUcRf_lvnWFUwv4,Dentist,31.0,4.7
 ChIJt9nMKh-ylUcRdv4Yy9Bnius,Dentist,10.0,4.1
 ChIJZz_inxqylUcRGxEsnktZRJU,Dentist,19.0,4.7
@@ -97,16 +97,16 @@ ChIJy9ArGAi0lUcRgAfTo7D71hc,Dentist,10.0,4.3
 ChIJzaNoEXyxlUcRum9bryCDVIM,Dentist,34.0,4.1
 ChIJE1kn3mWxlUcRJjGurovQSW8,Church,14.0,4.2
 ChIJW_2VFo6zlUcRtZV4sqfpZYY,Church,1206.0,3.9
-ChIJ_7VGAPOtlUcRYatobCmQQ60,Church,,
+ChIJ_7VGAPOtlUcRYatobCmQQ60,Church,0.0,0.0
 ChIJ37BnhBCylUcRlRO1Gjg3Q4g,Church,12.0,4.1
-ChIJje3ztyuylUcRu-ZMkcj9iPI,Church,,
+ChIJje3ztyuylUcRu-ZMkcj9iPI,Church,0.0,0.0
 ChIJP87C3hCylUcRJq9waNDkJnU,Church,24.0,4.8
 ChIJEbhHyVCxlUcRJ51tBN83MFs,Church,55.0,4.2
-ChIJKSQ-73yxlUcRq9EuIFgWF0M,Church,,
+ChIJKSQ-73yxlUcRq9EuIFgWF0M,Church,0.0,0.0
 ChIJxbut9_F-C0EREBf36p0wESA,Church,6.0,4.2
 ChIJlzwwJHuxlUcRh0HooLq3G8g,Church,1.0,4.0
 ChIJ29R6Yo2xlUcReyG9WL_5smM,Church,1.0,5.0
-ChIJDb44WF6zlUcREyhwhVVsuPw,Church,,
+ChIJDb44WF6zlUcREyhwhVVsuPw,Church,0.0,0.0
 ChIJl6WLevKzlUcRimpYj48qboE,Church,8.0,4.8
 ChIJ859JoFaxlUcRoR8omDLMDVQ,Church,26.0,4.3
 ChIJERM09I-xlUcRHcs_8y2e2YI,Church,25.0,4.7
@@ -119,15 +119,15 @@ ChIJ970NRByzlUcRFSLYeN251Xg,Church,15.0,5.0
 ChIJrzHVjDSxlUcRKepHhlokEOY,Church,4.0,4.7
 ChIJuVsu2vmzlUcRBPufSCNcBgY,Church,4.0,4.0
 ChIJ24SpZUKzlUcRoQGJrtIVa6Q,Church,5.0,5.0
-ChIJUy9CNPCxlUcRG5k6jiuWxZM,Church,,
+ChIJUy9CNPCxlUcRG5k6jiuWxZM,Church,0.0,0.0
 ChIJpZnfqlyxlUcRntZ6qUQYmFg,Church,39.0,4.4
 ChIJS8HS2kexlUcRLWfVpXu40Q8,Church,6.0,4.0
-ChIJYyURoHGzlUcRZzOkUqwAczo,Church,,
+ChIJYyURoHGzlUcRZzOkUqwAczo,Church,0.0,0.0
 ChIJ73qXdQCzlUcRZVXKU7TI6Is,Church,2.0,2.0
 ChIJxXmkRWOxlUcRgV2MoXAD5cA,Church,9.0,4.6
 ChIJFaaW3CG0lUcRiU1QQTDQsH8,Church,8.0,4.8
 ChIJSbZ0bnexlUcR7SjI_kInJBw,Church,72.0,4.5
-ChIJ_dNu6rSxlUcRoMd06MoQjuk,Church,,
+ChIJ_dNu6rSxlUcRoMd06MoQjuk,Church,0.0,0.0
 ChIJ3TotYsCxlUcRUDZc0I3_dFQ,Church,8.0,3.6
 ChIJjd7fPnyxlUcRR4VVnbhbGsA,Church,38.0,4.2
 ChIJHRi5DO6zlUcRrhRxIM32kpc,Church,4.0,5.0
@@ -142,14 +142,14 @@ ChIJGZ4tGlixlUcRVmUzWx9_dSQ,Cheese shop,735.0,4.5
 ChIJU_f2n4-zlUcRScQEFCjihhY,Cheese shop,417.0,4.2
 ChIJ0TEgxVmxlUcRLeLL1YWCbiQ,Cheese shop,674.0,4.2
 ChIJS81pd9mxlUcRwk3Ckw6Q49Y,Cheese shop,10.0,2.5
-ChIJD2FeHUWxlUcRIPsomJqyOZc,Cheese shop,,
+ChIJD2FeHUWxlUcRIPsomJqyOZc,Cheese shop,0.0,0.0
 ChIJOQN-X_KzlUcRsXMYnSzQkqs,Cheese shop,920.0,4.3
 ChIJVTJQqSi0lUcRGekO0YOykQg,Cheese shop,180.0,4.4
 ChIJ23poJOJ-C0ER0gIWOzCZfck,Cheese shop,423.0,4.2
 ChIJq_gy4FqxlUcRFwG4Gu35abw,Cheese shop,21.0,4.5
 ChIJ9ZXHz0ixlUcRU5QQpETVqHo,Cheese shop,16.0,4.8
 ChIJVYc9KCeylUcRbHWyjCAJm0g,Cheese shop,14.0,4.9
-ChIJtby7Dx-xlUcRFWShzKoRXkQ,Cheese shop,3.0,
+ChIJtby7Dx-xlUcRFWShzKoRXkQ,Cheese shop,3.0,0.0
 ChIJ4-UeH_WxlUcR19cxjQ_5DP4,Cheese shop,5.0,5.0
 ChIJxQwDAIqxlUcRG1SabaZwNXM,Cheese shop,109.0,4.1
 ChIJb0DvBo-xlUcRmg4mUnwrhiU,Cheese shop,74.0,4.6
@@ -169,7 +169,7 @@ ChIJz3T51f2zlUcRnl7RsKCjW7E,Cheese shop,5.0,2.8
 ChIJmQYPN1uxlUcR6mnyas1NwDk,Cheese shop,62.0,4.0
 ChIJqWnSw5GzlUcRfiExAQzqOkA,Cheese shop,140.0,4.7
 ChIJN9KOHYyxlUcRa4WhdCJqZQA,Cheese shop,436.0,3.6
-ChIJ7ywnX3yxlUcRgNaFsAH68Wc,Cheese shop,,
+ChIJ7ywnX3yxlUcRgNaFsAH68Wc,Cheese shop,0.0,0.0
 ChIJdV3pGXyxlUcRY0jzLh8-Fzw,Cheese shop,2.0,4.0
 ChIJ0VynGluxlUcRFJEwK_lbkPM,Cheese shop,37.0,4.3
 ChIJ1e07zVOxlUcRl9Efns6zQRM,Cheese shop,3.0,3.3
@@ -177,7 +177,7 @@ ChIJZUhQM9OzlUcR_qMoFuHXqHY,Cheese shop,28.0,4.2
 ChIJy1VoH_ixlUcRDyIWMpAlZQ4,Cheese shop,2.0,4.0
 ChIJRcTl8FqxlUcR8sOmIoKPxJA,Cheese shop,110.0,4.3
 ChIJe09ACuOzlUcRuwIcwdXXDt4,Cheese shop,564.0,3.6
-ChIJ9cyA84OxlUcR8eF9ko3F6vI,Cheese shop,,
+ChIJ9cyA84OxlUcR8eF9ko3F6vI,Cheese shop,0.0,0.0
 ChIJ25tkxmSxlUcRb4Jwi6fPwaQ,Cheese shop,58.0,4.3
 ChIJzbpl91axlUcRq2KUA2oTWJk,Cheese shop,497.0,4.1
 ChIJ7_yYQ8uzlUcRPuC4d1-Kbws,Cheese shop,31.0,4.7
@@ -193,7 +193,7 @@ ChIJN5EfRluxlUcRTqQAJB1frKY,Pub,34.0,4.6
 ChIJN6tRHdKxlUcR0FZpMbSIiRU,Pub,1061.0,4.3
 ChIJpWLaDjy0lUcRj9AwseFGUIk,Pub,590.0,4.2
 ChIJv6m9LuWxlUcRP1MfXo3wQbg,Pub,44.0,4.0
-ChIJbQQDaFSxlUcRsgZFlOWlBRQ,Pub,,
+ChIJbQQDaFSxlUcRsgZFlOWlBRQ,Pub,0.0,0.0
 ChIJCUpEw42xlUcRA_YoAd2Wqtc,Pub,32.0,4.4
 ChIJSRWparOxlUcRuQtb7rU1phQ,Pub,50.0,5.0
 ChIJwQxZu36xlUcRQitPTpimsIY,Pub,336.0,4.6
@@ -216,20 +216,20 @@ ChIJDZLpffKzlUcRdts1EYTk5MQ,Personal trainer,108.0,4.4
 ChIJH1igOwKylUcRivgyK1IxPJg,Personal trainer,32.0,4.8
 ChIJS0eK4qmxlUcRMnOD1q4LYBs,Personal trainer,9.0,5.0
 ChIJM3LhdD5_C0ERU5dZmitbbaQ,Personal trainer,9.0,4.8
-ChIJv7JNmWyzlUcRRMOXTyN1o7U,Income tax help association,,
-ChIJwyXjIPyzlUcRQ_pUqSAYQQc,Income tax help association,,
-ChIJ4fqBwmWxlUcRpRZtfobREpk,Income tax help association,,
+ChIJv7JNmWyzlUcRRMOXTyN1o7U,Income tax help association,0.0,0.0
+ChIJwyXjIPyzlUcRQ_pUqSAYQQc,Income tax help association,0.0,0.0
+ChIJ4fqBwmWxlUcRpRZtfobREpk,Income tax help association,0.0,0.0
 ChIJRcaE4nqxlUcR0xEus0yICXA,Landscaper,5.0,5.0
 ChIJ051eeuR-C0ERXjiqB_ySJpA,Landscaper,10.0,4.4
-ChIJ9SLU3GCxlUcRK7WiM__Sqoc,Landscaper,,
+ChIJ9SLU3GCxlUcRK7WiM__Sqoc,Landscaper,0.0,0.0
 ChIJDTQz9FyzlUcRrk5YY2SZugo,Landscaper,35.0,4.0
 ChIJK66uIR6xlUcRbQ60mqkfhPs,Landscaper,10.0,5.0
 ChIJefaqP_oWiCoReojj01VenS0,Landscaper,1.0,1.0
 ChIJ9Sh3H0KxlUcRcK88-XmXVyA,Landscaper,12.0,4.0
-ChIJzz6qwhiylUcRXI9_4YiI9q8,Landscaper,,
+ChIJzz6qwhiylUcRXI9_4YiI9q8,Landscaper,0.0,0.0
 ChIJqwltHBGylUcRtuDeAiYqYug,Landscaper,17.0,5.0
 ChIJbbj0SBKylUcRUDPaOrB6BqM,Landscaper,2.0,5.0
-ChIJ7QI2XlqxlUcRwxh7tC1wNd8,Landscaper,,
+ChIJ7QI2XlqxlUcRwxh7tC1wNd8,Landscaper,0.0,0.0
 ChIJ_XtxvpyxlUcRqglVKFEX1Kc,Landscaper,8.0,4.2
 ChIJ3xOx25WzlUcRQCynQGuQVas,Landscaper,1.0,5.0
 ChIJKQHl79KxlUcRUuPyrA8co9c,Landscaper,4.0,3.0
@@ -244,19 +244,19 @@ ChIJy0akOHqxlUcRkqMhjyp7uaI,Landscaper,8.0,4.9
 ChIJW_-2YTGylUcREqUgO3KY0R8,Landscaper,4.0,4.8
 ChIJvYo8ix2ylUcRVgw00GpjZLA,Landscaper,17.0,4.9
 ChIJsaukrzKxlUcRu5m-1IzqJvk,Landscaper,1.0,5.0
-ChIJiTCg6R2ylUcRdCiJ0PlpCUk,Landscaper,,
+ChIJiTCg6R2ylUcRdCiJ0PlpCUk,Landscaper,0.0,0.0
 ChIJFWFHEy-0lUcRCVH5rulblcw,Landscaper,10.0,4.5
-ChIJFV_jhVCxlUcR-pw_1PtP954,Landscaper,,
+ChIJFV_jhVCxlUcR-pw_1PtP954,Landscaper,0.0,0.0
 ChIJT7CRrxqylUcRm_1002v80Jw,Landscaper,38.0,4.6
-ChIJx3Q1wB60lUcRTfjXJuhyvw0,Advertising agency,,
-ChIJ2RhTqWOxlUcRoes-pAnJkA4,Advertising agency,,
+ChIJx3Q1wB60lUcRTfjXJuhyvw0,Advertising agency,0.0,0.0
+ChIJ2RhTqWOxlUcRoes-pAnJkA4,Advertising agency,0.0,0.0
 ChIJ1yxWkmCxlUcR5sV8zIHh-cw,Advertising agency,1.0,5.0
 ChIJv7Ukh86zlUcR9gRVkpbW7Bk,Advertising agency,24.0,4.5
-ChIJ77BZol-xlUcRvfo_c1IOgTw,Advertising agency,,
+ChIJ77BZol-xlUcRvfo_c1IOgTw,Advertising agency,0.0,0.0
 ChIJMameaWexlUcRVSV7IMDkc4c,Advertising agency,2.0,3.0
 ChIJiYyLP3-xlUcRwjA55FIQGls,Advertising agency,1.0,5.0
 ChIJHR6xl1axlUcRPLt5o5_lv-A,Advertising agency,1.0,5.0
-ChIJo-fRdy6ylUcRVPEy-Pimbrk,Advertising agency,,
+ChIJo-fRdy6ylUcRVPEy-Pimbrk,Advertising agency,0.0,0.0
 ChIJm_Zh2GOxlUcROktXfGgVSmc,Advertising agency,16.0,4.5
 ChIJ57wnSeOzlUcRGMydXR-9HCk,Advertising agency,20.0,5.0
 ChIJd3h6omGxlUcRhlGot_QQNC4,Advertising agency,31.0,4.9
@@ -266,50 +266,50 @@ ChIJ10G00FixlUcRLIoim2jVLCc,Advertising agency,10.0,4.9
 ChIJ10oCzhmylUcR8GIYwaNFx3Q,Advertising agency,2.0,4.0
 ChIJN7bNBqq2lUcRnrNfMVXRTCw,Advertising agency,52.0,5.0
 ChIJKeX-0rO3lUcRIxvGC1EiuIE,Advertising agency,30.0,5.0
-ChIJoabzE4SxlUcR30TqXrr_QFc,Advertising agency,,
-ChIJQT9-uKWzlUcRS3vWmR96_kw,Advertising agency,,
-ChIJ14nM61izlUcRqg6gymE89_Y,Advertising agency,,
+ChIJoabzE4SxlUcR30TqXrr_QFc,Advertising agency,0.0,0.0
+ChIJQT9-uKWzlUcRS3vWmR96_kw,Advertising agency,0.0,0.0
+ChIJ14nM61izlUcRqg6gymE89_Y,Advertising agency,0.0,0.0
 ChIJE-MgQBmylUcRHWRrsiET0vk,Advertising agency,1.0,5.0
 ChIJXVHEuv-zlUcRFcPel-z6LPQ,Advertising agency,1.0,3.0
-ChIJHWyclECxlUcRERr6XMXNFgE,Advertising agency,,
-ChIJT93FZmGxlUcRZwS8nEpzkpo,Advertising agency,,
+ChIJHWyclECxlUcRERr6XMXNFgE,Advertising agency,0.0,0.0
+ChIJT93FZmGxlUcRZwS8nEpzkpo,Advertising agency,0.0,0.0
 ChIJSYny9Z2xlUcR5anvVBuKhpA,Advertising agency,15.0,4.9
-ChIJQyrMdyO1lUcRfq0_rS0GU3c,Advertising agency,,
+ChIJQyrMdyO1lUcRfq0_rS0GU3c,Advertising agency,0.0,0.0
 ChIJ0ZzJsFGxlUcR9vRevqtxbaI,Advertising agency,1.0,5.0
 ChIJIQVjzP2zlUcRdZoMjN425Kc,Advertising agency,1.0,5.0
-ChIJFRzNiiuylUcR8J88_7eoAfU,Advertising agency,,
-ChIJBYcWnPqzlUcRZKfnxc5BI_0,Advertising agency,,
+ChIJFRzNiiuylUcR8J88_7eoAfU,Advertising agency,0.0,0.0
+ChIJBYcWnPqzlUcRZKfnxc5BI_0,Advertising agency,0.0,0.0
 ChIJvyCJkouzlUcRd32jGY-wZFc,Advertising agency,4.0,3.0
-ChIJRfro1BmylUcRw0zXi5E90GM,Advertising agency,,
-ChIJg_Pr80WxlUcRxX9gDz9Og1A,Advertising agency,,
+ChIJRfro1BmylUcRw0zXi5E90GM,Advertising agency,0.0,0.0
+ChIJg_Pr80WxlUcRxX9gDz9Og1A,Advertising agency,0.0,0.0
 ChIJBXzijxPPlUcRiO870RL-Db0,Advertising agency,1.0,5.0
 ChIJQZ0nFuuxlUcRufhUu5ivXn4,Advertising agency,11.0,5.0
 ChIJjW-JGRh_C0ER8M6zCR-h-Ts,Advertising agency,1.0,5.0
 ChIJMbYrt3uzlUcR3OxqDRtZEg0,Advertising agency,2.0,5.0
 ChIJjyTDmrC3lUcRLyUS2OfQQ20,Advertising agency,18.0,5.0
 ChIJ9ZPJASS0lUcRar5nU4sI33k,Advertising agency,7.0,5.0
-ChIJf2lhQ-2nlUcRjNR_ZOFTRts,Advertising agency,,
+ChIJf2lhQ-2nlUcRjNR_ZOFTRts,Advertising agency,0.0,0.0
 ChIJFaOqAYqxlUcRDScqeRMzie8,Advertising agency,3.0,4.7
-ChIJnw_6HGqxlUcR3q3iLstrZZY,Advertising agency,,
+ChIJnw_6HGqxlUcR3q3iLstrZZY,Advertising agency,0.0,0.0
 ChIJE7DhdKm2lUcRLsAJz1aXQ1Y,Advertising agency,17.0,3.9
-ChIJ1e07zVOxlUcRMUBzc5mV8UI,Advertising agency,,
+ChIJ1e07zVOxlUcRMUBzc5mV8UI,Advertising agency,0.0,0.0
 ChIJTXEUO6S2lUcR0S0xlFzg_YI,Advertising agency,2.0,5.0
-ChIJKfsFhFCxlUcRNSEb73kpTj4,Advertising agency,,
+ChIJKfsFhFCxlUcRNSEb73kpTj4,Advertising agency,0.0,0.0
 ChIJ9we2QcmzlUcRRuydgCcYku8,Advertising agency,6.0,5.0
 ChIJKbKTzK22lUcRMmwX0YE9y6E,Advertising agency,50.0,4.9
 ChIJt_kGj5GxlUcRPSobPoWCUWg,Advertising agency,6.0,5.0
-ChIJc_UFmx60lUcRz8ELzYKcR4c,Advertising agency,,
-ChIJNyfgnkaxlUcRqTGM3N7XvbE,Advertising agency,,
+ChIJc_UFmx60lUcRz8ELzYKcR4c,Advertising agency,0.0,0.0
+ChIJNyfgnkaxlUcRqTGM3N7XvbE,Advertising agency,0.0,0.0
 ChIJSxc4zfCxlUcRTkiz3HYYiHg,Advertising agency,6.0,5.0
 ChIJJc1H1l-xlUcR_esyWnNYpMI,Advertising agency,2.0,5.0
 ChIJpQBG1V-xlUcRzYKEHdaoSO8,Advertising agency,9.0,4.9
-ChIJlRCfGIyxlUcR1Gq5blfacmc,Advertising agency,,
+ChIJlRCfGIyxlUcR1Gq5blfacmc,Advertising agency,0.0,0.0
 ChIJ3avml2GxlUcRjaUR0I9sLkk,Advertising agency,8.0,5.0
-ChIJT2swqQaxlUcRb92KP_YVbAU,Advertising agency,,
-ChIJd3h6omGxlUcRNSsGqpEkqns,Advertising agency,,
-ChIJgyahBGqxlUcRvuO4xIehd-Y,Advertising agency,,
+ChIJT2swqQaxlUcRb92KP_YVbAU,Advertising agency,0.0,0.0
+ChIJd3h6omGxlUcRNSsGqpEkqns,Advertising agency,0.0,0.0
+ChIJgyahBGqxlUcRvuO4xIehd-Y,Advertising agency,0.0,0.0
 ChIJpQ0NBGGxlUcRjpvHr3F3q38,Advertising agency,2.0,5.0
-ChIJlYvFnPizlUcRcKUwuBOf-4U,Data recovery service,,
+ChIJlYvFnPizlUcRcKUwuBOf-4U,Data recovery service,0.0,0.0
 ChIJtyZHdOXFlUcRAI-_slxGgW8,Interior fitting contractor,17.0,4.7
 ChIJvYeWfF6xlUcROtOpX9sLgIY,Hamburger restaurant,97.0,2.6
 ChIJqRb56F2zlUcR04mexQmSZOU,Hamburger restaurant,50.0,4.0
@@ -328,14 +328,14 @@ ChIJf4aI2lmxlUcRkO_yvKB6Sjs,Hamburger restaurant,1577.0,4.5
 ChIJrwRicn2zlUcRTFomn37JCnE,Hamburger restaurant,462.0,3.4
 ChIJ2QsmfQ2xlUcRJQ24Q8EAObs,Hamburger restaurant,194.0,4.2
 ChIJrSkWx96xlUcRvWwJEQDlz_I,Hamburger restaurant,222.0,4.2
-ChIJKzwUdyGxlUcRsjc72pmsO8c,Hamburger restaurant,,
+ChIJKzwUdyGxlUcRsjc72pmsO8c,Hamburger restaurant,0.0,0.0
 ChIJ8RNxmuOzlUcRknhT2qVBR_Q,Hamburger restaurant,291.0,4.6
 ChIJ-zf2k2yxlUcRCVHbFH_2ys8,Hamburger restaurant,254.0,4.2
 ChIJfSy3vS6ylUcRxBvnN6qa_FU,Hamburger restaurant,329.0,4.2
 ChIJQ4O2emixlUcRbXZmDp1vasc,Hamburger restaurant,105.0,4.2
 ChIJN_kr0y6xlUcRHdHIZ4M9Hl8,Hamburger restaurant,53.0,4.4
 ChIJQ7swakazlUcR4YO2VeJ5e5o,Hamburger restaurant,71.0,4.6
-ChIJqSHKQkWxlUcRo__kZM2DBVs,Hamburger restaurant,,
+ChIJqSHKQkWxlUcRo__kZM2DBVs,Hamburger restaurant,0.0,0.0
 ChIJozzvqmGxlUcR7QL7Lv0H-MA,Hamburger restaurant,14.0,4.8
 ChIJv02fVbKtlUcRTbUyrVhsEbg,Hamburger restaurant,13.0,4.6
 ChIJV9K8I662lUcRdDMU3g-NDnA,Hamburger restaurant,388.0,4.1
@@ -362,7 +362,7 @@ ChIJBfATEvezlUcRz_uux4ZhmIA,Hamburger restaurant,349.0,4.0
 ChIJc2splFqxlUcRs02PsHKz09o,Religious destination,5.0,5.0
 ChIJWyqh_bWzlUcR94AzD4r4G3s,Religious destination,1.0,5.0
 ChIJ_ykomFixlUcRile8koa-y3Y,Clothing store,22.0,4.8
-ChIJbUpszMyxlUcRmHZ0Xag7RBE,Clothing store,,
+ChIJbUpszMyxlUcRmHZ0Xag7RBE,Clothing store,0.0,0.0
 ChIJ2QRlF2-xlUcRyHXYyE_uxO0,Clothing store,21.0,3.4
 ChIJyWUhvV-xlUcRZKhfUCKfGL4,Clothing store,735.0,4.6
 ChIJyyYLcUKxlUcRW0W4vHQBLcs,Clothing store,56.0,4.8
@@ -383,20 +383,20 @@ ChIJwWY7R5yxlUcRSotyn_QhG4k,Clothing store,310.0,4.4
 ChIJKY_PlVixlUcRmSN9ZMu5j1I,Clothing store,239.0,4.6
 ChIJ2dyzKI6zlUcR4RCov2VmFnw,Clothing store,1.0,5.0
 ChIJe3s7soixlUcRVf2yaRfX3FQ,Clothing store,25.0,4.5
-ChIJqz68RwqxlUcR2-9zyhD1sl8,Clothing store,,
+ChIJqz68RwqxlUcR2-9zyhD1sl8,Clothing store,0.0,0.0
 ChIJqTxqX1qxlUcRKtJSmHcxSHg,Clothing store,2.0,5.0
 ChIJS4ffGhGxlUcRHfHnn8Affu4,Clothing store,6.0,5.0
-ChIJy6d6H5mxlUcR8RQ2GSoYKn4,Clothing store,,
-ChIJa_cPKvaxlUcRRPQUEjBfcOg,Clothing store,,
+ChIJy6d6H5mxlUcR8RQ2GSoYKn4,Clothing store,0.0,0.0
+ChIJa_cPKvaxlUcRRPQUEjBfcOg,Clothing store,0.0,0.0
 ChIJn63l0M2xlUcR4ydMK4COjJ0,Clothing store,4.0,3.0
 ChIJm4_ykz2zlUcR0IZXVuf_2vw,Clothing store,1.0,5.0
 ChIJ_4jmL2OxlUcR8Yj68a_I7Z4,Clothing store,1.0,1.0
 ChIJKQ5l5XyxlUcRYVDIO8Hde_0,Clothing store,26.0,4.6
-ChIJPbg3c3ixlUcRD3q4J1-dy4k,Clothing store,,
-ChIJjZE08oCzlUcRpVloXyl00rk,Clothing store,,
-ChIJVVVJff6zlUcR2ab-Q7AbgEU,Clothing store,,
+ChIJPbg3c3ixlUcRD3q4J1-dy4k,Clothing store,0.0,0.0
+ChIJjZE08oCzlUcRpVloXyl00rk,Clothing store,0.0,0.0
+ChIJVVVJff6zlUcR2ab-Q7AbgEU,Clothing store,0.0,0.0
 ChIJBTeMuvqzlUcRhlVymBHcGDY,Metalware dealer,9.0,5.0
-ChIJDwRREUKxlUcR27NWAJTiN5U,Metalware dealer,,
+ChIJDwRREUKxlUcR27NWAJTiN5U,Metalware dealer,0.0,0.0
 ChIJCbxi3lqxlUcRtNhMVldBwRk,Restaurant supply store,92.0,4.4
 ChIJr9SZS9azlUcRXxADbmDpc2o,Restaurant supply store,459.0,4.2
 ChIJ9S3N17-xlUcRpJBp644tdcE,Restaurant supply store,85.0,4.7
@@ -414,62 +414,62 @@ ChIJL-cRS_yzlUcRkYKs00R_FfM,Restaurant supply store,1855.0,4.7
 ChIJy13jgV2xlUcRTr4eWsdwT_I,Restaurant supply store,19.0,3.8
 ChIJtXxZ2vOzlUcR5qlg5QzW6Qw,Restaurant supply store,1464.0,4.0
 ChIJaWG64kGxlUcRBOpWLgH5Rak,Psychologist,3.0,5.0
-ChIJ8aSqTEexlUcReX3GQgGY6dY,Psychologist,,
-ChIJ_fHm-GCxlUcRYCKfIfIdIvA,Psychologist,,
+ChIJ8aSqTEexlUcReX3GQgGY6dY,Psychologist,0.0,0.0
+ChIJ_fHm-GCxlUcRYCKfIfIdIvA,Psychologist,0.0,0.0
 ChIJkUWbzf6zlUcRfkj9w4TfclY,Psychologist,6.0,3.8
-ChIJwTTIXja1lUcRvpH_9lZbvdo,Psychologist,,
-ChIJ6yEPI_GzlUcRfziVosS2aC0,Psychologist,,
-ChIJyR58Zwi0lUcRGvlBkTZ7vtU,Psychologist,,
-ChIJkzkFZ-V-C0ERyjEn95fAgM0,Psychologist,,
+ChIJwTTIXja1lUcRvpH_9lZbvdo,Psychologist,0.0,0.0
+ChIJ6yEPI_GzlUcRfziVosS2aC0,Psychologist,0.0,0.0
+ChIJyR58Zwi0lUcRGvlBkTZ7vtU,Psychologist,0.0,0.0
+ChIJkzkFZ-V-C0ERyjEn95fAgM0,Psychologist,0.0,0.0
 ChIJbSBr8--zlUcR1NR9iGs-YSY,Courier service,1.0,5.0
 ChIJZ7lWGYizlUcRMUcc2cgRC20,Courier service,4.0,3.3
-ChIJ3T-qHwKxlUcRiXjGdsi8w8Y,Courier service,,
+ChIJ3T-qHwKxlUcRiXjGdsi8w8Y,Courier service,0.0,0.0
 ChIJ-QkeE0KxlUcRxhD4ntDdFeo,Courier service,16.0,4.3
 ChIJazpklEizlUcRh_gHkkPse6o,Courier service,8.0,4.0
-ChIJsU1CesGxlUcReOwzSPm1nJw,Courier service,,
+ChIJsU1CesGxlUcReOwzSPm1nJw,Courier service,0.0,0.0
 ChIJvZxcPQKxlUcRBaRKv-Et0Ok,Courier service,6.0,5.0
 ChIJ1YXhrH2xlUcRljv-vUUVTqQ,Courier service,4.0,4.3
 ChIJ-Y2F_vWxlUcRt9gVuwxewT4,Courier service,8.0,3.3
 ChIJGVfWlQOxlUcRZX27OHwaQ6g,Courier service,9.0,3.9
 ChIJ4TReMGOxlUcRgjjHdIt45dc,Courier service,10.0,3.7
 ChIJdy8XO1uxlUcRDYAsigz-S-k,Courier service,123.0,3.7
-ChIJqRBjgSizlUcRe5b09B3pmVg,Courier service,,
+ChIJqRBjgSizlUcRe5b09B3pmVg,Courier service,0.0,0.0
 ChIJF7itHrLgMGQRbB3BcChNRck,Courier service,21.0,4.7
-ChIJv3lcFZ2xlUcRhs9Eq_G5qgY,Courier service,,
+ChIJv3lcFZ2xlUcRhs9Eq_G5qgY,Courier service,0.0,0.0
 ChIJn8m_O_yzlUcRw69L2gBGD8A,Courier service,83.0,4.3
 ChIJTRK1I3mzlUcRkTgps7c__l0,Courier service,11.0,5.0
 ChIJ6bGCtVqxlUcRdb8Je5kK3s4,Courier service,1.0,5.0
 ChIJw2l88_2xlUcRbtfu10-Yc-k,Courier service,1.0,5.0
 ChIJc42OmMuzlUcRBPhSMNqdVWI,Courier service,9.0,4.0
 ChIJJfg_tlOxlUcRYjmjcyCeaF0,Courier service,3.0,5.0
-ChIJ2Z20PymzlUcRaKtBtGOvdUo,Courier service,,
-ChIJyX69kfixlUcRry7p1DiAg-g,Courier service,,
-ChIJOcgtRuWzlUcRcq5QoN4BTbo,Courier service,,
+ChIJ2Z20PymzlUcRaKtBtGOvdUo,Courier service,0.0,0.0
+ChIJyX69kfixlUcRry7p1DiAg-g,Courier service,0.0,0.0
+ChIJOcgtRuWzlUcRcq5QoN4BTbo,Courier service,0.0,0.0
 ChIJ23a_uv-zlUcREBhdtMYYZZw,Courier service,3.0,2.3
 ChIJe1P50guzlUcR9EOI4rqz2J8,Courier service,1.0,3.0
-ChIJUw2V44yxlUcRGCJZfaQ0rXk,Courier service,,
-ChIJ6a6iIo2xlUcRWxw5PLc-Hmw,Courier service,,
+ChIJUw2V44yxlUcRGCJZfaQ0rXk,Courier service,0.0,0.0
+ChIJ6a6iIo2xlUcRWxw5PLc-Hmw,Courier service,0.0,0.0
 ChIJAa2E0ZuxlUcRx7bK3C_hlJk,Courier service,1.0,5.0
 ChIJuVtcaR2xlUcR8qFyqoUVx8M,Courier service,2.0,5.0
 ChIJ25b-9CqxlUcRFf66hS30rTE,Courier service,3.0,3.3
 ChIJkQLS_GSxlUcRkVv7LseIv_Y,Courier service,1.0,4.0
 ChIJ_WiQSpqxlUcR8pkR75u4pxU,Courier service,6.0,4.3
 ChIJNR29gZCzlUcRxVBzJSU62K4,Courier service,1.0,5.0
-ChIJF_g26QezlUcRKbymA_xHFyQ,Courier service,,
-ChIJAyxpxwGxlUcRXTZPqTkyQdo,Courier service,,
+ChIJF_g26QezlUcRKbymA_xHFyQ,Courier service,0.0,0.0
+ChIJAyxpxwGxlUcRXTZPqTkyQdo,Courier service,0.0,0.0
 ChIJsw3EBXSzlUcRXYTngP8EB-M,Courier service,4.0,2.8
 ChIJHc2uLAizlUcRHeYeYrWLxNY,Courier service,7.0,4.6
 ChIJUd2QHVSxlUcR56eoqei17MM,Courier service,40.0,4.2
-ChIJFV-umf-zlUcRSKo2AnJLfkw,Courier service,,
+ChIJFV-umf-zlUcRSKo2AnJLfkw,Courier service,0.0,0.0
 ChIJ86laq76zlUcRhMXjewwYecs,Courier service,3.0,3.7
 ChIJxb15fvqzlUcREjqoArr0ZEU,Courier service,35.0,4.2
 ChIJFfHyDuqzlUcREuwbvw-Woy4,Courier service,10.0,3.1
 ChIJB_3csRqxlUcREB-ooAYTAXc,Courier service,2.0,1.0
-ChIJcxcz212xlUcR9eiMbZmHkDo,Courier service,1.0,
+ChIJcxcz212xlUcR9eiMbZmHkDo,Courier service,1.0,0.0
 ChIJi0lfPtSxlUcRI2imHfyHZ-A,Courier service,1.0,4.0
 ChIJgUS59xqzlUcRV0-ZZBEl5JU,Courier service,70.0,4.9
 ChIJ22XVIEWxlUcR7bQC2OCkDok,Courier service,8.0,4.9
-ChIJDZoaeVKxlUcRhoRwjE2MQUU,Courier service,,
+ChIJDZoaeVKxlUcRhoRwjE2MQUU,Courier service,0.0,0.0
 ChIJ5WjFflexlUcRjXpnxzyYwjA,Courier service,10.0,3.2
 ChIJcb-PCt-2lUcRiMlSMn6MOB0,Courier service,4.0,5.0
 ChIJu3vJx8ixlUcRfEiYq-Tbzig,Courier service,6.0,3.5
@@ -480,21 +480,21 @@ ChIJG_JxW8WxlUcR99gQPAwv84A,Courier service,38.0,4.8
 ChIJEdHnAFSxlUcRyB-7ruCxL8I,Courier service,2.0,4.0
 ChIJeYAZcPWxlUcR9L0IaB5rd0Y,Courier service,2.0,5.0
 ChIJa5ZGoo6xlUcRBY2PkkU8Mi8,Courier service,5.0,3.4
-ChIJrZH3fhuxlUcRie1lCRZP3Vg,Courier service,,
-ChIJW3WkLHyxlUcRgsaycC0hzZo,Cake shop,,
+ChIJrZH3fhuxlUcRie1lCRZP3Vg,Courier service,0.0,0.0
+ChIJW3WkLHyxlUcRgsaycC0hzZo,Cake shop,0.0,0.0
 ChIJ4XTq-y6ylUcR6XrwYmJ-p60,Cake shop,10.0,4.4
 ChIJuVMfohqylUcRTnVpZocHACA,Cake shop,43.0,4.6
-ChIJpYJghc-zlUcRKs1XdGzIVfg,Cake shop,,
+ChIJpYJghc-zlUcRKs1XdGzIVfg,Cake shop,0.0,0.0
 ChIJpcWDPpyxlUcRqbJxmihlg9w,Cake shop,603.0,4.8
 ChIJ_VkG2EWzlUcRyVXuxpbfzAk,Cake shop,146.0,4.5
 ChIJ2eSYmlCxlUcR6Ot_Cp1GEQU,Cake shop,37.0,4.5
 ChIJAfxW6O9-C0ERc6TQ-O3oNr8,Cake shop,18.0,4.6
 ChIJ0RxgvuOzlUcRLTQ4B4WBCtY,Cake shop,21.0,4.8
-ChIJ7YG7UgCzlUcR_7pLVB9ZcRs,Cake shop,2.0,
-ChIJkVazP9qxlUcRqdLpXNHVlG8,Cake shop,,
+ChIJ7YG7UgCzlUcR_7pLVB9ZcRs,Cake shop,2.0,0.0
+ChIJkVazP9qxlUcRqdLpXNHVlG8,Cake shop,0.0,0.0
 ChIJnaPCqCCylUcR2QWGHaN8EwY,Cake shop,236.0,4.8
 ChIJYdF-IiKxlUcRX7qme4JRxw8,Cake shop,39.0,3.9
-ChIJgbJqxFmxlUcRTJFb1NNhCzM,Cake shop,,
+ChIJgbJqxFmxlUcRTJFb1NNhCzM,Cake shop,0.0,0.0
 ChIJCwSMMjuzlUcRFVm5NmXx-ko,Cake shop,38.0,4.4
 ChIJ___78XmxlUcR7ng-MoXlQFE,Cake shop,23.0,4.8
 ChIJuT2AOAqxlUcRkVkgZa-z3AA,Cake shop,27.0,4.3
@@ -504,41 +504,41 @@ ChIJY7zLL4-xlUcRZOzcl_OEmAo,Cake shop,38.0,3.6
 ChIJmV0V2Y2zlUcRbQdNLaPRN-8,Building materials store,75.0,4.3
 ChIJZYDiwgC0lUcRPlexmWh1Lzw,Building materials store,34.0,4.5
 ChIJQS_DjcSxlUcRHuiLcAWqAu0,Building materials store,69.0,4.6
-ChIJA7e85AiylUcRdYldB5ikDUc,Building materials store,,
+ChIJA7e85AiylUcRdYldB5ikDUc,Building materials store,0.0,0.0
 ChIJC6QcMmKxlUcR8e-y-NjwMy0,Building materials store,40.0,5.0
 ChIJTREKL1mxlUcRMBjffbtjqiU,Building materials store,52.0,4.5
-ChIJD_fHTEaxlUcR0m_mY5VJ3e0,Building materials store,,
+ChIJD_fHTEaxlUcR0m_mY5VJ3e0,Building materials store,0.0,0.0
 ChIJ4aC3Z1ixlUcRo-hFLhhcCtA,Building materials store,492.0,4.2
 ChIJt5jxZ7uxlUcRXqJ2AI-DJoM,Building materials store,13.0,4.6
 ChIJ1X5Bx_mxlUcRLmHdkDfEBKo,Building materials store,22.0,4.3
 ChIJIXG_iFixlUcRckL_AE3Wp_A,Building materials store,13.0,4.4
-ChIJo-mUCwixlUcRdJt6pik8Py4,Building materials store,,
+ChIJo-mUCwixlUcRdJt6pik8Py4,Building materials store,0.0,0.0
 ChIJvZbjHVixlUcRUWPXuDnoVdE,Building materials store,242.0,4.2
 ChIJbwXokkCxlUcRRgdf5bHVfVU,Building materials store,2.0,5.0
 ChIJlf-fcbm1lUcRlM1cuv0PLqw,Building materials store,26.0,4.8
 ChIJJc1H1l-xlUcR3o_m4eVEWWw,Building materials store,157.0,4.6
 ChIJqY-m7HuxlUcR5S6T4gom2Go,Building materials store,5.0,4.0
-ChIJ_ykomFixlUcRurqUu8Uuqnk,Building materials store,,
+ChIJ_ykomFixlUcRurqUu8Uuqnk,Building materials store,0.0,0.0
 ChIJtSxBkdezlUcR9Va-ecHMt2Y,Building materials store,6.0,3.8
 ChIJu1qCz4yxlUcRnhCyb9V3UYc,Building materials store,6.0,5.0
 ChIJp4E1xHazlUcRFoG4xrA56mg,Building materials store,8.0,4.9
 ChIJW0CTjz1_C0ERSP_u3aptdjU,Building materials store,43.0,5.0
 ChIJEVAWtFixlUcR6RA8Kec2ycw,Building materials store,17.0,4.5
 ChIJiw0avCuylUcR4hZRyrw0dF4,Building materials store,9.0,4.7
-ChIJo6WeKYyzlUcRCSUv2lhXXZg,Building materials store,,
+ChIJo6WeKYyzlUcRCSUv2lhXXZg,Building materials store,0.0,0.0
 ChIJUz9OanuxlUcRWsRkEvix_HU,Building materials store,541.0,4.1
 ChIJsV8LuHW0lUcRE1OLbQisqNI,Building materials store,29.0,4.8
 ChIJJVG4WVexlUcRRyFC0OQL8Bc,Building materials store,36.0,4.3
 ChIJKd17wON-C0ERo2PR67KGmnw,Building materials store,6.0,4.8
-ChIJEwPVUPKzlUcRh4mqLeSEp4I,Building materials store,,
+ChIJEwPVUPKzlUcRh4mqLeSEp4I,Building materials store,0.0,0.0
 ChIJ76xpmHmxlUcRKFO9dKV5FlE,Building materials store,7.0,5.0
 ChIJ89lozVOxlUcRI_bzfejmUl0,Building materials store,303.0,4.5
 ChIJxbKylWWxlUcRzw1Aocm9TBc,Hair salon,1.0,5.0
-ChIJ6xRwSxSylUcRfNBR4z80czI,Hair salon,,
+ChIJ6xRwSxSylUcRfNBR4z80czI,Hair salon,0.0,0.0
 ChIJx4iw6U2xlUcRgi7VZEPPjCk,Hair salon,8.0,5.0
 ChIJ96inCF6xlUcRrXlbqWD_qKk,Hair salon,160.0,4.8
 ChIJad_S0hizlUcRCnU-BTjGsrY,Hair salon,94.0,4.6
-ChIJK-BKl1ixlUcRZgG4Ppvp3P4,Hair salon,,
+ChIJK-BKl1ixlUcRZgG4Ppvp3P4,Hair salon,0.0,0.0
 ChIJDUVHGBGylUcRNkwABh0KnQE,Hair salon,4.0,4.8
 ChIJtYXGW0yzlUcRex-mbpbJWkU,Hair salon,11.0,5.0
 ChIJowkGGqaxlUcRIzAOyXjq4So,Hair salon,13.0,4.5
@@ -568,12 +568,12 @@ ChIJQeKW9FqxlUcRW-v1MwdIinQ,Hair salon,14.0,4.9
 ChIJZRcWz3yxlUcR34eoeuSQ8lY,Hair salon,10.0,4.0
 ChIJASDXLGOxlUcRgcIdxUCfBBg,Hair salon,95.0,4.7
 ChIJsU9G4BmylUcRE_s1OoFrAAo,Hair salon,20.0,4.7
-ChIJnXXPEwWylUcRhMkg0rmvp_k,Hair salon,,
-ChIJxWsPd0OxlUcRn3XhQ3D2Y78,Hair salon,,
+ChIJnXXPEwWylUcRhMkg0rmvp_k,Hair salon,0.0,0.0
+ChIJxWsPd0OxlUcRn3XhQ3D2Y78,Hair salon,0.0,0.0
 ChIJE99bYEqxlUcRQJnsmUClVMM,Hair salon,10.0,5.0
 ChIJpzhzH6sfvUcREZwQ4ZwUqj4,Hair salon,5.0,5.0
-ChIJC1GuUTOzlUcRQ-rLVVnuPHw,Hair salon,,
-ChIJGdMJ9BCzlUcRdYQOqdbIcoQ,Hair salon,,
+ChIJC1GuUTOzlUcRQ-rLVVnuPHw,Hair salon,0.0,0.0
+ChIJGdMJ9BCzlUcRdYQOqdbIcoQ,Hair salon,0.0,0.0
 ChIJH-0yA-CzlUcRhvXgCwKdfJM,Hair salon,112.0,4.6
 ChIJ18cJEh5_C0ERlYKrBS962eg,Hair salon,69.0,4.7
 ChIJ17X52nyxlUcR_h812iBwcBY,Hair salon,27.0,4.5
@@ -595,18 +595,18 @@ ChIJjb-xSFuxlUcRbqOEAmfjG3A,Hair salon,24.0,4.6
 ChIJIWGRry2xlUcRCkhHSi8nC3g,Hair salon,12.0,4.5
 ChIJL3V993yxlUcRCcfo6jdqO6E,Hair salon,50.0,4.7
 ChIJfzQhFoGxlUcRFJgIS0lpfeA,Hair salon,4.0,5.0
-ChIJY1VVVaa2lUcRjKKLpCBVZag,Hair salon,,
+ChIJY1VVVaa2lUcRjKKLpCBVZag,Hair salon,0.0,0.0
 ChIJ8df8HSGxlUcROpKmkUbwI9k,Hair salon,25.0,5.0
 ChIJNQ_bMAK0lUcRUwuxwyms8pE,Hair salon,47.0,4.9
 ChIJhQkZvZKxlUcRuUe7Fmj0eQY,Hair salon,14.0,4.8
 ChIJOUDHeYuzlUcR37_Ptgd300U,Adult education school,16.0,4.1
-ChIJvwgbrGGxlUcRTWxdVYtIBpc,Adult education school,,
-ChIJXUAKLaKzlUcR3fbzcS2QDXw,Adult education school,,
+ChIJvwgbrGGxlUcRTWxdVYtIBpc,Adult education school,0.0,0.0
+ChIJXUAKLaKzlUcR3fbzcS2QDXw,Adult education school,0.0,0.0
 ChIJ1e07zVOxlUcR7-i9Dswum_w,Adult education school,47.0,3.2
 ChIJw7lRTPyzlUcRaBjRiP1S_4U,Adult education school,14.0,4.6
-ChIJe2RVWoyzlUcRg2woqKuY4QA,Adult education school,,
+ChIJe2RVWoyzlUcRg2woqKuY4QA,Adult education school,0.0,0.0
 ChIJVwhv72KxlUcR0SC6nAkyiS4,Adult education school,27.0,3.4
-ChIJucAUN8SxlUcRf_QoclZ7ab0,Drilling contractor,,
+ChIJucAUN8SxlUcRf_QoclZ7ab0,Drilling contractor,0.0,0.0
 ChIJNy2zOIyxlUcRea1qIu0RQ48,Drilling contractor,15.0,4.6
 ChIJH7BTK5WxlUcRA5pEyxERlmU,Elementary school,12.0,4.3
 ChIJtSsuOzixlUcR5P-SznDqXsU,Elementary school,4.0,4.5
@@ -619,7 +619,7 @@ ChIJ22vVtPizlUcRCNl9JNUyaxQ,Elementary school,14.0,4.4
 ChIJ8Z0bM1GxlUcRbk120S93Y7s,Elementary school,6.0,4.2
 ChIJecz47RCylUcRl6nfYvhW1lE,Elementary school,5.0,3.4
 ChIJhRTlB8CxlUcRx4tfS2EgNNQ,Elementary school,2.0,5.0
-ChIJ25vw7PezlUcRdHhrTobwI3Y,Lawyer,,
+ChIJ25vw7PezlUcRdHhrTobwI3Y,Lawyer,0.0,0.0
 ChIJQ4tZWoyzlUcROXUnzBJt6mE,Lawyer,5.0,5.0
 ChIJ1Vy0cJm2lUcRhGVfd5wbh98,Lawyer,1.0,5.0
 ChIJNQPlyBmylUcROvlFTDuZuLk,Lawyer,8.0,4.9
@@ -630,9 +630,9 @@ ChIJY9vBzRm0lUcR7gYLFk2lWzM,Lawyer,1.0,5.0
 ChIJOdz6RKm2lUcR9PBP6cMaX4s,Lawyer,2.0,5.0
 ChIJcZRR_pSxlUcRNvJcBNHvVFo,Lawyer,15.0,4.2
 ChIJSwrtUFuxlUcRMlFUJ-WD-4k,Lawyer,3.0,3.7
-ChIJn_mz4eSzlUcRWIgY3JXXSB0,Lawyer,,
-ChIJwYcQOqyxlUcRNipbqrSMw_g,Lawyer,,
-ChIJi7XvUD5_C0ERKk9JEMxKZ4g,Lawyer,,
+ChIJn_mz4eSzlUcRWIgY3JXXSB0,Lawyer,0.0,0.0
+ChIJwYcQOqyxlUcRNipbqrSMw_g,Lawyer,0.0,0.0
+ChIJi7XvUD5_C0ERKk9JEMxKZ4g,Lawyer,0.0,0.0
 ChIJMdopmCmylUcRtmCb_gY2GbE,Lawyer,6.0,5.0
 ChIJZdyK3aW2lUcRbhpCmD5ayWo,Lawyer,104.0,1.6
 ChIJ6Y6cwg-0lUcRsli-1FEe5s4,Lawyer,12.0,4.4
@@ -641,22 +641,22 @@ ChIJNZkZ0l-xlUcR_zm3mimNwTk,Lawyer,143.0,4.6
 ChIJ77BZol-xlUcRLSxH-cPMeaM,Lawyer,18.0,4.3
 ChIJoU2lWV2xlUcRLsY3TmiQC6w,Lawyer,3.0,5.0
 ChIJK5EXzKi2lUcRU0McvLLVvP4,Lawyer,9.0,3.6
-ChIJ4V3dAmGxlUcR7ngLiM-hTZc,Lawyer,,
+ChIJ4V3dAmGxlUcR7ngLiM-hTZc,Lawyer,0.0,0.0
 ChIJy-UjPqS2lUcRnN_lHwtSCiw,Lawyer,60.0,5.0
-ChIJj4T5Uz5_C0ER0AJd2v3eNNk,Lawyer,,
+ChIJj4T5Uz5_C0ER0AJd2v3eNNk,Lawyer,0.0,0.0
 ChIJf3L0TGCxlUcR84e14UtM1q0,Lawyer,27.0,5.0
 ChIJq5a5Lh20lUcR6qv8wx6LF2Q,Lawyer,47.0,4.2
 ChIJSek-9wexlUcRvuVchZDI4uA,Lawyer,1.0,5.0
 ChIJ42jkohC0lUcRvb79coAsqNE,Lawyer,2.0,4.5
 ChIJTX4Cdhe0lUcRQQ-9Oj0BFXw,Lawyer,6.0,2.9
-ChIJD38mPzyzlUcRft6rmJEIgAM,Lawyer,,
+ChIJD38mPzyzlUcRft6rmJEIgAM,Lawyer,0.0,0.0
 ChIJd61HSSqylUcR_IzoSetZCHE,Lawyer,54.0,4.5
-ChIJ0_WWp4qxlUcRjrWPZTMjHNw,Lawyer,,
+ChIJ0_WWp4qxlUcRjrWPZTMjHNw,Lawyer,0.0,0.0
 ChIJrRo7-XCulUcRrNL5WPUtZ6w,Lawyer,13.0,5.0
 ChIJ5XPm0HyxlUcR6Q8MRx0YCSg,Lawyer,1.0,3.0
 ChIJMy_-9paxlUcRntnFFF5N4Yk,Waldorf school,2.0,4.5
-ChIJTVPZRmSxlUcRUZ_5ZoSKT44,Piano instructor,,
-ChIJ82GR1RSxlUcR5iuZdXW86lg,Piano instructor,,
+ChIJTVPZRmSxlUcRUZ_5ZoSKT44,Piano instructor,0.0,0.0
+ChIJ82GR1RSxlUcR5iuZdXW86lg,Piano instructor,0.0,0.0
 ChIJwwybyOizlUcRS39xqW4bplw,Thai restaurant,1765.0,4.4
 ChIJT-20OtWzlUcR3V4zJf_MdDE,Thai restaurant,205.0,4.4
 ChIJaZkLcFSxlUcRFVFF-nXQh0E,Thai restaurant,166.0,4.7
@@ -666,7 +666,7 @@ ChIJYb0HIRGylUcR0o5Ix7IEU-c,Thai restaurant,177.0,4.6
 ChIJeXThOf-zlUcR-pT2BDHiN2I,Facial spa,125.0,4.7
 ChIJcQ0lO_GzlUcRlldPFA5Uzpw,Facial spa,12.0,4.7
 ChIJe_byE2ixlUcR65TRD4O59Ig,Oral surgeon,16.0,4.7
-ChIJFSP5K6qxlUcRqLnlFCi_5fM,Oral surgeon,,
+ChIJFSP5K6qxlUcRqLnlFCi_5fM,Oral surgeon,0.0,0.0
 ChIJazmVEZSxlUcRAz9wnKtNwD8,Pizza delivery,30.0,4.0
 ChIJY-6rpEaxlUcRZhkowUIJyHA,Pizza delivery,49.0,4.1
 ChIJSYMTt2KxlUcR9g8LOokoYD8,Pizza delivery,7.0,4.1
@@ -677,7 +677,7 @@ ChIJPa4hMiqylUcR285costtp1k,Pizza delivery,457.0,4.5
 ChIJaatPuPexlUcRBaDfUdb6Xds,Pizza delivery,174.0,4.6
 ChIJh0Xga9OzlUcRKyfou-4JsEw,Pizza delivery,124.0,3.8
 ChIJdflhRGuxlUcR2QYAgjJ4MQg,Pizza delivery,1.0,1.0
-ChIJ53cqskSzlUcR4d5rLvQ-5Jo,Pizza delivery,,
+ChIJ53cqskSzlUcR4d5rLvQ-5Jo,Pizza delivery,0.0,0.0
 ChIJjxJeoiWxlUcRjT6xJM8NE-A,Pizza delivery,80.0,4.4
 ChIJg7YL3muxlUcRJOwPQxFCmbU,Home builder,8.0,3.0
 ChIJgQgBm_yzlUcRL1a5oD0YRL8,Home builder,4.0,3.8
@@ -687,19 +687,19 @@ ChIJpc2U2_6zlUcR8L6AZiEf0bA,Home builder,6.0,3.0
 ChIJ_--7PSSzlUcRw3ImIduD-OQ,Home builder,3.0,5.0
 ChIJSUoQhdexlUcR_9hAeGwTmIY,Home builder,24.0,4.8
 ChIJhT31egKzlUcRXeeGrwNTQR8,Home builder,11.0,5.0
-ChIJL6aUF9WzlUcRJ2BLEX6fKtI,Home builder,,
+ChIJL6aUF9WzlUcRJ2BLEX6fKtI,Home builder,0.0,0.0
 ChIJP6vvLdSzlUcRTl6XaV0-TfI,Home builder,4.0,5.0
-ChIJM2Qj3NazlUcRp91IwwgZgQE,Home builder,,
-ChIJFfYUaWKxlUcRv3A-AGaCzQQ,Home builder,,
+ChIJM2Qj3NazlUcRp91IwwgZgQE,Home builder,0.0,0.0
+ChIJFfYUaWKxlUcRv3A-AGaCzQQ,Home builder,0.0,0.0
 ChIJUUONCS-ylUcRmoZvPnXowTg,Home builder,4.0,5.0
 ChIJ86Rf6i8qqAgRSGxOEVWKLtA,Home builder,2.0,5.0
 ChIJaVVMwZ2xlUcRtbXJu44X58s,Home builder,13.0,3.5
-ChIJ1WCr1H2xlUcRm0tTCsI0OWU,Home builder,,
+ChIJ1WCr1H2xlUcRm0tTCsI0OWU,Home builder,0.0,0.0
 ChIJJV9n_fizlUcRBP2dqCQLe1c,Home builder,1.0,5.0
 ChIJy_7XEvyxlUcRSOi28uJypa0,Home builder,11.0,4.6
 ChIJ6Z_4GCmylUcRD3UVS8EX7p0,Home builder,3.0,4.7
 ChIJRWYzzKaxlUcRI0b_pjvRNl0,Home builder,6.0,5.0
-ChIJ3zUIV4ixlUcRX7kxRolyko0,Home builder,,
+ChIJ3zUIV4ixlUcRX7kxRolyko0,Home builder,0.0,0.0
 ChIJ_6cbYmexlUcRN6WPTkfyy_k,Home builder,12.0,3.6
 ChIJccg7yYuzlUcRhGMu03tes5s,Home builder,44.0,4.2
 ChIJucxqIq82qIERnxiVHnkf_3I,Home builder,3.0,5.0
@@ -709,13 +709,13 @@ ChIJ89GkXNazlUcR8xPCfd-Zv-E,Home builder,15.0,4.7
 ChIJG1TBCgSylUcRy_5Z5QGBYCA,Home builder,6.0,4.8
 ChIJVVUFNbe2lUcRGapQW_JVmvg,Home builder,13.0,5.0
 ChIJ68vP5BOylUcROKwrtRb_BIQ,Home builder,7.0,4.0
-ChIJAQBQLFKxlUcRK5YTcBqETo8,Home builder,,
+ChIJAQBQLFKxlUcRK5YTcBqETo8,Home builder,0.0,0.0
 ChIJm4EDjYqxlUcRZDl4pG4l5w0,Home builder,2.0,2.5
 ChIJ8dGVY_ezlUcR6BL8GoOg9n8,Home builder,18.0,4.7
 ChIJF6KXZYyzlUcRXpcHjIseGwk,Home builder,18.0,5.0
-ChIJKTqMch6ylUcRI9fC1PJFqeo,Home builder,,
-ChIJ96Ddy-uxlUcRSx4LSvk31Rs,Home builder,,
-ChIJUbOv0HexlUcRYi30g9cgbJA,Home builder,,
+ChIJKTqMch6ylUcRI9fC1PJFqeo,Home builder,0.0,0.0
+ChIJ96Ddy-uxlUcRSx4LSvk31Rs,Home builder,0.0,0.0
+ChIJUbOv0HexlUcRYi30g9cgbJA,Home builder,0.0,0.0
 ChIJuabYOtazlUcRRgQo53hHL6k,Home builder,7.0,4.4
 ChIJgb18PF6xlUcRcNtnHnyrFFA,Home builder,5.0,5.0
 ChIJM4-HlAmylUcRxpmLmdiWZh4,Home builder,5.0,3.8
@@ -736,12 +736,12 @@ ChIJA7XOdJ6xlUcROV4wBwPh0Ew,Home builder,5.0,4.5
 ChIJLQJbE3uxlUcRqLcyjKdr4zg,Home builder,14.0,4.5
 ChIJGYQP5YWxlUcRFcdq5_RjfFs,Home builder,1.0,5.0
 ChIJ_X5cPka3lUcRZzTeQKUdykk,Home builder,1.0,1.0
-ChIJ3fFr3WuxlUcRHMzEpieE5pY,Home builder,,
+ChIJ3fFr3WuxlUcRHMzEpieE5pY,Home builder,0.0,0.0
 ChIJBwozHPJ-C0ER3CldL6xFYII,Home builder,3.0,3.7
 ChIJtz9Eom6ulUcR8kxhwWneCfY,Home builder,4.0,5.0
 ChIJJYrxmHaxlUcRZA8fm5tirkk,Home builder,9.0,4.9
 ChIJMyk12GmxlUcRREzowuAaH5A,Home builder,5.0,4.4
-ChIJNZkZ0l-xlUcRbov_-u83Pt8,Home builder,,
+ChIJNZkZ0l-xlUcRbov_-u83Pt8,Home builder,0.0,0.0
 ChIJK8ZNNo-xlUcRbwogtt1E9es,Home builder,4.0,5.0
 ChIJG545TpqxlUcRS7uuYosL1nk,Home builder,5.0,4.8
 ChIJM8m4lGaxlUcR3-qaFjWRnkA,Home builder,26.0,4.8
@@ -757,20 +757,20 @@ ChIJZ_a-94yxlUcRYo5VhPcRVkQ,Home builder,4.0,3.7
 ChIJrTYlpmqxlUcRF7gPWABAQBY,Home builder,2.0,5.0
 ChIJ4XM3cfizlUcRFczfecw0sdA,Home builder,7.0,5.0
 ChIJMWoQpGKxlUcRWGowoy3UlmY,Home builder,26.0,3.8
-ChIJ6xN0KoSxlUcR-2qYisfLli4,Home builder,,
-ChIJ6Ux7mvWtlUcRi8R-B1rrF1I,Home builder,,
-ChIJFUCLnb-xlUcROsQJqtKAaBU,Home builder,,
-ChIJtZr2FHmxlUcR8Y8JV_-HESc,Home builder,,
+ChIJ6xN0KoSxlUcR-2qYisfLli4,Home builder,0.0,0.0
+ChIJ6Ux7mvWtlUcRi8R-B1rrF1I,Home builder,0.0,0.0
+ChIJFUCLnb-xlUcROsQJqtKAaBU,Home builder,0.0,0.0
+ChIJtZr2FHmxlUcR8Y8JV_-HESc,Home builder,0.0,0.0
 ChIJ8TOGzE6xlUcRWVQYkwcwwLs,Home builder,14.0,4.4
-ChIJlwY8VACxlUcRgEsqgcfTHE4,Home builder,,
+ChIJlwY8VACxlUcRgEsqgcfTHE4,Home builder,0.0,0.0
 ChIJ07szLkmxlUcRU-wlVOYHccQ,Home builder,5.0,4.4
 ChIJXWMlNR2xlUcR52BzsxJNWPg,Home builder,2.0,3.0
 ChIJ0dStYQqylUcR1Bj2xJpZwVs,Home builder,1.0,2.0
 ChIJD3hrgjyylUcRZGJYSTtUccE,Home builder,1.0,5.0
 ChIJNXmi-vF-C0ERL7Jjm1xAt_Q,Home builder,1.0,5.0
 ChIJK20G85WxlUcRbfQ5KUDN1GY,Home builder,3.0,5.0
-ChIJP20I0wWylUcRVVDPiZKpLzs,Home builder,,
-ChIJpwXSaiKzlUcRwaq2NYCDbD4,Home builder,,
+ChIJP20I0wWylUcRVVDPiZKpLzs,Home builder,0.0,0.0
+ChIJpwXSaiKzlUcRwaq2NYCDbD4,Home builder,0.0,0.0
 ChIJ6TKDZU6xlUcRp4Y9Dv-EVsE,Home builder,2.0,5.0
 ChIJaTeI3BeylUcRB5uG30_tcjw,Home builder,5.0,5.0
 ChIJ1Rq_bwSylUcRJ5ADcwU1pa8,Home builder,2.0,5.0
@@ -780,14 +780,14 @@ ChIJy9-ffWGxlUcRhk-UALiab5g,Home builder,11.0,4.3
 ChIJozxRHQaylUcR333Dk2LbxQM,Home builder,9.0,5.0
 ChIJTeWUKMCxlUcRmzZNwE1QKec,Home builder,3.0,2.3
 ChIJt52IghaylUcRzEh6QDXIMhA,Home builder,6.0,4.2
-ChIJdejT61yxlUcRQ4rqSRgbl3I,Home builder,,
+ChIJdejT61yxlUcRQ4rqSRgbl3I,Home builder,0.0,0.0
 ChIJQw4J8RaylUcRN6UlsItCkZI,Home builder,12.0,5.0
-ChIJQzL-g-uxlUcRqAmBBRrJH_M,Home builder,,
+ChIJQzL-g-uxlUcRqAmBBRrJH_M,Home builder,0.0,0.0
 ChIJzxIUF9WxlUcRK8PX1xt63Bg,Home builder,1.0,1.0
-ChIJ-5bUmZqxlUcRGn4DRQI3Nr0,Home builder,,
+ChIJ-5bUmZqxlUcRGn4DRQI3Nr0,Home builder,0.0,0.0
 ChIJuatiey-ylUcRvfyw_p697JM,Home builder,6.0,4.3
 ChIJ-a-sr1axlUcRo7sdw0GAEao,Home builder,42.0,3.4
-ChIJL3CXuv6zlUcRT-WXUBrE1p8,Home builder,,
+ChIJL3CXuv6zlUcRT-WXUBrE1p8,Home builder,0.0,0.0
 ChIJo_-Yoi6ylUcRMlqfL09yhpg,Home builder,2.0,5.0
 ChIJ-abmuheylUcRkoZZ-MEFz0s,Home builder,5.0,5.0
 ChIJAa887-yxlUcRcv6-TgBvz7U,Home builder,2.0,4.5
@@ -795,8 +795,8 @@ ChIJKUdVWRizlUcRI3QnhsnVyMI,Home builder,1.0,5.0
 ChIJGWUpxYyxlUcRsGcjk-iVnDA,Home builder,81.0,5.0
 ChIJYZslyfSxlUcRBMd-Yr6sTdI,Home builder,2.0,5.0
 ChIJL77S5oqxlUcRH9BnvRPLhuY,Home builder,6.0,2.3
-ChIJV88cYD-xlUcRM5qCTS5yI4w,Home builder,,
-ChIJHSnh452xlUcRynP_w-rFqiE,Home builder,,
+ChIJV88cYD-xlUcRM5qCTS5yI4w,Home builder,0.0,0.0
+ChIJHSnh452xlUcRynP_w-rFqiE,Home builder,0.0,0.0
 ChIJ5516BUixlUcRcdZBWGGjFOA,Home builder,3.0,5.0
 ChIJeVAZieyxlUcRNMnlmck0pIY,Home builder,5.0,5.0
 ChIJ4a6tfouzlUcRu6w8q9lGvPU,Home builder,2.0,5.0
@@ -809,20 +809,20 @@ ChIJH_mpKiGylUcRVrVBxD_PxDs,Home builder,1.0,3.0
 ChIJ8QimnYOzlUcRrrThFtdMQGw,Home builder,2.0,5.0
 ChIJ29pDsyKylUcRcJ2GDefNeGk,Home builder,6.0,3.0
 ChIJNS2uLUWxlUcR9J4Fy9sdJig,Home builder,20.0,4.1
-ChIJ47m-c_yzlUcRe4rC3eCp8oU,Home builder,,
+ChIJ47m-c_yzlUcRe4rC3eCp8oU,Home builder,0.0,0.0
 ChIJdzJUgY61lUcRW49yHohPr6I,Home builder,2.0,5.0
-ChIJHSnh452xlUcRyt4hlA53-68,Home builder,,
+ChIJHSnh452xlUcRyt4hlA53-68,Home builder,0.0,0.0
 ChIJT93FZmGxlUcR9QlJtlcx1nQ,Home builder,13.0,5.0
 ChIJE4Kc9e-zlUcR-K4l9IHO9VE,Home builder,1.0,5.0
 ChIJNW5rlhUxoKcRiokSXAiRRgM,Home builder,6.0,5.0
 ChIJLauXmkixlUcRb8mOcDtKKe4,Home builder,3.0,3.7
 ChIJqZBlIGWxlUcRr799KCQX-H0,Home builder,2.0,3.0
-ChIJ_XHPFqSxlUcRBGZTKyaKDas,Home builder,,
+ChIJ_XHPFqSxlUcRBGZTKyaKDas,Home builder,0.0,0.0
 ChIJ29pFEESxlUcRC3lzpvpQHxg,Home builder,2.0,4.5
 ChIJgTy505uxlUcR6BxV2VC3Rds,Home builder,1.0,5.0
-ChIJxZzoPYyxlUcRQ7Ah3R5FQS4,Home builder,,
+ChIJxZzoPYyxlUcRQ7Ah3R5FQS4,Home builder,0.0,0.0
 ChIJO_vjiwKylUcRr6OSkMu9nbI,Home builder,7.0,5.0
-ChIJhXxeau2xlUcREIwnfoBZLSU,Home builder,,
+ChIJhXxeau2xlUcREIwnfoBZLSU,Home builder,0.0,0.0
 ChIJkzbhqo5-C0ERonXe05QmZJw,Home builder,9.0,3.3
 ChIJd7s6ITaxlUcRs67nSO4KIgE,Home builder,4.0,5.0
 ChIJmZu3B-uxlUcRDhy55NYek8c,Home builder,5.0,5.0
@@ -830,13 +830,13 @@ ChIJD-FLYKi1lUcRBmVUcLrBCwA,Home builder,12.0,5.0
 ChIJewhf0uqxlUcRNV_ihmEGKHk,Home builder,11.0,4.1
 ChIJ-_N8AzCylUcRdi3z1OpwlZg,Home builder,40.0,4.5
 ChIJt52IghaylUcRtoGflRdCZ2s,Home builder,1.0,5.0
-ChIJ0yMMrLOzlUcRSAD491kyWr8,Home builder,,
+ChIJ0yMMrLOzlUcRSAD491kyWr8,Home builder,0.0,0.0
 ChIJESsWoGOxlUcRn08d1rzHIR4,Home builder,6.0,3.7
-ChIJAZ5NfqyzlUcRLLn0sJMe49A,Home builder,,
+ChIJAZ5NfqyzlUcRLLn0sJMe49A,Home builder,0.0,0.0
 ChIJ52wh6v2zlUcRg84IO0YFhsE,Home builder,1.0,5.0
 ChIJLyOWTeSzlUcRo_Kj8fYn_lI,Home builder,3.0,5.0
-ChIJXVHEuv-zlUcRo2xMkqnP5XI,Home builder,,
-ChIJJ5DNI_SxlUcRLYakjZgtFn8,Home builder,,
+ChIJXVHEuv-zlUcRo2xMkqnP5XI,Home builder,0.0,0.0
+ChIJJ5DNI_SxlUcRLYakjZgtFn8,Home builder,0.0,0.0
 ChIJUfoN-yKylUcRYIDwP7IaTYc,Home builder,6.0,5.0
 ChIJ1_4J1L-xlUcRvrllJptKSCY,Home builder,6.0,5.0
 ChIJe6TkFDmxlUcREQn3OztSJp8,Home builder,11.0,5.0
@@ -856,10 +856,10 @@ ChIJkaxuB3yxlUcRCKChEIwzMJI,Home builder,2.0,3.0
 ChIJo_KTzfizlUcRDjgiXVvSQB4,Home builder,2.0,5.0
 ChIJDcycG8GxlUcRZvEfzt_GV0I,Home builder,3.0,5.0
 ChIJSaVyWw-ylUcRdoBDZYvsIqs,Home builder,2.0,3.5
-ChIJRySb5vizlUcRMxc_7mUhkNM,Home builder,,
+ChIJRySb5vizlUcRMxc_7mUhkNM,Home builder,0.0,0.0
 ChIJJ6nSuxG2lUcRlqh_zk2BbWk,Home builder,7.0,5.0
 ChIJR0r5eUKxlUcRpxJgV3_eWX4,Home builder,19.0,5.0
-ChIJtUrIUTexlUcRTEhbDkS1nKE,Home builder,,
+ChIJtUrIUTexlUcRTEhbDkS1nKE,Home builder,0.0,0.0
 ChIJNZkZ0l-xlUcRzeag_30WrKE,Home builder,1.0,5.0
 ChIJIclRdXexlUcRIingZxTbUkc,Home builder,3.0,5.0
 ChIJb1K1QIKzlUcRrlwdC0iiQSM,Home builder,29.0,5.0
@@ -867,13 +867,13 @@ ChIJI-mZAlK0lUcREHozJ4e21DU,Home builder,65.0,1.6
 ChIJUXkd7SeylUcRw60MiL31y4M,Home builder,3.0,5.0
 ChIJ2Y_TMhyylUcRdQnHC1kxogQ,Home builder,4.0,4.8
 ChIJ-wEdKfOxlUcR6lxt55utUGY,Home builder,1.0,5.0
-ChIJvxFUZp2zlUcRpEOcLe5hiXU,Home builder,,
-ChIJwSFHC_ixlUcRndIHFBDl3Qg,Home builder,,
+ChIJvxFUZp2zlUcRpEOcLe5hiXU,Home builder,0.0,0.0
+ChIJwSFHC_ixlUcRndIHFBDl3Qg,Home builder,0.0,0.0
 ChIJc38km2qxlUcR5-jw8wxoPWA,Home builder,21.0,4.6
 ChIJIwvKlGaxlUcRnRu3Gl3ywa4,Home builder,90.0,4.2
-ChIJAQB0H3yxlUcRE7JNUcyvzyI,Home builder,,
+ChIJAQB0H3yxlUcRE7JNUcyvzyI,Home builder,0.0,0.0
 ChIJl6Mm8L6xlUcRKN_Zj_arhTQ,Home builder,2.0,2.5
-ChIJPfz27QOylUcRGKd80PWw29g,Home builder,,
+ChIJPfz27QOylUcRGKd80PWw29g,Home builder,0.0,0.0
 ChIJj64h_uF-C0ERQ2H1C-s_1bY,Pizza restaurant,391.0,4.4
 ChIJU24JFlexlUcRv1HlrU1TEss,Pizza restaurant,5.0,3.4
 ChIJ_VMkj9KzlUcRBWpz7_ZzcAo,Pizza restaurant,140.0,4.2
@@ -887,291 +887,291 @@ ChIJK7jpilqxlUcR-RMSSKYEifk,Pizza restaurant,30.0,3.8
 ChIJs7k3llGzlUcR70KHOnxyrKg,Pizza restaurant,33.0,4.5
 ChIJ-Q22eVmxlUcRnKzyumk5A28,Pizza restaurant,1.0,3.0
 ChIJN5eSfFexlUcRwgDZcNr0af4,Pizza restaurant,264.0,4.1
-ChIJFYicK1ixlUcRPnY_IWurtu8,Pizza restaurant,,
+ChIJFYicK1ixlUcRPnY_IWurtu8,Pizza restaurant,0.0,0.0
 ChIJw161y7-xlUcRt1e8RJ9t8PU,Pizza restaurant,181.0,4.3
 ChIJw70AoOezlUcR0eg__Yx2Nek,Pizza restaurant,26.0,4.5
 ChIJi-DLD5WxlUcR1KG1alV5kxk,Flooring store,4.0,3.5
 ChIJeQnxUBKxlUcR1vZNdhbPPeQ,Artist,11.0,5.0
-ChIJ5_I7-VaxlUcRdtR3wFScNvI,Artist,,
-ChIJLROJm_izlUcR1F-rAzAFWTA,Artist,,
-ChIJeWjXgf6xlUcR238YWRf9io4,Artist,,
+ChIJ5_I7-VaxlUcRdtR3wFScNvI,Artist,0.0,0.0
+ChIJLROJm_izlUcR1F-rAzAFWTA,Artist,0.0,0.0
+ChIJeWjXgf6xlUcR238YWRf9io4,Artist,0.0,0.0
 ChIJleKmaAe0lUcRiEKCZ5ST4qY,Artist,69.0,4.9
-ChIJS26jCv6zlUcRkFBOB7B85M0,Artist,,
-ChIJYYaFkvyzlUcRmo0npIMPjeY,Artist,,
-ChIJ02D2K1KxlUcRkSBZzIMXRnA,Grocery store,,
-ChIJSy1OolaxlUcR2ivV2MctNl8,Grocery store,,
-ChIJZdJgcFexlUcRbWE9WmNqEq4,Grocery store,,
-ChIJGciVGACxlUcReXzCjA9rmNQ,Grocery store,1.0,
+ChIJS26jCv6zlUcRkFBOB7B85M0,Artist,0.0,0.0
+ChIJYYaFkvyzlUcRmo0npIMPjeY,Artist,0.0,0.0
+ChIJ02D2K1KxlUcRkSBZzIMXRnA,Grocery store,0.0,0.0
+ChIJSy1OolaxlUcR2ivV2MctNl8,Grocery store,0.0,0.0
+ChIJZdJgcFexlUcRbWE9WmNqEq4,Grocery store,0.0,0.0
+ChIJGciVGACxlUcReXzCjA9rmNQ,Grocery store,1.0,0.0
 ChIJF2c3S9GxlUcR4L5x_Tom21s,Grocery store,27.0,3.8
 ChIJBWFa3wOzlUcRr9uIRwwe7q4,Grocery store,14.0,2.1
 ChIJ7cH5apWxlUcR6eudEdL2qxo,Grocery store,31.0,4.4
 ChIJk9se9POxlUcReZnYkX8gqk4,Grocery store,27.0,4.8
 ChIJM0A9hlaxlUcRAuUHkq10Kjk,Grocery store,84.0,3.8
 ChIJjdV1OmOxlUcR2QtmAGyUs8g,Grocery store,1.0,1.0
-ChIJP_uXsSmylUcRL-KpkvEwr_0,Transit station,,
-ChIJa0wmUuqzlUcR3dkYHegttw8,Transit station,,
-ChIJ57_MEGOxlUcRCseRZHXZ-qs,Transit station,,
+ChIJP_uXsSmylUcRL-KpkvEwr_0,Transit station,0.0,0.0
+ChIJa0wmUuqzlUcR3dkYHegttw8,Transit station,0.0,0.0
+ChIJ57_MEGOxlUcRCseRZHXZ-qs,Transit station,0.0,0.0
 ChIJKwIV5GqxlUcRNHl_y0jf0kw,Transit station,6.0,3.7
-ChIJp--pPo2zlUcRd7DupnxutX8,Transit station,,
-ChIJL8Vtk0WxlUcRXptGePCt_W0,Transit station,,
-ChIJNYkCbESxlUcRzMcPVL0ISms,Transit station,,
-ChIJQTzZqkSxlUcRCVFiHtML53Q,Transit station,,
-ChIJcQRk4JGzlUcRDMufIQUKWNM,Transit station,,
-ChIJuyA-qguylUcRYgQRLZRSRWY,Transit station,,
-ChIJJTl9ApWxlUcRzH1x-g8sS24,Transit station,,
-ChIJ-1ZXgk6xlUcRzf768l4D71Y,Transit station,,
-ChIJI7rCgY2xlUcRejTCfVGahss,Transit station,,
-ChIJn93xhh6xlUcRRsy4IVOfLcc,Transit station,,
-ChIJi_QWCmOxlUcRJsSqgf37vcw,Transit station,,
-ChIJ96b09HW0lUcRCJPUM-z4fHs,Transit station,,
+ChIJp--pPo2zlUcRd7DupnxutX8,Transit station,0.0,0.0
+ChIJL8Vtk0WxlUcRXptGePCt_W0,Transit station,0.0,0.0
+ChIJNYkCbESxlUcRzMcPVL0ISms,Transit station,0.0,0.0
+ChIJQTzZqkSxlUcRCVFiHtML53Q,Transit station,0.0,0.0
+ChIJcQRk4JGzlUcRDMufIQUKWNM,Transit station,0.0,0.0
+ChIJuyA-qguylUcRYgQRLZRSRWY,Transit station,0.0,0.0
+ChIJJTl9ApWxlUcRzH1x-g8sS24,Transit station,0.0,0.0
+ChIJ-1ZXgk6xlUcRzf768l4D71Y,Transit station,0.0,0.0
+ChIJI7rCgY2xlUcRejTCfVGahss,Transit station,0.0,0.0
+ChIJn93xhh6xlUcRRsy4IVOfLcc,Transit station,0.0,0.0
+ChIJi_QWCmOxlUcRJsSqgf37vcw,Transit station,0.0,0.0
+ChIJ96b09HW0lUcRCJPUM-z4fHs,Transit station,0.0,0.0
 ChIJaxHcpn6xlUcRiP7CYSxWwpI,Transit station,1.0,5.0
-ChIJMZXe6UGxlUcRIADzuIFV4Ak,Transit station,,
-ChIJnzWaQkKxlUcRsVnfeDaMNoU,Transit station,,
-ChIJc_kCu1yxlUcRzpBaY2CtBiI,Transit station,,
-ChIJbbcnCGixlUcRCDvWo7I33ew,Transit station,,
-ChIJ9Yh2GwKylUcRsyCxM2KgRtY,Transit station,,
-ChIJ793YhPezlUcRnNTwtMQpRE4,Transit station,,
+ChIJMZXe6UGxlUcRIADzuIFV4Ak,Transit station,0.0,0.0
+ChIJnzWaQkKxlUcRsVnfeDaMNoU,Transit station,0.0,0.0
+ChIJc_kCu1yxlUcRzpBaY2CtBiI,Transit station,0.0,0.0
+ChIJbbcnCGixlUcRCDvWo7I33ew,Transit station,0.0,0.0
+ChIJ9Yh2GwKylUcRsyCxM2KgRtY,Transit station,0.0,0.0
+ChIJ793YhPezlUcRnNTwtMQpRE4,Transit station,0.0,0.0
 ChIJFWnGAAmylUcR7Z4VKoHc49M,Transit station,1.0,4.0
-ChIJ85-5Wg-ylUcR59PBsIyIUEw,Transit station,,
+ChIJ85-5Wg-ylUcR59PBsIyIUEw,Transit station,0.0,0.0
 ChIJW0LZtESxlUcRJaBu9WXYKzA,Transit station,1.0,5.0
-ChIJEaQ6u06xlUcRv7oK5YjsVlg,Transit station,,
-ChIJfwqP4EexlUcRkzvBKAViSIc,Transit station,,
-ChIJIxM87wGxlUcRA9f0nGMP-6U,Transit station,,
+ChIJEaQ6u06xlUcRv7oK5YjsVlg,Transit station,0.0,0.0
+ChIJfwqP4EexlUcRkzvBKAViSIc,Transit station,0.0,0.0
+ChIJIxM87wGxlUcRA9f0nGMP-6U,Transit station,0.0,0.0
 ChIJOSFkIWGxlUcRdcErXgY8LhU,Transit station,1.0,5.0
-ChIJJ5iZ_1OxlUcRnpmaBdt3zmk,Transit station,,
-ChIJm-IGwUixlUcRaY9zlOhknxM,Transit station,,
-ChIJTZUquB6ylUcRY4LNZPTEthQ,Transit station,,
+ChIJJ5iZ_1OxlUcRnpmaBdt3zmk,Transit station,0.0,0.0
+ChIJm-IGwUixlUcRaY9zlOhknxM,Transit station,0.0,0.0
+ChIJTZUquB6ylUcRY4LNZPTEthQ,Transit station,0.0,0.0
 ChIJE7diGH-xlUcR3HgpdzrMWCU,Transit station,1.0,5.0
-ChIJOxvBB2ixlUcRtr41SGvYd1g,Transit station,,1.0
-ChIJYXeYVS6ylUcRI8mj2ekjhqs,Transit station,,
-ChIJf2RL73yxlUcRuGyyMXhpHLo,Transit station,,
+ChIJOxvBB2ixlUcRtr41SGvYd1g,Transit station,0.0,1.0
+ChIJYXeYVS6ylUcRI8mj2ekjhqs,Transit station,0.0,0.0
+ChIJf2RL73yxlUcRuGyyMXhpHLo,Transit station,0.0,0.0
 ChIJhX3K02CxlUcRicr3M5JP5V0,Transit station,23.0,2.9
-ChIJfxEO-laxlUcRovNTMl8MpV8,Transit station,,
-ChIJ949t1ZSxlUcRkZquXxL3GiM,Transit station,,
-ChIJVS0NnoaxlUcR6XNojQUpeWw,Transit station,,
-ChIJS8Jz-kOxlUcR0kkp1nvmxEQ,Transit station,,
-ChIJ0SYezfmxlUcRxj1A67_yMjk,Transit station,,
-ChIJE4nXZw6ylUcRrqgLTA51a58,Transit station,,
-ChIJM89oLtWzlUcRP2yK6VLbmV8,Transit station,,
-ChIJ9alWQHyxlUcRO5KKFT6U9WE,Transit station,,
-ChIJF-gBkP-zlUcRLeWP2xzxleo,Transit station,,
-ChIJ7yPEyGSxlUcRZO9SNd18s_I,Transit station,,
-ChIJu93f6QOylUcR4_-KVCWfZcI,Transit station,,
-ChIJqSTO7YyxlUcRVo_Uugthg9E,Transit station,,
-ChIJwQa0ePezlUcR3FJ0-dMU8bU,Transit station,,
-ChIJM9RmCcCxlUcRFVRujTHzcKU,Transit station,,
+ChIJfxEO-laxlUcRovNTMl8MpV8,Transit station,0.0,0.0
+ChIJ949t1ZSxlUcRkZquXxL3GiM,Transit station,0.0,0.0
+ChIJVS0NnoaxlUcR6XNojQUpeWw,Transit station,0.0,0.0
+ChIJS8Jz-kOxlUcR0kkp1nvmxEQ,Transit station,0.0,0.0
+ChIJ0SYezfmxlUcRxj1A67_yMjk,Transit station,0.0,0.0
+ChIJE4nXZw6ylUcRrqgLTA51a58,Transit station,0.0,0.0
+ChIJM89oLtWzlUcRP2yK6VLbmV8,Transit station,0.0,0.0
+ChIJ9alWQHyxlUcRO5KKFT6U9WE,Transit station,0.0,0.0
+ChIJF-gBkP-zlUcRLeWP2xzxleo,Transit station,0.0,0.0
+ChIJ7yPEyGSxlUcRZO9SNd18s_I,Transit station,0.0,0.0
+ChIJu93f6QOylUcR4_-KVCWfZcI,Transit station,0.0,0.0
+ChIJqSTO7YyxlUcRVo_Uugthg9E,Transit station,0.0,0.0
+ChIJwQa0ePezlUcR3FJ0-dMU8bU,Transit station,0.0,0.0
+ChIJM9RmCcCxlUcRFVRujTHzcKU,Transit station,0.0,0.0
 ChIJp39lTSiylUcROQoUYkFifjw,Transit station,1.0,4.0
-ChIJK2oZ6D2ylUcRw_UwSQbliWs,Transit station,,
-ChIJRf4mwjmxlUcRiHcTefsbVos,Transit station,,
-ChIJhYKMsE6xlUcRrlyMDm3NQTc,Transit station,,
-ChIJg2jypjixlUcR2hvH-QUJoc8,Transit station,,
-ChIJEazLe_yzlUcRwSh7Dy-NlIA,Transit station,,
+ChIJK2oZ6D2ylUcRw_UwSQbliWs,Transit station,0.0,0.0
+ChIJRf4mwjmxlUcRiHcTefsbVos,Transit station,0.0,0.0
+ChIJhYKMsE6xlUcRrlyMDm3NQTc,Transit station,0.0,0.0
+ChIJg2jypjixlUcR2hvH-QUJoc8,Transit station,0.0,0.0
+ChIJEazLe_yzlUcRwSh7Dy-NlIA,Transit station,0.0,0.0
 ChIJmwW-__yzlUcRy1z4ZbkSGgc,Transit station,1.0,5.0
 ChIJayi4zxmylUcR8gLp4Gw4j44,Transit station,1.0,5.0
 ChIJF_IVWieylUcRVuRcRZKazMI,Transit station,2.0,5.0
-ChIJlSF4gh6xlUcRmDO0dTbhxLs,Transit station,,
-ChIJMSrS_wGylUcRtcw8bgtWHr0,Transit station,,
-ChIJqyWZb_ezlUcRc60hBLZZ8JI,Transit station,,
-ChIJG6kcp-izlUcRw8nu24OZRWw,Transit station,,
+ChIJlSF4gh6xlUcRmDO0dTbhxLs,Transit station,0.0,0.0
+ChIJMSrS_wGylUcRtcw8bgtWHr0,Transit station,0.0,0.0
+ChIJqyWZb_ezlUcRc60hBLZZ8JI,Transit station,0.0,0.0
+ChIJG6kcp-izlUcRw8nu24OZRWw,Transit station,0.0,0.0
 ChIJFXWj_1OxlUcRLOshbY_ZHfg,Transit station,1.0,5.0
-ChIJK6516EGxlUcR_UY6tZZMMao,Transit station,,
-ChIJFasY8i6ylUcRSvl33PEYF6w,Transit station,,
-ChIJPwOdg06xlUcRvYvMC6QD7iY,Transit station,,
-ChIJA2gUTOWzlUcROt1mYEzhM8c,Transit station,,
+ChIJK6516EGxlUcR_UY6tZZMMao,Transit station,0.0,0.0
+ChIJFasY8i6ylUcRSvl33PEYF6w,Transit station,0.0,0.0
+ChIJPwOdg06xlUcRvYvMC6QD7iY,Transit station,0.0,0.0
+ChIJA2gUTOWzlUcROt1mYEzhM8c,Transit station,0.0,0.0
 ChIJDZjI4PyzlUcRJkNHUkpmCvY,Transit station,2.0,5.0
-ChIJvz6-8_KzlUcRE4cRkPQZQfc,Transit station,,
-ChIJ-yaS0PazlUcR7WJ5y5BbjXI,Transit station,,
-ChIJQZHwwjmxlUcRgWf8wkyZsik,Transit station,,
-ChIJ04dNdQC0lUcRlztYBzd0zMg,Transit station,,
-ChIJGcf6xAOylUcRb6loYelsvbY,Transit station,,
+ChIJvz6-8_KzlUcRE4cRkPQZQfc,Transit station,0.0,0.0
+ChIJ-yaS0PazlUcR7WJ5y5BbjXI,Transit station,0.0,0.0
+ChIJQZHwwjmxlUcRgWf8wkyZsik,Transit station,0.0,0.0
+ChIJ04dNdQC0lUcRlztYBzd0zMg,Transit station,0.0,0.0
+ChIJGcf6xAOylUcRb6loYelsvbY,Transit station,0.0,0.0
 ChIJ_SAgVlKxlUcRtVaZ2A1aK-k,Transit station,1.0,4.0
-ChIJseaTKZGzlUcRmu_c2Y4PUs0,Transit station,,
+ChIJseaTKZGzlUcRmu_c2Y4PUs0,Transit station,0.0,0.0
 ChIJAfe_-CqylUcRta1L7-URYhE,Transit station,2.0,4.5
-ChIJj2w6C5OxlUcRTjoWbSZ5iEw,Transit station,,
-ChIJv5_4mQWylUcRD1UPAAe0QcA,Transit station,,
-ChIJ67ZXtzuylUcR8Hv0yvmDBJs,Transit station,,
-ChIJleE940exlUcRa16-h2V5akM,Transit station,,
-ChIJfTbBWeqzlUcRwsvv1-N0YfY,Transit station,,
-ChIJUSRCd1qxlUcRXCD4E7bzCWU,Transit station,,
-ChIJq4JTcPezlUcRfB8zCzZp-Z0,Transit station,,
-ChIJs5emKZGzlUcR5sUN7C4bMTQ,Transit station,,
-ChIJaY5ero2zlUcRPX1y4WJqEGY,Transit station,,
-ChIJRXJytBaylUcRJqrX8N-_fi8,Transit station,,
-ChIJEa_Z_fSzlUcRsoOuux2uGTs,Transit station,,
-ChIJoyDIxe2zlUcRT60T65CTwWk,Transit station,,
-ChIJC9fUTxmylUcRkWN5Rinl8Os,Transit station,,
-ChIJiYcuQ5CzlUcRwEZgMmu1RQ4,Transit station,,
-ChIJhyE0GUWxlUcRz0OSQV034U4,Transit station,,
+ChIJj2w6C5OxlUcRTjoWbSZ5iEw,Transit station,0.0,0.0
+ChIJv5_4mQWylUcRD1UPAAe0QcA,Transit station,0.0,0.0
+ChIJ67ZXtzuylUcR8Hv0yvmDBJs,Transit station,0.0,0.0
+ChIJleE940exlUcRa16-h2V5akM,Transit station,0.0,0.0
+ChIJfTbBWeqzlUcRwsvv1-N0YfY,Transit station,0.0,0.0
+ChIJUSRCd1qxlUcRXCD4E7bzCWU,Transit station,0.0,0.0
+ChIJq4JTcPezlUcRfB8zCzZp-Z0,Transit station,0.0,0.0
+ChIJs5emKZGzlUcR5sUN7C4bMTQ,Transit station,0.0,0.0
+ChIJaY5ero2zlUcRPX1y4WJqEGY,Transit station,0.0,0.0
+ChIJRXJytBaylUcRJqrX8N-_fi8,Transit station,0.0,0.0
+ChIJEa_Z_fSzlUcRsoOuux2uGTs,Transit station,0.0,0.0
+ChIJoyDIxe2zlUcRT60T65CTwWk,Transit station,0.0,0.0
+ChIJC9fUTxmylUcRkWN5Rinl8Os,Transit station,0.0,0.0
+ChIJiYcuQ5CzlUcRwEZgMmu1RQ4,Transit station,0.0,0.0
+ChIJhyE0GUWxlUcRz0OSQV034U4,Transit station,0.0,0.0
 ChIJmZLPHvyzlUcRSvd8G16XVw4,Transit station,1.0,5.0
-ChIJE18nwYSxlUcREPbmBtEhpqc,Transit station,,
-ChIJsXK4GDixlUcRFI7n4W4AN9c,Transit station,,
-ChIJOUgV6UCxlUcRoVC6dBE1xAY,Transit station,,
-ChIJodN0hAyylUcRChJ-jAksrLg,Transit station,,
-ChIJOfU8A1OxlUcRUIi4PcF8Eho,Transit station,,
-ChIJ89MLT-GzlUcR8yKyn4F0h7M,Transit station,,
-ChIJbXCFAp2xlUcRxsnAtYGUb18,Transit station,,
-ChIJc65Y_QKxlUcR8WIeAKNQxOk,Transit station,,
+ChIJE18nwYSxlUcREPbmBtEhpqc,Transit station,0.0,0.0
+ChIJsXK4GDixlUcRFI7n4W4AN9c,Transit station,0.0,0.0
+ChIJOUgV6UCxlUcRoVC6dBE1xAY,Transit station,0.0,0.0
+ChIJodN0hAyylUcRChJ-jAksrLg,Transit station,0.0,0.0
+ChIJOfU8A1OxlUcRUIi4PcF8Eho,Transit station,0.0,0.0
+ChIJ89MLT-GzlUcR8yKyn4F0h7M,Transit station,0.0,0.0
+ChIJbXCFAp2xlUcRxsnAtYGUb18,Transit station,0.0,0.0
+ChIJc65Y_QKxlUcR8WIeAKNQxOk,Transit station,0.0,0.0
 ChIJ8XB7je6zlUcRU3FoT2yEESQ,Transit station,2.0,3.0
-ChIJC3dAgJKxlUcRu3UCaV3V36Q,Transit station,,
-ChIJZQ1WCGCxlUcRn7wWny2IELk,Transit station,,
-ChIJPWwPZAyylUcRF2jaI1noK4w,Transit station,,
-ChIJt9_POhGylUcRT3BLMPAAeaE,Transit station,,
-ChIJS6GC2ouzlUcRHP2S5DmTs2s,Transit station,,
-ChIJvc5pHvyzlUcRGHQySBs9EQg,Transit station,,
-ChIJ0dcdmmWxlUcRus30tZv8Hkg,Transit station,,
-ChIJdSZRJNWzlUcRmavXq4gHrd8,Transit station,,
-ChIJ-zWVdlqxlUcRVgVqeyB8Slo,Transit station,,
-ChIJuR4Axe2zlUcR3Ssj_lyoZcM,Transit station,,
-ChIJuwlzaV6xlUcRlZLlNMLW_fY,Transit station,,
-ChIJg6utO3S0lUcRqTtoRKjN_yQ,Transit station,,
-ChIJ4clf33yxlUcRoA9zPr8hjiA,Transit station,,
-ChIJRYVIyL-xlUcR4YLUzpYk8g4,Transit station,,
-ChIJSZW9ZnexlUcROLapY2PfNt4,Transit station,,
-ChIJVYh5cjyylUcRXKpjwXgKSpM,Transit station,,
-ChIJV_5MQkKxlUcRswtuA2RNzvY,Transit station,,
-ChIJ34WS14WxlUcR2iR4ghKotDU,Transit station,,
-ChIJ36T8NTexlUcRDE7wU84fFc0,Transit station,,
-ChIJt_hc-5yxlUcRF9PdobVpKt8,Transit station,,
-ChIJ_VDhyjuylUcRRZapgjZFNAw,Transit station,,
-ChIJV3LEgB6xlUcR7fcL6G4azEE,Transit station,,
-ChIJg5i8ElmxlUcRrCF8-pc0wT0,Transit station,,
-ChIJ4fPgGXS0lUcRF0hqdJ636Qg,Transit station,,
-ChIJJ0ZYauOzlUcRkT5miMEmFj4,Transit station,,
-ChIJ3wT3-kOxlUcR__SA_-knMWQ,Transit station,,
-ChIJr-aFKpWxlUcR-BMuF3Ka29A,Transit station,,
-ChIJoZ7HLXaxlUcRIlo_da_S6Mk,Transit station,,
-ChIJ7TJhxlmxlUcRWD4CVp_zVkQ,Transit station,,
-ChIJOXaT9PKzlUcRuGYwFBrD_9g,Transit station,,
-ChIJg0EX_vSzlUcRZZDwx7whGvs,Transit station,,
-ChIJY1EppDixlUcRmTTJhF3dmEw,Transit station,,
-ChIJl77-1VmxlUcRMCDHOJgk4Fk,Transit station,,
-ChIJqWKqEBeylUcRbEXApQyCEj0,Transit station,,
-ChIJ0zDX4R6ylUcR2szWuSVHWhk,Transit station,,
-ChIJ7XEushaylUcRfhnRW91Yaqw,Transit station,,
-ChIJqw1eJTixlUcRPujbHIDMwno,Transit station,,
-ChIJJ2BNfIGxlUcRFPirW3k51Kc,Transit station,,
+ChIJC3dAgJKxlUcRu3UCaV3V36Q,Transit station,0.0,0.0
+ChIJZQ1WCGCxlUcRn7wWny2IELk,Transit station,0.0,0.0
+ChIJPWwPZAyylUcRF2jaI1noK4w,Transit station,0.0,0.0
+ChIJt9_POhGylUcRT3BLMPAAeaE,Transit station,0.0,0.0
+ChIJS6GC2ouzlUcRHP2S5DmTs2s,Transit station,0.0,0.0
+ChIJvc5pHvyzlUcRGHQySBs9EQg,Transit station,0.0,0.0
+ChIJ0dcdmmWxlUcRus30tZv8Hkg,Transit station,0.0,0.0
+ChIJdSZRJNWzlUcRmavXq4gHrd8,Transit station,0.0,0.0
+ChIJ-zWVdlqxlUcRVgVqeyB8Slo,Transit station,0.0,0.0
+ChIJuR4Axe2zlUcR3Ssj_lyoZcM,Transit station,0.0,0.0
+ChIJuwlzaV6xlUcRlZLlNMLW_fY,Transit station,0.0,0.0
+ChIJg6utO3S0lUcRqTtoRKjN_yQ,Transit station,0.0,0.0
+ChIJ4clf33yxlUcRoA9zPr8hjiA,Transit station,0.0,0.0
+ChIJRYVIyL-xlUcR4YLUzpYk8g4,Transit station,0.0,0.0
+ChIJSZW9ZnexlUcROLapY2PfNt4,Transit station,0.0,0.0
+ChIJVYh5cjyylUcRXKpjwXgKSpM,Transit station,0.0,0.0
+ChIJV_5MQkKxlUcRswtuA2RNzvY,Transit station,0.0,0.0
+ChIJ34WS14WxlUcR2iR4ghKotDU,Transit station,0.0,0.0
+ChIJ36T8NTexlUcRDE7wU84fFc0,Transit station,0.0,0.0
+ChIJt_hc-5yxlUcRF9PdobVpKt8,Transit station,0.0,0.0
+ChIJ_VDhyjuylUcRRZapgjZFNAw,Transit station,0.0,0.0
+ChIJV3LEgB6xlUcR7fcL6G4azEE,Transit station,0.0,0.0
+ChIJg5i8ElmxlUcRrCF8-pc0wT0,Transit station,0.0,0.0
+ChIJ4fPgGXS0lUcRF0hqdJ636Qg,Transit station,0.0,0.0
+ChIJJ0ZYauOzlUcRkT5miMEmFj4,Transit station,0.0,0.0
+ChIJ3wT3-kOxlUcR__SA_-knMWQ,Transit station,0.0,0.0
+ChIJr-aFKpWxlUcR-BMuF3Ka29A,Transit station,0.0,0.0
+ChIJoZ7HLXaxlUcRIlo_da_S6Mk,Transit station,0.0,0.0
+ChIJ7TJhxlmxlUcRWD4CVp_zVkQ,Transit station,0.0,0.0
+ChIJOXaT9PKzlUcRuGYwFBrD_9g,Transit station,0.0,0.0
+ChIJg0EX_vSzlUcRZZDwx7whGvs,Transit station,0.0,0.0
+ChIJY1EppDixlUcRmTTJhF3dmEw,Transit station,0.0,0.0
+ChIJl77-1VmxlUcRMCDHOJgk4Fk,Transit station,0.0,0.0
+ChIJqWKqEBeylUcRbEXApQyCEj0,Transit station,0.0,0.0
+ChIJ0zDX4R6ylUcR2szWuSVHWhk,Transit station,0.0,0.0
+ChIJ7XEushaylUcRfhnRW91Yaqw,Transit station,0.0,0.0
+ChIJqw1eJTixlUcRPujbHIDMwno,Transit station,0.0,0.0
+ChIJJ2BNfIGxlUcRFPirW3k51Kc,Transit station,0.0,0.0
 ChIJOR5dXnexlUcR21IDMzO3W6c,Transit station,1.0,2.0
-ChIJX0ckdzyylUcRwY70jzglrjw,Transit station,,
-ChIJXQgIQGSxlUcRosgFBhcLFN0,Transit station,,
-ChIJQT3ZZB6xlUcR5KZpjMGli7Q,Transit station,,
-ChIJzVMlL2exlUcRGV-B9_vX-4A,Transit station,,
-ChIJp4MH7jixlUcRxCjFTQHGb-s,Transit station,,
-ChIJ89YeoB6ylUcRyfZ-1zfY3hc,Transit station,,
-ChIJgdzo2xWylUcRdiil84TSJ60,Transit station,,
-ChIJx3mzaQi0lUcRxajlAS_k1TY,Transit station,,
-ChIJX3bXG16xlUcRr5HKqGO8sQQ,Transit station,,
-ChIJn1IhUAe0lUcRMhdf7DRw4Eg,Transit station,,
-ChIJFaXYvPSxlUcRSO60PkB7eic,Transit station,,
-ChIJl6UJOOSzlUcRcJLImgjTnEA,Transit station,,
-ChIJwfTJ3IuzlUcRI_e5MKP1Q0s,Transit station,,
-ChIJt3t4cZCzlUcRAsIYU7iLMPY,Transit station,,
-ChIJi6Qiso2zlUcRWM0J44-xerE,Transit station,,
-ChIJh4WxpOSzlUcRgfg7bKfvoXc,Transit station,,
+ChIJX0ckdzyylUcRwY70jzglrjw,Transit station,0.0,0.0
+ChIJXQgIQGSxlUcRosgFBhcLFN0,Transit station,0.0,0.0
+ChIJQT3ZZB6xlUcR5KZpjMGli7Q,Transit station,0.0,0.0
+ChIJzVMlL2exlUcRGV-B9_vX-4A,Transit station,0.0,0.0
+ChIJp4MH7jixlUcRxCjFTQHGb-s,Transit station,0.0,0.0
+ChIJ89YeoB6ylUcRyfZ-1zfY3hc,Transit station,0.0,0.0
+ChIJgdzo2xWylUcRdiil84TSJ60,Transit station,0.0,0.0
+ChIJx3mzaQi0lUcRxajlAS_k1TY,Transit station,0.0,0.0
+ChIJX3bXG16xlUcRr5HKqGO8sQQ,Transit station,0.0,0.0
+ChIJn1IhUAe0lUcRMhdf7DRw4Eg,Transit station,0.0,0.0
+ChIJFaXYvPSxlUcRSO60PkB7eic,Transit station,0.0,0.0
+ChIJl6UJOOSzlUcRcJLImgjTnEA,Transit station,0.0,0.0
+ChIJwfTJ3IuzlUcRI_e5MKP1Q0s,Transit station,0.0,0.0
+ChIJt3t4cZCzlUcRAsIYU7iLMPY,Transit station,0.0,0.0
+ChIJi6Qiso2zlUcRWM0J44-xerE,Transit station,0.0,0.0
+ChIJh4WxpOSzlUcRgfg7bKfvoXc,Transit station,0.0,0.0
 ChIJPbR1VuGzlUcRtLcV3Yef1ok,Transit station,1.0,3.0
-ChIJ0zclepWxlUcRGrj0PT0XqQY,Transit station,,
+ChIJ0zclepWxlUcRGrj0PT0XqQY,Transit station,0.0,0.0
 ChIJZ_NONG-xlUcReWGG4ih8o4Y,Transit station,1.0,4.0
-ChIJo7BhQkWxlUcRQ-lt28jxGdM,Transit station,,
-ChIJuzoxZfizlUcRgf8WrKefvtA,Transit station,,
-ChIJsy2NvAWylUcRcBO6bjKV0pA,Transit station,,
-ChIJfVNScfyzlUcRjVTPJG46yDQ,Transit station,,
+ChIJo7BhQkWxlUcRQ-lt28jxGdM,Transit station,0.0,0.0
+ChIJuzoxZfizlUcRgf8WrKefvtA,Transit station,0.0,0.0
+ChIJsy2NvAWylUcRcBO6bjKV0pA,Transit station,0.0,0.0
+ChIJfVNScfyzlUcRjVTPJG46yDQ,Transit station,0.0,0.0
 ChIJSaoWvVCxlUcRW_OwanT2vz4,Transit station,1.0,1.0
-ChIJ6xfkAfOzlUcR4zz4V0i9Nwg,Transit station,,
-ChIJ8bZBFY2zlUcRnUgPUXN_1ds,Transit station,,
-ChIJy0ipmgWylUcRN7UMlOqPpOI,Transit station,,
-ChIJW1llfYGxlUcR6XDRwrBaLhw,Transit station,,
-ChIJOQHMZ0SxlUcRZAZB8ecSoHs,Transit station,,
-ChIJ3zgGc5WxlUcRd94zULMr7Xo,Transit station,,
-ChIJpXjgaUWxlUcRybd_U67l-Cg,Transit station,,
-ChIJTf3_SgWylUcRQRgjzKIEQrY,Transit station,,
-ChIJY0EyOgKxlUcRpjxVvcg7TlU,Transit station,,
-ChIJn5x17I-xlUcR1GXtYKJnyMA,Transit station,,
-ChIJV6Vk2pWzlUcR5lTk-cvU31Y,Transit station,,
-ChIJW33sQtazlUcRlVLLxf9F5NM,Transit station,,
-ChIJBXKiRVSxlUcREL5rQK-fa2E,Transit station,,
-ChIJnW0OS2WxlUcRzDxejyiwwvs,Transit station,,
+ChIJ6xfkAfOzlUcR4zz4V0i9Nwg,Transit station,0.0,0.0
+ChIJ8bZBFY2zlUcRnUgPUXN_1ds,Transit station,0.0,0.0
+ChIJy0ipmgWylUcRN7UMlOqPpOI,Transit station,0.0,0.0
+ChIJW1llfYGxlUcR6XDRwrBaLhw,Transit station,0.0,0.0
+ChIJOQHMZ0SxlUcRZAZB8ecSoHs,Transit station,0.0,0.0
+ChIJ3zgGc5WxlUcRd94zULMr7Xo,Transit station,0.0,0.0
+ChIJpXjgaUWxlUcRybd_U67l-Cg,Transit station,0.0,0.0
+ChIJTf3_SgWylUcRQRgjzKIEQrY,Transit station,0.0,0.0
+ChIJY0EyOgKxlUcRpjxVvcg7TlU,Transit station,0.0,0.0
+ChIJn5x17I-xlUcR1GXtYKJnyMA,Transit station,0.0,0.0
+ChIJV6Vk2pWzlUcR5lTk-cvU31Y,Transit station,0.0,0.0
+ChIJW33sQtazlUcRlVLLxf9F5NM,Transit station,0.0,0.0
+ChIJBXKiRVSxlUcREL5rQK-fa2E,Transit station,0.0,0.0
+ChIJnW0OS2WxlUcRzDxejyiwwvs,Transit station,0.0,0.0
 ChIJa1rXmWWxlUcRt569SrrZYsk,Transit station,1.0,5.0
-ChIJmy532RWylUcRGOpimIAG_OI,Transit station,,
-ChIJde-xAcKxlUcR3Pk8ZZI55kc,Transit station,,
-ChIJ6TxNR4-xlUcRENzkmwjUUA8,Transit station,,
+ChIJmy532RWylUcRGOpimIAG_OI,Transit station,0.0,0.0
+ChIJde-xAcKxlUcR3Pk8ZZI55kc,Transit station,0.0,0.0
+ChIJ6TxNR4-xlUcRENzkmwjUUA8,Transit station,0.0,0.0
 ChIJxSwdtBmylUcRRUNBlCs-esg,Transit station,1.0,5.0
-ChIJxbWaJGGxlUcRbDVnqe-R57A,Transit station,,
-ChIJlw4OOxGylUcRfJWnjgPfFKU,Transit station,,
-ChIJPzTeQIyxlUcRpQqBd7nx6mE,Transit station,,
-ChIJfz6SRFKxlUcRO5-YtO26D0I,Transit station,,
-ChIJo3MPadazlUcR_VAEUXVPntw,Transit station,,
-ChIJNTeFqSCylUcRGjahE8zZQMI,Transit station,,
-ChIJO-uFP4yxlUcRtsugu35fZ8U,Transit station,,
-ChIJ2zXCNGWxlUcR2N_Dqq2CKwQ,Transit station,,
-ChIJFYuOtPqzlUcRgZ20XawM5Vo,Transit station,,
-ChIJt6Ts-SqylUcRt3R6E_UaSBo,Transit station,,
-ChIJNxVCvPSxlUcR3UAV3b6XVJs,Transit station,,
-ChIJR7oBJlixlUcRfbTMAjzSjbs,Transit station,,
-ChIJU3INlheylUcR4sL6QC-q1pU,Transit station,,
-ChIJtaSdOQKxlUcRG_g-Yetw0ik,Transit station,,
-ChIJmWFZTVuxlUcRWyLifBRRqmk,Transit station,,
-ChIJbQq1ZGOxlUcRVueAwURKvy8,Transit station,,
-ChIJ10gK_8GxlUcRIHUdGc4K2Cw,Transit station,,
-ChIJ5e2iSwWylUcRQXmF4jXRPrs,Transit station,,
+ChIJxbWaJGGxlUcRbDVnqe-R57A,Transit station,0.0,0.0
+ChIJlw4OOxGylUcRfJWnjgPfFKU,Transit station,0.0,0.0
+ChIJPzTeQIyxlUcRpQqBd7nx6mE,Transit station,0.0,0.0
+ChIJfz6SRFKxlUcRO5-YtO26D0I,Transit station,0.0,0.0
+ChIJo3MPadazlUcR_VAEUXVPntw,Transit station,0.0,0.0
+ChIJNTeFqSCylUcRGjahE8zZQMI,Transit station,0.0,0.0
+ChIJO-uFP4yxlUcRtsugu35fZ8U,Transit station,0.0,0.0
+ChIJ2zXCNGWxlUcR2N_Dqq2CKwQ,Transit station,0.0,0.0
+ChIJFYuOtPqzlUcRgZ20XawM5Vo,Transit station,0.0,0.0
+ChIJt6Ts-SqylUcRt3R6E_UaSBo,Transit station,0.0,0.0
+ChIJNxVCvPSxlUcR3UAV3b6XVJs,Transit station,0.0,0.0
+ChIJR7oBJlixlUcRfbTMAjzSjbs,Transit station,0.0,0.0
+ChIJU3INlheylUcR4sL6QC-q1pU,Transit station,0.0,0.0
+ChIJtaSdOQKxlUcRG_g-Yetw0ik,Transit station,0.0,0.0
+ChIJmWFZTVuxlUcRWyLifBRRqmk,Transit station,0.0,0.0
+ChIJbQq1ZGOxlUcRVueAwURKvy8,Transit station,0.0,0.0
+ChIJ10gK_8GxlUcRIHUdGc4K2Cw,Transit station,0.0,0.0
+ChIJ5e2iSwWylUcRQXmF4jXRPrs,Transit station,0.0,0.0
 ChIJQTtIBPqzlUcRI5HKTiTLvEk,Transit station,1.0,5.0
-ChIJf0ZRLnaxlUcR3fsxmnvFXnI,Transit station,,
-ChIJXTeGBl6xlUcRmK5UBW6jSOs,Transit station,,
-ChIJbS2E4R6ylUcRkJCgINUqp8U,Transit station,,
-ChIJE_QNGEWxlUcRcZH0dt0IpiM,Transit station,,
+ChIJf0ZRLnaxlUcR3fsxmnvFXnI,Transit station,0.0,0.0
+ChIJXTeGBl6xlUcRmK5UBW6jSOs,Transit station,0.0,0.0
+ChIJbS2E4R6ylUcRkJCgINUqp8U,Transit station,0.0,0.0
+ChIJE_QNGEWxlUcRcZH0dt0IpiM,Transit station,0.0,0.0
 ChIJN_4UruSzlUcREXdHPKzyiuQ,Transit station,1.0,5.0
-ChIJT0Rv7jixlUcR5ugYQiAO6rE,Transit station,,
-ChIJIfqyCoqzlUcRKHSw0vKyRzA,Transit station,,
-ChIJ4WUONuSzlUcRdKU4MI9NxtI,Transit station,,
+ChIJT0Rv7jixlUcR5ugYQiAO6rE,Transit station,0.0,0.0
+ChIJIfqyCoqzlUcRKHSw0vKyRzA,Transit station,0.0,0.0
+ChIJ4WUONuSzlUcRdKU4MI9NxtI,Transit station,0.0,0.0
 ChIJFfOT_E2xlUcRFax5obsFYPQ,Transit station,1.0,5.0
-ChIJp-JYWQ-ylUcRIY4hHMc3b8U,Transit station,,
-ChIJR5RdQeOzlUcRjDjfruEgAhE,Transit station,,
-ChIJ6z1iSVuxlUcR9fT9FYA2Xr8,Transit station,,
-ChIJl5Y6zPmxlUcR6oN8JxNJQ1o,Transit station,,
-ChIJj_wEHeqxlUcRFLv5-3qD9Sk,Transit station,,
-ChIJozBhxmSxlUcR31_p_7knvUo,Transit station,,
-ChIJE6yERAe0lUcRfL1KsZyqHYQ,Transit station,,
-ChIJMS3c_FaxlUcRNVrAw-KtfOk,Transit station,,
-ChIJowtsOzixlUcRRUr8wtVMemo,Transit station,,
-ChIJq95ywT2ylUcRwINDf99vMnk,Transit station,,
-ChIJVWFR5vKzlUcR-rC3XLZJUog,Transit station,,
-ChIJ54MqdxCylUcRvwyFp6z5ToY,Transit station,,
-ChIJy0HAwUixlUcRnGeu8Wb4sp8,Transit station,,
-ChIJVQ9OxlyxlUcRW6EOasf6bnU,Transit station,,
-ChIJXQCHlEWxlUcRL97oaqX6KMQ,Transit station,,
-ChIJgxJY3POzlUcRsFCsPoxepq8,Transit station,,
-ChIJdy9j7iuylUcRhHMj-ML7r4o,Transit station,,
-ChIJnaAFafizlUcRVyXXiz29mE0,Transit station,,
-ChIJrbSDckCxlUcRxiG0x_Z4q5s,Transit station,,
-ChIJHdRG2vazlUcRfh2XoklhoQk,Transit station,,
-ChIJOyuDKF2xlUcR0YG-YQFkF7o,Transit station,,
-ChIJ3Tdl-yuylUcRgcj1dBP0_AQ,Transit station,,
-ChIJI0Qt45GzlUcR_iB8sihE2H0,Transit station,,
-ChIJTactPH-xlUcR5aYjuB56uaw,Transit station,,
-ChIJnd2g72qxlUcRJTLLnCmBIwg,Transit station,,
-ChIJy92qhuyxlUcRxdr_AC3lh8Q,Transit station,,
+ChIJp-JYWQ-ylUcRIY4hHMc3b8U,Transit station,0.0,0.0
+ChIJR5RdQeOzlUcRjDjfruEgAhE,Transit station,0.0,0.0
+ChIJ6z1iSVuxlUcR9fT9FYA2Xr8,Transit station,0.0,0.0
+ChIJl5Y6zPmxlUcR6oN8JxNJQ1o,Transit station,0.0,0.0
+ChIJj_wEHeqxlUcRFLv5-3qD9Sk,Transit station,0.0,0.0
+ChIJozBhxmSxlUcR31_p_7knvUo,Transit station,0.0,0.0
+ChIJE6yERAe0lUcRfL1KsZyqHYQ,Transit station,0.0,0.0
+ChIJMS3c_FaxlUcRNVrAw-KtfOk,Transit station,0.0,0.0
+ChIJowtsOzixlUcRRUr8wtVMemo,Transit station,0.0,0.0
+ChIJq95ywT2ylUcRwINDf99vMnk,Transit station,0.0,0.0
+ChIJVWFR5vKzlUcR-rC3XLZJUog,Transit station,0.0,0.0
+ChIJ54MqdxCylUcRvwyFp6z5ToY,Transit station,0.0,0.0
+ChIJy0HAwUixlUcRnGeu8Wb4sp8,Transit station,0.0,0.0
+ChIJVQ9OxlyxlUcRW6EOasf6bnU,Transit station,0.0,0.0
+ChIJXQCHlEWxlUcRL97oaqX6KMQ,Transit station,0.0,0.0
+ChIJgxJY3POzlUcRsFCsPoxepq8,Transit station,0.0,0.0
+ChIJdy9j7iuylUcRhHMj-ML7r4o,Transit station,0.0,0.0
+ChIJnaAFafizlUcRVyXXiz29mE0,Transit station,0.0,0.0
+ChIJrbSDckCxlUcRxiG0x_Z4q5s,Transit station,0.0,0.0
+ChIJHdRG2vazlUcRfh2XoklhoQk,Transit station,0.0,0.0
+ChIJOyuDKF2xlUcR0YG-YQFkF7o,Transit station,0.0,0.0
+ChIJ3Tdl-yuylUcRgcj1dBP0_AQ,Transit station,0.0,0.0
+ChIJI0Qt45GzlUcR_iB8sihE2H0,Transit station,0.0,0.0
+ChIJTactPH-xlUcR5aYjuB56uaw,Transit station,0.0,0.0
+ChIJnd2g72qxlUcRJTLLnCmBIwg,Transit station,0.0,0.0
+ChIJy92qhuyxlUcRxdr_AC3lh8Q,Transit station,0.0,0.0
 ChIJgThvpFmxlUcRKa4fbs-W9pc,Transit station,2.0,1.0
-ChIJjX2dtVOxlUcRzSNrKc5vxOc,Transit station,,
-ChIJm6oaapCzlUcRANnRlANuOQs,Transit station,,
-ChIJ5zyEQ0KxlUcR6HrVtn38CUU,Transit station,,
-ChIJMc9z_uOzlUcRa2IzYRD-WDE,Transit station,,
-ChIJiT_QsVOxlUcRNwvjdEGbia8,Transit station,,
-ChIJKyYES1uxlUcR2VZKBVMhSow,Transit station,,
+ChIJjX2dtVOxlUcRzSNrKc5vxOc,Transit station,0.0,0.0
+ChIJm6oaapCzlUcRANnRlANuOQs,Transit station,0.0,0.0
+ChIJ5zyEQ0KxlUcR6HrVtn38CUU,Transit station,0.0,0.0
+ChIJMc9z_uOzlUcRa2IzYRD-WDE,Transit station,0.0,0.0
+ChIJiT_QsVOxlUcRNwvjdEGbia8,Transit station,0.0,0.0
+ChIJKyYES1uxlUcR2VZKBVMhSow,Transit station,0.0,0.0
 ChIJqeWe_1OxlUcRbUuU7upt7JQ,Transit station,36.0,3.5
-ChIJR7WgJ12xlUcRCrRP5vsP-3o,Transit station,,
-ChIJj2QWbZCzlUcRch5IJTrrfUU,Transit station,,
+ChIJR7WgJ12xlUcRCrRP5vsP-3o,Transit station,0.0,0.0
+ChIJj2QWbZCzlUcRch5IJTrrfUU,Transit station,0.0,0.0
 ChIJDTsn13yxlUcRCmkQf5P_XbI,Transit station,3.0,3.7
-ChIJHT3p4wiylUcR2i1OCxQc0T0,Transit station,,
+ChIJHT3p4wiylUcR2i1OCxQc0T0,Transit station,0.0,0.0
 ChIJ_6RTbJWxlUcRL5KoJ6e6-78,Optometrist,9.0,5.0
 ChIJ1TZ_Jf-zlUcRrxBfIGlopgM,Optometrist,72.0,4.9
 ChIJX13XcKexlUcRCifKgcLaYTU,Optometrist,39.0,5.0
 ChIJ8TB-wn6xlUcRjnY9kAWr6GA,Plumber,2.0,3.5
 ChIJSymk4iuylUcRZMBJixT9-YY,Plumber,8.0,3.4
-ChIJK5JSy9SzlUcRQKUTqau4NFA,Plumber,,
+ChIJK5JSy9SzlUcRQKUTqau4NFA,Plumber,0.0,0.0
 ChIJ2dkhur-xlUcRMNbsjsQ6UpM,Services,8.0,3.8
-ChIJ5VQKoQ6zlUcRl-Z3NasD7YA,Services,,
+ChIJ5VQKoQ6zlUcRl-Z3NasD7YA,Services,0.0,0.0
 ChIJkenB42SzlUcR7jzJb3MLpg0,Services,7.0,2.6
 ChIJiT7PoUqxlUcRBtheT0wDWcw,Services,1.0,5.0
-ChIJQS_DjcSxlUcRz0joAE_I0qM,Services,,
-ChIJxyAuExmylUcRbq4pYE-I9s8,Services,,
+ChIJQS_DjcSxlUcRz0joAE_I0qM,Services,0.0,0.0
+ChIJxyAuExmylUcRbq4pYE-I9s8,Services,0.0,0.0
 ChIJpaQ9Di-ylUcRLkYSDuWadeQ,Services,41.0,4.8
 ChIJF3bK63uxlUcR-4LEIIik5PM,Services,7.0,4.0
 ChIJy4wEWHexlUcRy2xQL0OCn4k,Services,2.0,4.0
@@ -1188,7 +1188,7 @@ ChIJWxbAcVS0lUcRPV5okBCEu1k,Services,1.0,5.0
 ChIJj_UZ6PizlUcRCGrksRbg_rM,Services,2.0,4.5
 ChIJ61a4PQK0lUcREBqWMdS8iZw,Services,18.0,3.9
 ChIJa6UUkvyzlUcRuJbSMJSEIcI,Services,1.0,1.0
-ChIJ-wICCcmxlUcRRFSbOwVtppw,Services,,
+ChIJ-wICCcmxlUcRRFSbOwVtppw,Services,0.0,0.0
 ChIJJzrZeRCylUcR9jeGkii2Hfc,Services,13.0,3.0
 ChIJIeJAi16xlUcR1q7oaRC1bR0,Services,743.0,3.5
 ChIJ0QMGm4uzlUcRjjxO2k8cEB0,Services,1.0,5.0
@@ -1196,19 +1196,19 @@ ChIJS_7L2f6zlUcR_GlbzLY6Pps,Services,5.0,4.8
 ChIJecfVjPyzlUcRRSNk9_WJ0ak,Services,800.0,4.3
 ChIJx8f2-EKxlUcREtRgnU7ZYCE,Services,3.0,5.0
 ChIJlxRSe_qzlUcRHXMgTiAHJ7M,Services,9.0,4.3
-ChIJr_UYxSOzlUcRyPH03vN2XQA,Services,,
-ChIJxQwDAIqxlUcRQAONi0UMQ3E,Services,,
-ChIJF8qOXa22lUcRqMiWCIssb-Q,Services,,
+ChIJr_UYxSOzlUcRyPH03vN2XQA,Services,0.0,0.0
+ChIJxQwDAIqxlUcRQAONi0UMQ3E,Services,0.0,0.0
+ChIJF8qOXa22lUcRqMiWCIssb-Q,Services,0.0,0.0
 ChIJE2j5nOazlUcR7XQamVAR8C4,Services,3.0,5.0
-ChIJ-zq7jCCylUcRUrjg-PovoMI,Services,,
+ChIJ-zq7jCCylUcRUrjg-PovoMI,Services,0.0,0.0
 ChIJVcPCYeuxlUcRwemROIEXe9E,Services,54.0,4.8
-ChIJ0dUWW6u2lUcRbM_LgIaH_98,Services,,
-ChIJOxcb4p2xlUcRWI09Xji8fDc,Services,,
+ChIJ0dUWW6u2lUcRbM_LgIaH_98,Services,0.0,0.0
+ChIJOxcb4p2xlUcRWI09Xji8fDc,Services,0.0,0.0
 ChIJh7755nCulUcRqtM8mVmkEBU,Services,83.0,5.0
 ChIJtc_nGlSxlUcRYzZ5vQY5Too,Services,137.0,4.7
 ChIJKz6Ob9llf0cRWJGbF6eauT8,Services,24.0,5.0
 ChIJHw2n1fStlUcRlMqEaZiUq9A,Services,4.0,4.5
-ChIJ7d8s1fizlUcRO2WD2P4af0o,Services,,
+ChIJ7d8s1fizlUcRO2WD2P4af0o,Services,0.0,0.0
 ChIJIT3arTGylUcRUEr6HFbl4Bo,Services,1.0,5.0
 ChIJ4R7q7rO1lUcR_V-VTM_gpeQ,Services,1.0,5.0
 ChIJJSxE_WaxlUcRjr_hJkJ1kXQ,Services,1.0,5.0
@@ -1218,63 +1218,63 @@ ChIJC8MEby2zlUcRFn6GLIhl-bY,Services,8.0,5.0
 ChIJk1tJFsSxlUcRiqM5eoLBE0E,Services,1.0,5.0
 ChIJgUCEPP-xlUcRpAaUOj7SWCg,Services,16.0,4.8
 ChIJ7T5ePm2zlUcRFLhCCNLRwTs,Services,9.0,5.0
-ChIJeRUk8IWxlUcR3Ra7JmZRs1A,Services,,
+ChIJeRUk8IWxlUcR3Ra7JmZRs1A,Services,0.0,0.0
 ChIJj7ItUiiylUcRH1vm__6tuzY,Services,9.0,5.0
 ChIJKzUjzp6xlUcRxS6MSHMX8h8,Services,1.0,4.0
 ChIJO5wRq_OxlUcR5Kf5uCEA6ag,Services,2.0,3.0
-ChIJMx_-3kizlUcR5JK4Ft7tXKM,Services,,
+ChIJMx_-3kizlUcR5JK4Ft7tXKM,Services,0.0,0.0
 ChIJQ3zkqZOwlUcRwIrAPVDbhhM,Services,4.0,3.0
 ChIJz27G0O61lUcRCylWMXTe93k,Services,10.0,5.0
 ChIJbQeW_CqvlUcRiglXpHtNSdA,Services,55.0,5.0
-ChIJzb4n4P2zlUcRYFs_mYQxBdc,Services,,
+ChIJzb4n4P2zlUcRYFs_mYQxBdc,Services,0.0,0.0
 ChIJ5_I7-VaxlUcR3l6lzNCW0RE,Services,10.0,3.7
-ChIJ3cm6TX-zlUcRfQK1pkbaNYI,Services,,
+ChIJ3cm6TX-zlUcRfQK1pkbaNYI,Services,0.0,0.0
 ChIJsdEmlsWwlUcREFelSBpMu3A,Services,54.0,4.6
 ChIJzYZ25DmxlUcRAFvyK8GkgOw,Services,3.0,4.3
 ChIJTyu35GCxlUcRknrZClxBsSc,Services,7.0,4.1
-ChIJHSnh452xlUcR25v7iEV6oCo,Services,,
-ChIJyTXyCzCzlUcRSgn3gBqysSU,Services,,
-ChIJVVVRL_-zlUcREXonNYZkmRs,Services,,
+ChIJHSnh452xlUcR25v7iEV6oCo,Services,0.0,0.0
+ChIJyTXyCzCzlUcRSgn3gBqysSU,Services,0.0,0.0
+ChIJVVVRL_-zlUcREXonNYZkmRs,Services,0.0,0.0
 ChIJVaBDaDeylUcRBuEFxHcd35s,Services,8.0,4.9
 ChIJPbyqGV6xlUcRTWRCqatbI_k,Services,92.0,4.5
-ChIJc_gGruy1lUcRsXM2qja7tCw,Services,,
+ChIJc_gGruy1lUcRsXM2qja7tCw,Services,0.0,0.0
 ChIJj-PG2L6xlUcRM_DA7XRuEwo,Services,1.0,1.0
 ChIJj2z9l6G2lUcRCCFymIJd4pk,Services,6.0,3.0
 ChIJR4v8vn2xlUcRlPjVOFpItO8,Services,7.0,4.9
-ChIJy_o9uDixlUcRO--D-QdgKdc,Services,,
-ChIJsVjjt_6zlUcRHseaN1jYX_A,Services,,
-ChIJu7kZI2OxlUcRcSSWyjelQMs,Services,,
-ChIJCT5os36zlUcRiqxQFs8mLK0,Services,2.0,
+ChIJy_o9uDixlUcRO--D-QdgKdc,Services,0.0,0.0
+ChIJsVjjt_6zlUcRHseaN1jYX_A,Services,0.0,0.0
+ChIJu7kZI2OxlUcRcSSWyjelQMs,Services,0.0,0.0
+ChIJCT5os36zlUcRiqxQFs8mLK0,Services,2.0,0.0
 ChIJfeeo-fazlUcRlEC5duHkRqo,Services,9.0,4.3
 ChIJe9c9wWOxlUcRRdresMLIK_k,Services,6.0,4.2
-ChIJ6_z_32axlUcRl4yllenmm5M,Services,,
+ChIJ6_z_32axlUcRl4yllenmm5M,Services,0.0,0.0
 ChIJj-2AriC0lUcRBBWNSCQZJg8,Services,15.0,4.7
 ChIJTSu_u_2zlUcRp11SmY6NSQg,Services,1.0,1.0
 ChIJy15F73S0lUcRoURl5YbDfHk,Services,26.0,3.8
-ChIJY5LJUACxlUcRRGIQCdZ1Sx4,Services,,5.0
+ChIJY5LJUACxlUcRRGIQCdZ1Sx4,Services,0.0,5.0
 ChIJnxtO6HuxlUcR0ZlatEFFbrU,Services,6.0,5.0
 ChIJl2blGMy1lUcRFK0z1FNes3s,Services,63.0,4.7
 ChIJQT6gVWaxlUcRPT3Ghz1b8xc,Services,7.0,4.9
 ChIJ4diySyqylUcRAncFEicZxZc,Services,7.0,5.0
-ChIJT-0Ay8exlUcRYI4h4DYnAE8,Services,,
+ChIJT-0Ay8exlUcRYI4h4DYnAE8,Services,0.0,0.0
 ChIJOUYrVo6zlUcROZBqERaWKEI,Services,527.0,3.7
 ChIJvUxlTvizlUcR3QGRj_L7ke4,Services,3.0,5.0
 ChIJ3885cmOxlUcRx2-VW1HsflY,Services,6.0,2.8
 ChIJr2pPXzexlUcRUgVtsTzF4GU,Services,44.0,4.2
-ChIJL-UrRBmylUcRd9-n6eWWdsE,Services,,
+ChIJL-UrRBmylUcRd9-n6eWWdsE,Services,0.0,0.0
 ChIJR5gAISS0lUcRnpHcUPwwEjQ,Services,12.0,5.0
 ChIJXxHdyXyxlUcRzNxEe6rc9Ek,Services,301.0,4.1
 ChIJxZaCYRqylUcReKwcDBx_SFQ,Services,1.0,5.0
-ChIJ5b3E-fizlUcRhkOYpZHkGFk,Services,,
+ChIJ5b3E-fizlUcRhkOYpZHkGFk,Services,0.0,0.0
 ChIJBYzpqkCzlUcRNkKBk1fkq6M,Services,1.0,4.0
 ChIJWwItpynblUcRoGUdNRPhcwA,Services,4.0,5.0
 ChIJvyCJkouzlUcRM38qrsHQXIg,Services,9.0,4.1
 ChIJc5g8N4-xlUcRp9tUSC0mBLE,Services,13.0,4.8
 ChIJ9bxXn52xlUcR7y9aukeagGc,Services,1.0,5.0
 ChIJZ5aX8CeylUcRmmLhMpmVpzg,Services,12.0,4.6
-ChIJ1wY5gu2zlUcRLjXZ5PNu0D8,Services,,
+ChIJ1wY5gu2zlUcRLjXZ5PNu0D8,Services,0.0,0.0
 ChIJUxDlnae6lUcRgIJ2QdXtXak,Services,43.0,3.5
-ChIJbwAHbQqylUcRm_A3oNb2-3o,Services,,
+ChIJbwAHbQqylUcRm_A3oNb2-3o,Services,0.0,0.0
 ChIJqWnSw5GzlUcRNe6aKlcvpGg,Services,7.0,1.0
 ChIJ69pOlvGzlUcR-U8GDjeGd9I,Services,1.0,1.0
 ChIJqTHJwiSzlUcR30NzZtL-K5c,Services,23.0,4.8
@@ -1282,28 +1282,28 @@ ChIJJ_Km66q1lUcRpvOyUvSHQkk,Services,16.0,5.0
 ChIJI0rHV46zlUcROYKHazEiTn4,Services,20.0,1.4
 ChIJmbe_P5qzlUcR6NkvhzLT8JU,Services,20.0,5.0
 ChIJydwBUNuxlUcRTYhstKKk5X4,Services,22.0,4.9
-ChIJFTHSof-zlUcRxz96xAcfreU,Services,,
+ChIJFTHSof-zlUcRxz96xAcfreU,Services,0.0,0.0
 ChIJF_U7l3etlUcRj4joN6iuhio,Services,1.0,5.0
 ChIJkcZkKfN-C0ERR0qHIsV0h0g,Services,9.0,4.4
 ChIJrRC5YIKxlUcROxBoGFuaIR0,Services,12.0,4.4
-ChIJAzZ7SZuxlUcRseumfK2NeNc,Services,,
+ChIJAzZ7SZuxlUcRseumfK2NeNc,Services,0.0,0.0
 ChIJzz6qwhiylUcRVaxSZV7QAvM,Services,7.0,4.6
-ChIJSwQ1WMe1lUcREDvcY3lni8I,Services,,
+ChIJSwQ1WMe1lUcREDvcY3lni8I,Services,0.0,0.0
 ChIJX6WJQ2CxlUcR6ExoE6df1oU,Services,7.0,5.0
 ChIJJ6rGui6ylUcR6genASibLUM,Services,5.0,5.0
 ChIJQVLptmaxlUcRHQMAFlmBS88,Services,10.0,5.0
 ChIJgwFBIhmylUcRk3lSgL-bWMg,Services,14.0,4.8
 ChIJwSQT9R6xlUcRDugUEAF6dIo,Services,6.0,4.2
-ChIJL0GmmMezlUcRV3-Ihk91XfE,Services,,
+ChIJL0GmmMezlUcRV3-Ihk91XfE,Services,0.0,0.0
 ChIJaenQgnexlUcR11159JxuFVM,Services,33.0,5.0
 ChIJX0hdiEGxlUcR0vc_yeQFQOI,Services,21.0,4.1
 ChIJfczqLIuxlUcRo33VUqcjWVE,Services,5.0,4.6
 ChIJiWueQ3-xlUcRTeLOBMd2edA,Services,21.0,4.6
-ChIJRe2brAm0lUcRjYQjzbwiok0,Services,,
+ChIJRe2brAm0lUcRjYQjzbwiok0,Services,0.0,0.0
 ChIJzcuvJwCzlUcRY5Rg6KZH_AU,Services,1.0,5.0
-ChIJvXAzLpaxlUcR6LhpAfSJ5CI,Services,,
+ChIJvXAzLpaxlUcR6LhpAfSJ5CI,Services,0.0,0.0
 ChIJ3S_cKYy2lUcRnGxcvXX_aRw,Services,1.0,5.0
-ChIJtX9aKsqzlUcRtr5yDvm_YZU,Services,,
+ChIJtX9aKsqzlUcRtr5yDvm_YZU,Services,0.0,0.0
 ChIJn73FWo6zlUcRWuamIDFe37s,Services,13.0,3.8
 ChIJOW_kdlexlUcRVkqxRcs7XxM,Services,90.0,5.0
 ChIJp03bc5CzlUcRYEJB3BJ52yU,Services,1.0,5.0
@@ -1311,15 +1311,15 @@ ChIJB3WiDfyzlUcR1SFkOkY2-fs,Services,2.0,5.0
 ChIJoVDWx-6zlUcRDLd05FYzwFk,Services,18.0,3.8
 ChIJwbJGvmCxlUcRxj222H-cTZw,Services,3.0,4.3
 ChIJG472oY6xlUcR00yQtltnD68,Services,4.0,5.0
-ChIJP9i0U0GxlUcRpjbhriLj1Aw,Services,,
+ChIJP9i0U0GxlUcRpjbhriLj1Aw,Services,0.0,0.0
 ChIJ868uluSxlUcROuiStOITwPo,Services,2.0,3.0
 ChIJH35T_dWzlUcRMtczkubmzFI,Services,35.0,4.5
-ChIJHd5O-GCxlUcR0c7Fmwwd9Bk,Services,,
+ChIJHd5O-GCxlUcR0c7Fmwwd9Bk,Services,0.0,0.0
 ChIJlYMqiiWzlUcRe15eKPBdO3I,Services,4.0,5.0
 ChIJvU-1Tj2zlUcR5H8G0fukMcw,Services,1.0,5.0
 ChIJC1fkIISxlUcR3y0jNLkEd-4,Services,46.0,4.2
 ChIJCyuM-IKxlUcR0ygf3ggAkok,Services,13.0,4.9
-ChIJG8lk6luzlUcRGihiswwQ7C4,Services,,
+ChIJG8lk6luzlUcRGihiswwQ7C4,Services,0.0,0.0
 ChIJ8_tJQxh_C0ERRqdWjhQ2fmc,Services,7.0,5.0
 ChIJv70Idi-ylUcR15NKYr-xx9o,Services,7.0,4.6
 ChIJ38EeOg6xlUcRChGXFtdNxnE,Services,2.0,4.5
@@ -1329,31 +1329,31 @@ ChIJJ5wNoX6xlUcRBkNwxRsqFwI,Services,18.0,4.5
 ChIJ-6kgfRKulUcRNxgRRW2lyNo,Services,18.0,3.9
 ChIJq9SThpu1lUcRF0a-yGMFuWM,Services,38.0,4.8
 ChIJvz6zrkOxlUcRCcAz-uiAA0A,Services,1.0,5.0
-ChIJA7XOdJ6xlUcRGIiq2iugCsg,Services,,
+ChIJA7XOdJ6xlUcRGIiq2iugCsg,Services,0.0,0.0
 ChIJz9ljwYWxlUcRh3HHE8TkTn0,Services,48.0,3.9
-ChIJgzMuGECxlUcRSwbv0J2ByL4,Services,,
-ChIJq6rOT3CwlUcRAyyEeFNQL9c,Services,,
-ChIJ1wEClReylUcRwNxfpqlzlOs,Services,,
+ChIJgzMuGECxlUcRSwbv0J2ByL4,Services,0.0,0.0
+ChIJq6rOT3CwlUcRAyyEeFNQL9c,Services,0.0,0.0
+ChIJ1wEClReylUcRwNxfpqlzlOs,Services,0.0,0.0
 ChIJRSrzVV6zlUcR8v2Yme4jxPg,Services,2.0,3.0
 ChIJr8_s7yqzlUcRw-ZZ97IOOIY,Services,9.0,5.0
 ChIJicw5OpqwlUcRWKIUL1JeV4E,Services,54.0,3.9
 ChIJf8-Osb-xlUcRIyRtlKSZ0Ho,Services,12.0,2.0
 ChIJkz0uH_azlUcRNr-XMfo2AB0,Services,25.0,3.7
-ChIJoTFDNWKxlUcRa9XunZ_4l08,Services,,
+ChIJoTFDNWKxlUcRa9XunZ_4l08,Services,0.0,0.0
 ChIJ74A6azixlUcROmyVITDpFXk,Services,3.0,4.3
 ChIJH3POtfyzlUcR63xeJmCRadQ,Services,54.0,4.9
 ChIJcZ5Oyi2zlUcRGMCti734bUE,Services,3.0,4.3
-ChIJq-7neQCxlUcR4cQaBInntRU,Services,2.0,
+ChIJq-7neQCxlUcR4cQaBInntRU,Services,2.0,0.0
 ChIJ12JcTAWylUcRZft3zgmHZZQ,Services,15.0,4.1
 ChIJPfOifySxlUcRlO8JWfqOotY,Services,1.0,5.0
-ChIJK5_jkSCzlUcRIpbTZgRIfQU,Services,,
+ChIJK5_jkSCzlUcRIpbTZgRIfQU,Services,0.0,0.0
 ChIJT9dVu2y1lUcRizn-z0LMxLA,Services,17.0,5.0
 ChIJt-uoFdm1lUcRbqjKWAOpzG0,Services,2.0,3.0
-ChIJ-SrJhnW0lUcRbNgFFncU5Eo,Services,,
+ChIJ-SrJhnW0lUcRbNgFFncU5Eo,Services,0.0,0.0
 ChIJS5FkASCzlUcRM5LIdhrrHLk,Services,4.0,4.3
-ChIJsxcyZkR_C0ER1PbKdEia-94,Services,,
-ChIJC504q26xlUcRjttESYBvesk,Services,,
-ChIJ1UgZfQe0lUcRwvwER_XD4Pw,Services,,
+ChIJsxcyZkR_C0ER1PbKdEia-94,Services,0.0,0.0
+ChIJC504q26xlUcRjttESYBvesk,Services,0.0,0.0
+ChIJ1UgZfQe0lUcRwvwER_XD4Pw,Services,0.0,0.0
 ChIJwW-hEnSzlUcRG6s_lX5WLtU,Services,23.0,4.7
 ChIJlxdBtcGxlUcRc9fBgGy9rIY,Services,12.0,4.2
 ChIJUdgX6TixlUcRM-3LHJAGtUE,Services,15.0,5.0
@@ -1361,28 +1361,28 @@ ChIJM97JrBGzlUcR20lrWRKrobA,Services,2.0,5.0
 ChIJQ4tZWoyzlUcRJdpdg9WdQnk,Services,5.0,5.0
 ChIJL3R4BR5_C0ERod1CGGqANCQ,Services,1.0,5.0
 ChIJ88_2zKixlUcRGl42E1egLtk,Services,6.0,5.0
-ChIJPVq83u2zlUcRj8N3s_7g0xs,Services,,
-ChIJzZ5WouexlUcRN00xa5T1iys,Services,,
+ChIJPVq83u2zlUcRj8N3s_7g0xs,Services,0.0,0.0
+ChIJzZ5WouexlUcRN00xa5T1iys,Services,0.0,0.0
 ChIJMzNcIB20lUcRxYksCtfpb7Q,Services,1.0,5.0
 ChIJy2z0lN-wlUcR00VNXCWVU9Q,Services,32.0,4.5
 ChIJ279Fp1CzlUcRGR1jeQUDQew,Services,1.0,4.0
-ChIJpQ0NBGGxlUcRELWqO8rZs7U,Services,,
-ChIJTXjWEXS0lUcRbETOfuCjmoA,Services,,
+ChIJpQ0NBGGxlUcRELWqO8rZs7U,Services,0.0,0.0
+ChIJTXjWEXS0lUcRbETOfuCjmoA,Services,0.0,0.0
 ChIJrQQZf3qxlUcR5AfIuYSCNkw,Services,1.0,5.0
 ChIJVagp8C6ylUcREHWXzTGt-eQ,Services,1.0,5.0
 ChIJsdct4YqxlUcR7GlJhiEpUEc,Services,18.0,4.8
-ChIJOS45WQWylUcRL8Hg6b3ziqI,Services,,
+ChIJOS45WQWylUcRL8Hg6b3ziqI,Services,0.0,0.0
 ChIJz6I5iiqzlUcRYqSi7TCROK4,Services,33.0,4.2
 ChIJuffUp4ezlUcRIlDM804OdJQ,Services,19.0,4.5
-ChIJp9wORY-xlUcRDDUx_612pcg,Services,,
+ChIJp9wORY-xlUcRDDUx_612pcg,Services,0.0,0.0
 ChIJySbSaQGzlUcRhVgQ60s3ws8,Services,501.0,4.1
 ChIJDytNZ3mxlUcRLOE2sDRajuY,Services,1.0,5.0
 ChIJl_pQB-KzlUcRwrJv1z1493I,Services,85.0,4.2
-ChIJQ4tZWoyzlUcRC4PkLc_1zlU,Services,,
+ChIJQ4tZWoyzlUcRC4PkLc_1zlU,Services,0.0,0.0
 ChIJzytTU_6zlUcRz863OlhvI2c,Services,1.0,5.0
-ChIJg-0EdpOxlUcRrdbVf51RvoA,Services,,
+ChIJg-0EdpOxlUcRrdbVf51RvoA,Services,0.0,0.0
 ChIJf8-Osb-xlUcRQRJfkY19V2k,Services,1.0,4.0
-ChIJO-k_4p2xlUcRnMWttLuPnh4,Services,,
+ChIJO-k_4p2xlUcRnMWttLuPnh4,Services,0.0,0.0
 ChIJNWVlCrexlUcR3T78HCoAD7U,Services,231.0,4.9
 ChIJZ4rrn5CxlUcR5BuOG4ZPGAE,Services,6.0,4.8
 ChIJ___bmP6zlUcRxcRvo2V-vMs,Services,24.0,3.7
@@ -1390,32 +1390,32 @@ ChIJCU-4FPizlUcRKv1m-8PZfBE,Services,2.0,5.0
 ChIJTSYVGnmxlUcRicKDlxCwBlA,Services,5.0,5.0
 ChIJwSptzA-ylUcRv2kBqQxQjbE,Services,1.0,5.0
 ChIJW_osVYqzlUcRh0XZ7Th3dS0,Services,1.0,5.0
-ChIJv5oBjIGxlUcRTDFkmSkssCU,Services,,
+ChIJv5oBjIGxlUcRTDFkmSkssCU,Services,0.0,0.0
 ChIJpdAuK7-xlUcRCouDUiHrCJc,Services,1.0,2.0
 ChIJ3y-WYOGzlUcRmWgcZgBr6FM,Services,4.0,4.5
 ChIJc8Fi6-GjlUcRI5z1NdmVaW4,Services,77.0,5.0
 ChIJg8Xnh_SzlUcRfYVFjTlLHbY,Services,2.0,3.5
-ChIJP2SDklSxlUcRgffODYGWOG0,Services,,
+ChIJP2SDklSxlUcRgffODYGWOG0,Services,0.0,0.0
 ChIJq3duRlexlUcRs8Pm0rSr4FQ,Services,1.0,5.0
 ChIJCyZtQR6ylUcRDaTTyzWLY8E,Services,16.0,5.0
-ChIJ7WWAZvSxlUcRoHjRzeqdeVE,Services,,
-ChIJ49ScRXaxlUcR3Fio0miZciw,Services,,
+ChIJ7WWAZvSxlUcRoHjRzeqdeVE,Services,0.0,0.0
+ChIJ49ScRXaxlUcR3Fio0miZciw,Services,0.0,0.0
 ChIJoylfJoSxlUcRP4PrK939Gk4,Services,30.0,4.8
-ChIJTXjWEXS0lUcRuPoP3tm31WE,Services,,
+ChIJTXjWEXS0lUcRuPoP3tm31WE,Services,0.0,0.0
 ChIJ0TOtey-ylUcRic7OLlb_Wyo,Services,4.0,4.8
-ChIJt71CdzyylUcRqBc5c4LTctU,Services,,
+ChIJt71CdzyylUcRqBc5c4LTctU,Services,0.0,0.0
 ChIJHUFz-oCzlUcRb7I_V3onDrs,Services,3.0,5.0
 ChIJZ_aa91OxlUcR22MDTCpWcLU,Services,1.0,1.0
-ChIJ3zw7UiixlUcRQJq_7PXsTOc,Services,,
+ChIJ3zw7UiixlUcRQJq_7PXsTOc,Services,0.0,0.0
 ChIJZ0o_VyqylUcRuDW6WlKYMEo,Services,7.0,1.7
 ChIJfVFkBLSxlUcRmwHJ9zUqW8Y,Services,10.0,4.7
 ChIJwfLNRai2lUcR-FqClONotYs,Services,56.0,3.5
-ChIJTV51_LmxlUcRJNRTOgJbOvE,Services,,
-ChIJP22mMnixlUcRQdkxf1imuXQ,Services,,
+ChIJTV51_LmxlUcRJNRTOgJbOvE,Services,0.0,0.0
+ChIJP22mMnixlUcRQdkxf1imuXQ,Services,0.0,0.0
 ChIJs_bBCLuxlUcRvRrRJgIQVMk,Services,22.0,5.0
 ChIJX-B9o0exlUcRGWi2KZ3U9fY,Services,50.0,4.7
 ChIJmyXz_JGzlUcRdnQI_1z3KBk,Services,5.0,1.8
-ChIJ9aPOTGCxlUcRMlcGpQm0fDs,Services,,
+ChIJ9aPOTGCxlUcRMlcGpQm0fDs,Services,0.0,0.0
 ChIJq6raD1exlUcR_Sjz065IDAY,Services,18.0,4.4
 ChIJV7uslaSxlUcRq6ewPf7cX7Y,Services,18.0,4.8
 ChIJu9ct4YqxlUcR7ceb5nW8Vbg,Services,2.0,5.0
@@ -1429,30 +1429,30 @@ ChIJ8QBWl42xlUcRlf9mAbxmA3Y,Services,1.0,5.0
 ChIJ0XFR4vyzlUcRWw_yiNyLg0c,Services,32.0,3.4
 ChIJ-4faZyqylUcRTm3F3Ewmvnk,Services,3.0,5.0
 ChIJdw_lix6xlUcRSLBguNJ9El4,Services,4.0,3.8
-ChIJRzNXUHaxlUcRT5SXUg9HwXQ,Services,,
+ChIJRzNXUHaxlUcRT5SXUg9HwXQ,Services,0.0,0.0
 ChIJJdvmgg6zlUcRtvX4vcQ82y0,Services,25.0,4.3
 ChIJr2pPXzexlUcRYOIPgxLtrRM,Services,1.0,1.0
 ChIJ88KMW-GzlUcRXyber7Rxwig,Services,17.0,3.1
 ChIJs6wzp_HBlUcRkc61zyEZjAI,Services,6.0,4.3
-ChIJSwcztCiylUcROnJnggJOWTI,Services,,
+ChIJSwcztCiylUcROnJnggJOWTI,Services,0.0,0.0
 ChIJaxxqNo2zlUcR5AjAlInyNQg,Services,255.0,4.2
 ChIJxSK7cFmxlUcRhuQqmrVEyXc,Services,303.0,4.5
-ChIJ2122Ac2xlUcRijqIcG0B_HQ,Services,,
-ChIJnyOqI3q2lUcRlPc_jehTH0A,Services,,
-ChIJNxStnPuzlUcRnnjaEnA0Q_g,Services,,
+ChIJ2122Ac2xlUcRijqIcG0B_HQ,Services,0.0,0.0
+ChIJnyOqI3q2lUcRlPc_jehTH0A,Services,0.0,0.0
+ChIJNxStnPuzlUcRnnjaEnA0Q_g,Services,0.0,0.0
 ChIJHR6xl1axlUcRm2sM1BO25lw,Services,13.0,4.8
 ChIJOUfw_42zlUcREaNK-OxMML4,Services,5.0,3.4
 ChIJ0_8P2eSzlUcRO6E-dFhGx0E,Services,3.0,5.0
-ChIJXc9XwtWxlUcRdAgwDms5BYw,Services,,
+ChIJXc9XwtWxlUcRdAgwDms5BYw,Services,0.0,0.0
 ChIJRVjtUuyzlUcRamIW_hEPNHI,Services,33.0,4.6
 ChIJd4784jmxlUcRFtdI_pBjmns,Services,19.0,4.7
-ChIJYZyzwpqzlUcR9Vq1rRnczHE,Services,,
-ChIJETEnOmmxlUcRyh_XPn4zMpk,Services,,
+ChIJYZyzwpqzlUcR9Vq1rRnczHE,Services,0.0,0.0
+ChIJETEnOmmxlUcRyh_XPn4zMpk,Services,0.0,0.0
 ChIJKcf81kKxlUcRTlasc84KUdg,Services,1.0,5.0
 ChIJ7TsS93ixlUcRrjR8MkTdX4c,Services,1.0,5.0
-ChIJD928vGOxlUcR-vYcNxUvDJs,Services,,
+ChIJD928vGOxlUcR-vYcNxUvDJs,Services,0.0,0.0
 ChIJP8MNmxWxlUcR-u9Iw7qoZ2U,Services,29.0,4.9
-ChIJTc5WAaO2lUcRMEdCxHWCQJo,Services,,
+ChIJTc5WAaO2lUcRMEdCxHWCQJo,Services,0.0,0.0
 ChIJ3e5nGjGylUcROLKvim6pkOQ,Services,21.0,4.6
 ChIJZZxv9i6ylUcRjSNOmjDFBWw,Services,1.0,5.0
 ChIJWek3vdWzlUcR2HuJsYLO6kE,Photography service,6.0,5.0
@@ -1463,34 +1463,34 @@ ChIJi5l3-fizlUcRWqdw19USJ1A,Photography service,1.0,1.0
 ChIJBTMjRluxlUcRNmgYPXCb0Wg,Photography service,1.0,3.0
 ChIJu1jyuuuxlUcRUHqrr5Tn9ug,Photography service,29.0,5.0
 ChIJa9KPnlyxlUcRMRhJ-R7ztUo,Photography service,2.0,5.0
-ChIJt9Cd8_6zlUcR41550cOAumE,Photography service,,
+ChIJt9Cd8_6zlUcR41550cOAumE,Photography service,0.0,0.0
 ChIJKQF3Kn6xlUcREtjaJFhO0P8,Boat dealer,88.0,4.9
 ChIJ04QjHo-xlUcRdsy_0sjbzow,Convenience store,6.0,5.0
-ChIJgRKqWmazlUcRLuV04fzjeXk,Railroad company,,
+ChIJgRKqWmazlUcRLuV04fzjeXk,Railroad company,0.0,0.0
 ChIJfaq2J3GzlUcRWJcaC8h2Wdo,Railroad company,1.0,5.0
-ChIJ4TDPTGCxlUcRd1NkX7nqPt0,Labor union,,
-ChIJcTh_AR5_C0ER9EvrMG3XqpI,Metal working shop,,
+ChIJ4TDPTGCxlUcRd1NkX7nqPt0,Labor union,0.0,0.0
+ChIJcTh_AR5_C0ER9EvrMG3XqpI,Metal working shop,0.0,0.0
 ChIJMR06voyzlUcRW7KbSk3xjzY,Print shop,6.0,4.8
 ChIJ5cX9bB5_C0ER4LBKEAUc9t8,Print shop,56.0,4.2
 ChIJrcSuolaxlUcRp_qX6yi8bIo,Print shop,2.0,5.0
-ChIJ5wIA9aKxlUcRm70LukTG-pY,Print shop,,
+ChIJ5wIA9aKxlUcRm70LukTG-pY,Print shop,0.0,0.0
 ChIJrUN193S0lUcR20Ziv5e25B0,Print shop,26.0,4.7
 ChIJcwnDcGGxlUcRG_1J3gHxkn0,Print shop,36.0,4.4
 ChIJVRryeBCylUcRzJSIalE6CB4,Print shop,5.0,5.0
-ChIJH7wtVMqxlUcReRKLqvOa8N0,Money order service,,
-ChIJL1sYvkKxlUcR96qYib0nzZw,Money order service,,
-ChIJybqji3WxlUcRfk4Aryagq2g,Money order service,,
-ChIJzWR0rlexlUcRbcXCQtroL9w,Money order service,,
+ChIJH7wtVMqxlUcReRKLqvOa8N0,Money order service,0.0,0.0
+ChIJL1sYvkKxlUcR96qYib0nzZw,Money order service,0.0,0.0
+ChIJybqji3WxlUcRfk4Aryagq2g,Money order service,0.0,0.0
+ChIJzWR0rlexlUcRbcXCQtroL9w,Money order service,0.0,0.0
 ChIJJUmWNkOxlUcRvpF54BUPVtA,Pathologist,2.0,5.0
-ChIJe_byE2ixlUcRoHndEcDvb8I,Pathologist,,
+ChIJe_byE2ixlUcRoHndEcDvb8I,Pathologist,0.0,0.0
 ChIJD23M3X6xlUcR4pj2_JQVxJw,Pathologist,21.0,5.0
 ChIJ_yfOPQ-ylUcRhMMhReAEvPI,Pathologist,2.0,5.0
 ChIJGaTvPVexlUcRyDTsx-kO10w,Butcher shop,8.0,4.9
 ChIJY5TS2i2ylUcRNEa2HegIcAg,Butcher shop,6.0,5.0
-ChIJq_NSH1uxlUcR-qTsabFTuAA,Butcher shop,,
+ChIJq_NSH1uxlUcR-qTsabFTuAA,Butcher shop,0.0,0.0
 ChIJP0SmOAWylUcRAIL7NjmQN9A,Butcher shop,158.0,4.5
 ChIJFWAKxH6xlUcRtJImB-ebMZU,Butcher shop,33.0,4.6
-ChIJozw76xOxlUcR1kSTcH7gJhI,Butcher shop,,
+ChIJozw76xOxlUcR1kSTcH7gJhI,Butcher shop,0.0,0.0
 ChIJgZuEd06zlUcRoTpySWfAE8k,Honey farm,6.0,5.0
 ChIJgbjdZW-xlUcRNKMAVyCfiuk,Food products supplier,2.0,5.0
 ChIJPTA9SCSxlUcRt2RNOP7VxoA,Food products supplier,5.0,4.8
@@ -1514,8 +1514,8 @@ ChIJ_V4Wt7-xlUcRebD4Kloz_rU,Event venue,70.0,4.5
 ChIJMXSKlBWxlUcRFSU00zmuwlk,Event venue,731.0,4.5
 ChIJZZxv9i6ylUcRSojPUgN_-P4,Event venue,1459.0,4.6
 ChIJiTpqY2OxlUcRkm9TmVGviLQ,Charity,7.0,3.7
-ChIJldoBgDYfeiQRZWT-lpCD-LA,Charity,,
-ChIJOdx41UKxlUcRR0RFWaPGO84,Charity,,
+ChIJldoBgDYfeiQRZWT-lpCD-LA,Charity,0.0,0.0
+ChIJOdx41UKxlUcRR0RFWaPGO84,Charity,0.0,0.0
 ChIJ9ySsYXyxlUcR9aaBKw_fOvo,Charity,8.0,3.5
 ChIJGwkzhkCxlUcR1EEqvRd5864,Charity,7.0,2.6
 ChIJ2RGb9vixlUcRcQPSlp-O6dE,Charity,2.0,5.0
@@ -1525,14 +1525,14 @@ ChIJwYk7f3qxlUcRcmT8fY1K8yI,High school,4.0,5.0
 ChIJ59E-wf-zlUcRMTYvepr4FF0,High school,21.0,4.1
 ChIJhxwrk_2zlUcRbLJTViXu58g,High school,91.0,4.1
 ChIJc11UsWexlUcR68CwBNr9cvo,High school,26.0,3.8
-ChIJxc9ELFKxlUcRGgxs5twhBUc,Machining manufacturer,,
-ChIJ4X91xSaylUcRL96KhcGoj00,Machining manufacturer,,
+ChIJxc9ELFKxlUcRGgxs5twhBUc,Machining manufacturer,0.0,0.0
+ChIJ4X91xSaylUcRL96KhcGoj00,Machining manufacturer,0.0,0.0
 ChIJidRu4RaylUcRbQg-zUb8h1o,Machining manufacturer,11.0,3.9
 ChIJJ0GqhReylUcRQF9O1jSs8ms,Machining manufacturer,9.0,3.9
-ChIJ02D2K1KxlUcRbAkXEGyXNnI,Machining manufacturer,,
-ChIJ02D2K1KxlUcRPlSmqnfB7w4,Machining manufacturer,,
-ChIJxR6-o56xlUcRSubzCn9IXnI,Machining manufacturer,,
-ChIJcdAHPuqxlUcRQlrcNqj3Xgg,Guitar instructor,,
+ChIJ02D2K1KxlUcRbAkXEGyXNnI,Machining manufacturer,0.0,0.0
+ChIJ02D2K1KxlUcRPlSmqnfB7w4,Machining manufacturer,0.0,0.0
+ChIJxR6-o56xlUcRSubzCn9IXnI,Machining manufacturer,0.0,0.0
+ChIJcdAHPuqxlUcRQlrcNqj3Xgg,Guitar instructor,0.0,0.0
 ChIJxZ6QqPurlUcRTX-mnJHu39k,Tool manufacturer,30.0,5.0
 ChIJIQR-sh6ylUcRjrhA2UhiRxs,Tool manufacturer,4.0,4.5
 ChIJzz6qwhiylUcRjSzRzb2e_8c,Tool manufacturer,19.0,4.5
@@ -1545,121 +1545,121 @@ ChIJf0srpyCylUcRtAcZB8-3Ods,Pharmacy,26.0,4.2
 ChIJvXTwXEKxlUcRGNuSU2EvG1g,Pharmacy,56.0,4.2
 ChIJ-bhBfPezlUcREY_o_W3rTG8,Pharmacy,43.0,4.5
 ChIJ2U-vpRqylUcR6gZ_SgDlegE,Pharmacy,13.0,4.3
-ChIJhV_dAmGxlUcRhoYU6gUemPg,Pharmacy,,
+ChIJhV_dAmGxlUcRhoYU6gUemPg,Pharmacy,0.0,0.0
 ChIJLR7HNBGylUcRA4mBGtiTKw0,Pharmacy,37.0,4.7
 ChIJGZhq21yxlUcRGNz1B30ou8Q,Pharmacy,48.0,4.4
 ChIJGbn-F3yxlUcR-9uHvA1Pwao,Pharmacy,22.0,4.5
-ChIJrUPYF3yxlUcRkw33YO4WWAM,Art gallery,,
-ChIJLwqQtcOxlUcR7tizDf_5IDA,Art gallery,,
-ChIJuYj57xexlUcRCxkchme2_hk,Art gallery,,
+ChIJrUPYF3yxlUcRkw33YO4WWAM,Art gallery,0.0,0.0
+ChIJLwqQtcOxlUcR7tizDf_5IDA,Art gallery,0.0,0.0
+ChIJuYj57xexlUcRCxkchme2_hk,Art gallery,0.0,0.0
 ChIJy4QPbUaxlUcR-AQ51Euw1kQ,Art gallery,5.0,3.5
 ChIJNWXqS1-xlUcRcSP7pDtMqRQ,Electronics wholesaler,2.0,4.5
 ChIJK_l8jKa2lUcRKbpJGS7OYik,School,14.0,3.7
 ChIJE52zW2OxlUcRCNcaG9zlXcA,School,7.0,3.7
-ChIJrQIXWZ2zlUcRhsjfXKeV-0Q,School,,
+ChIJrQIXWZ2zlUcRhsjfXKeV-0Q,School,0.0,0.0
 ChIJY4T2OTixlUcRCcPW0eoWLBU,School,6.0,3.7
-ChIJEb4Q2xCylUcRPcpKdFKmPS0,School,,
+ChIJEb4Q2xCylUcRPcpKdFKmPS0,School,0.0,0.0
 ChIJTyey4gKxlUcRshEBzYi7-IA,School,6.0,2.5
 ChIJjaakHeJ-C0ERh3AwEQ6x4eY,School,4.0,2.3
 ChIJqZrh90GxlUcRiUhHftH9Y7o,School,2.0,4.5
-ChIJJ7ZughCylUcRJwp15nYtnzg,School,,
+ChIJJ7ZughCylUcRJwp15nYtnzg,School,0.0,0.0
 ChIJ4zD987yxlUcR5UIVIkaVP8k,School,6.0,5.0
 ChIJn9ewHF2xlUcRGw8wnbcAi7k,School,6.0,3.2
 ChIJQTyMeVexlUcRwuO1D1kBICc,School,11.0,3.9
 ChIJIeKn9XWzlUcRVwI9Owq02zc,School,6.0,4.8
 ChIJkxWf51axlUcRVGfpPczEyYQ,School,25.0,4.8
-ChIJD798TGCxlUcRunP1zfY2T5s,School,,
+ChIJD798TGCxlUcRunP1zfY2T5s,School,0.0,0.0
 ChIJmZMRGkLPlUcR_QFEdNu_A9U,School,19.0,4.8
 ChIJUzeZ1B5_C0ERTU2vox4norc,School,3.0,5.0
 ChIJR2zXzb-xlUcRIIhO3y1q3HE,School,7.0,3.9
 ChIJBQgVR3exlUcRp9xpYcvIQI8,School,7.0,2.6
-ChIJZzy8GfJ-C0ERf5S8KEgjkUE,School,,
+ChIJZzy8GfJ-C0ERf5S8KEgjkUE,School,0.0,0.0
 ChIJY_SrYYyxlUcRpYTot0HUZ9E,School,1.0,5.0
 ChIJk3MI6oh-C0ERbZBbtCM8W78,School,1.0,5.0
 ChIJ23mt4Qm0lUcRLF9x6UHn0LQ,School,2.0,5.0
 ChIJxXf-sVyxlUcRDgKD_COz6JY,School,9.0,2.4
-ChIJacXMKFGxlUcRYUf__yvSXec,School,,
+ChIJacXMKFGxlUcRYUf__yvSXec,School,0.0,0.0
 ChIJucEEIPqzlUcRv-nY74FADBY,School,63.0,4.4
 ChIJMc6Fb_uzlUcRKdplcWqaBSQ,School,5.0,3.4
 ChIJCY5OmIOxlUcR1wWMQsnNfxI,School,6.0,3.8
-ChIJBzfXmuqxlUcRg6n10UDN7yE,School,,
-ChIJCwFWKlexlUcRnzFOIVq35mg,School,,
+ChIJBzfXmuqxlUcRg6n10UDN7yE,School,0.0,0.0
+ChIJCwFWKlexlUcRnzFOIVq35mg,School,0.0,0.0
 ChIJnYMT3n2xlUcR9T3LpaUw8A8,School,1.0,5.0
-ChIJnw_6HGqxlUcR0a1_VAvCy9o,School,,
-ChIJ5Ql8R3yxlUcRSXGyhaDM_KM,School,,
+ChIJnw_6HGqxlUcR0a1_VAvCy9o,School,0.0,0.0
+ChIJ5Ql8R3yxlUcRSXGyhaDM_KM,School,0.0,0.0
 ChIJje3ztyuylUcRWpBhh-n9duo,School,3.0,2.7
 ChIJPTymT1axlUcRgUu0i_QBUpA,School,4.0,5.0
 ChIJ3T-aehCylUcRBGpwmEAuKC0,School,16.0,4.0
 ChIJrysjixCylUcRkKJ0ypVxPW8,School,67.0,4.9
-ChIJV1_PGgCxlUcRFlGtyy5C3zI,School,,
+ChIJV1_PGgCxlUcRFlGtyy5C3zI,School,0.0,0.0
 ChIJWYO1z_mzlUcRrvyp0bMYUOU,School,3.0,5.0
-ChIJOzsynpaxlUcRRWyaQvjy5w0,School,,
-ChIJwee2Cb-xlUcRmNvLus_TmQI,School,,
+ChIJOzsynpaxlUcRRWyaQvjy5w0,School,0.0,0.0
+ChIJwee2Cb-xlUcRmNvLus_TmQI,School,0.0,0.0
 ChIJlxKg0kSxlUcRigl0hQFVVLk,School,65.0,4.6
 ChIJNflJn1axlUcRNftfLnGAxaM,School,62.0,4.9
 ChIJRdR3WCCylUcRlHS-6Kru_fc,School,13.0,3.5
-ChIJm_O_Y_-zlUcRgRVfjY2LnT8,School,,
+ChIJm_O_Y_-zlUcRgRVfjY2LnT8,School,0.0,0.0
 ChIJG36ffBizlUcRkGDkOUfUuVo,School,41.0,5.0
-ChIJyZmv6wCxlUcRvszUDAmHkYA,School,,
+ChIJyZmv6wCxlUcRvszUDAmHkYA,School,0.0,0.0
 ChIJed30Ev6zlUcRP4OuEr09VlM,School,7.0,4.0
-ChIJ7SPie2KxlUcRnTtTGvq1iiM,School,,
+ChIJ7SPie2KxlUcRnTtTGvq1iiM,School,0.0,0.0
 ChIJJd1tykOxlUcRvowvaUo79E4,School,3.0,3.7
 ChIJbZhzMXyxlUcR35lb18oJIvc,School,7.0,4.0
 ChIJT93FZmGxlUcRD-zPwBxIshk,School,11.0,3.2
-ChIJFf4cvxeylUcRLtfC2Md-ct4,School,,
+ChIJFf4cvxeylUcRLtfC2Md-ct4,School,0.0,0.0
 ChIJoQsTevKzlUcRdfqm8pPbDcw,School,4.0,5.0
-ChIJdW_PRACzlUcRx1v6P6YW7Yo,School,4.0,
-ChIJaeIRK5OzlUcRJidojOZJ9a4,School,,
-ChIJiV9f7kOxlUcR07gDEahlg1s,School,,
+ChIJdW_PRACzlUcRx1v6P6YW7Yo,School,4.0,0.0
+ChIJaeIRK5OzlUcRJidojOZJ9a4,School,0.0,0.0
+ChIJiV9f7kOxlUcR07gDEahlg1s,School,0.0,0.0
 ChIJ07kU7MixlUcRQahYytrcmCQ,School,1.0,5.0
-ChIJLTvD9oWxlUcR7fIhFmJvECA,School,,
+ChIJLTvD9oWxlUcR7fIhFmJvECA,School,0.0,0.0
 ChIJnZqvi1qxlUcR1aFLnfHXPXc,School,2.0,3.0
 ChIJxXkbEL2xlUcRhnuFnQmDJ64,School,4.0,5.0
-ChIJH21HUvuzlUcR-QJ1Ss4jVfI,School,,
+ChIJH21HUvuzlUcR-QJ1Ss4jVfI,School,0.0,0.0
 ChIJybXmc56zlUcR_1o1zUzSdl8,School,20.0,5.0
 ChIJecz47RCylUcREW82LgiH-q4,School,26.0,2.7
 ChIJI0zwVPGxlUcRJvJkrTNXnuQ,Wellness program,10.0,4.6
 ChIJdzr9Tp2tlUcRNjuZu85N5Hc,Volunteer organization,4.0,5.0
-ChIJFbA9DVaxlUcRf5E-S4W9npU,Energy equipment and solutions,,
+ChIJFbA9DVaxlUcRf5E-S4W9npU,Energy equipment and solutions,0.0,0.0
 ChIJ7y6p0VWxlUcR6psPED9pPG4,Energy equipment and solutions,29.0,3.9
-ChIJ8VyNJQCxlUcRwol0AtX0Vy0,Energy equipment and solutions,,
+ChIJ8VyNJQCxlUcRwol0AtX0Vy0,Energy equipment and solutions,0.0,0.0
 ChIJjxC8DFmxlUcRTSCuago3jT4,Painter,4.0,4.3
-ChIJXx8d6luxlUcRUJDTldX1BEc,Painter,,
+ChIJXx8d6luxlUcRUJDTldX1BEc,Painter,0.0,0.0
 ChIJdfBipzGxlUcRqmiiXSlr-hc,Tattoo shop,12.0,5.0
 ChIJwQQ-Rd-zlUcR19R8906PTTU,Tattoo shop,71.0,5.0
 ChIJqb3Q0iqzlUcRN_Vdg2Gq2Vw,Tattoo shop,14.0,5.0
 ChIJA50a5XixlUcRxpVInr3o6Jc,Legal services,9.0,5.0
 ChIJU0kBxI2zlUcRLV5ndd7qip8,Legal services,48.0,3.3
-ChIJNyCMwluxlUcRS--Y0FDLAfg,Legal services,,
-ChIJJ20t6GOxlUcRwM8cV1fP_Ls,Legal services,,
-ChIJjfxaeiuxlUcR13dEgfnnfI4,Legal services,,
+ChIJNyCMwluxlUcRS--Y0FDLAfg,Legal services,0.0,0.0
+ChIJJ20t6GOxlUcRwM8cV1fP_Ls,Legal services,0.0,0.0
+ChIJjfxaeiuxlUcR13dEgfnnfI4,Legal services,0.0,0.0
 ChIJf06qUKWzlUcRUuzKVgdSjYg,Organic food store,1.0,4.0
 ChIJ-SGz8MmxlUcRXTADXyI2EMU,Forestry service,2.0,5.0
-ChIJOxdgNt2zlUcR7xFI45pHweA,Health insurance agency,,
+ChIJOxdgNt2zlUcR7xFI45pHweA,Health insurance agency,0.0,0.0
 ChIJH9eFjYuzlUcRgNrEGB6nwIw,Health insurance agency,33.0,5.0
 ChIJLeryL3K1lUcRx2eXIT0qrt8,Health insurance agency,3.0,4.7
 ChIJyZ9UXaC1lUcRl9HbyzI2i7E,Health insurance agency,3.0,5.0
 ChIJu_I42XC1lUcR-OuOFd4WPiY,Health insurance agency,11.0,5.0
-ChIJSXRT_rmxlUcR_PK0WTwHnnw,Health insurance agency,,
-ChIJcaoGBrqxlUcRiEphe5S7R3k,Car repair and maintenance service,,
+ChIJSXRT_rmxlUcR_PK0WTwHnnw,Health insurance agency,0.0,0.0
+ChIJcaoGBrqxlUcRiEphe5S7R3k,Car repair and maintenance service,0.0,0.0
 ChIJ07szLkmxlUcR00WkMaTKTvA,Car repair and maintenance service,1.0,5.0
 ChIJtQhx4FqxlUcRbvlYY5VJpGg,Car repair and maintenance service,16.0,4.7
 ChIJEQXSJJ6xlUcR5_JQlUnXUlg,Car repair and maintenance service,77.0,5.0
 ChIJ99BFeLuxlUcResXPPJE64R8,Car repair and maintenance service,15.0,4.8
-ChIJmypvWv6zlUcRXoJy3kUn8qw,Car repair and maintenance service,1.0,
+ChIJmypvWv6zlUcRXoJy3kUn8qw,Car repair and maintenance service,1.0,0.0
 ChIJh5kgO9azlUcRj20i6tVcU88,Car repair and maintenance service,25.0,4.8
 ChIJr9q3RfyzlUcRSlghqgqTO6c,Car repair and maintenance service,59.0,4.8
 ChIJx6jfhn6xlUcRdlZXCi2DfQc,Car repair and maintenance service,30.0,4.8
-ChIJK9EO_fyxlUcR_ZlptneDYmU,Car repair and maintenance service,1.0,
-ChIJUXDEuqmxlUcRSMdaZDTnDk0,Car repair and maintenance service,1.0,
+ChIJK9EO_fyxlUcR_ZlptneDYmU,Car repair and maintenance service,1.0,0.0
+ChIJUXDEuqmxlUcRSMdaZDTnDk0,Car repair and maintenance service,1.0,0.0
 ChIJ_QcDPACxlUcR6TCbC7_UrNY,Car repair and maintenance service,3.0,3.0
 ChIJxx9_T2KxlUcRmKeKr0X4WnQ,Car repair and maintenance service,67.0,4.6
 ChIJv4-bttezlUcRib8L26wPrqc,Naturopathic practitioner,9.0,5.0
 ChIJJcxO9zu0lUcRhrhb32ue7Rs,Naturopathic practitioner,3.0,5.0
 ChIJc0nUjEWxlUcRlWNrddlLEqo,Naturopathic practitioner,8.0,5.0
 ChIJaddozUSxlUcRM8RNWOl4j1E,Bus company,4.0,4.5
-ChIJ6ztI_U2xlUcRREnTzahw8XA,Bus company,,
-ChIJ0Xs3A1SxlUcRad0ONHsaggU,Bus company,,
+ChIJ6ztI_U2xlUcRREnTzahw8XA,Bus company,0.0,0.0
+ChIJ0Xs3A1SxlUcRad0ONHsaggU,Bus company,0.0,0.0
 ChIJ2-tJfqu2lUcRKW3LRuJjSZw,Bus company,22.0,2.2
 ChIJSxpuG42xlUcRhUxPPEMULfc,Bus company,38.0,4.4
 ChIJGZ_FgwC0lUcRFktJcW8j1xc,Bus company,64.0,2.3
@@ -1667,90 +1667,90 @@ ChIJqZAikTOxlUcRoB5FCKFwhhM,Bus company,13.0,4.6
 ChIJeQmxJ_KxlUcRTDDrCkDnQXg,Bus company,1.0,5.0
 ChIJBU2bGWSxlUcRPUgKD-6RWwM,Bus company,2.0,1.0
 ChIJmZ86r12xlUcRfLtP80l-Na8,Bus company,8.0,4.5
-ChIJ_eWOxu6xlUcRwLpzsddewLM,Bus company,,
-ChIJva0t1OqxlUcR3-09od_Md1M,Bus company,,
-ChIJ_f9Dn1axlUcR40LLXbnYdj8,Bus company,,
+ChIJ_eWOxu6xlUcRwLpzsddewLM,Bus company,0.0,0.0
+ChIJva0t1OqxlUcR3-09od_Md1M,Bus company,0.0,0.0
+ChIJ_f9Dn1axlUcR40LLXbnYdj8,Bus company,0.0,0.0
 ChIJnZ9Hz1ixlUcRnY66Gxex9Eg,Bus company,114.0,4.7
 ChIJudTbvlSxlUcRzjwnj39a9gI,Bus company,78.0,3.4
 ChIJn3ZkCT6xlUcRR5TT9HQSWcA,Consultant,1.0,5.0
-ChIJ2dUjnTixlUcRWLkne5YarHE,Consultant,,
+ChIJ2dUjnTixlUcRWLkne5YarHE,Consultant,0.0,0.0
 ChIJOxcb4p2xlUcRCnHXXy36HCs,Consultant,3.0,5.0
 ChIJb8A30-G6lUcRadB_g8rP3m8,Consultant,5.0,4.8
-ChIJQ96LYhCylUcRZSee-4-sVp8,Consultant,,
-ChIJq6o6NWKxlUcR4G5zpMzznz4,Consultant,,
-ChIJg_IWJaexlUcRrEFqf8rUDKM,Consultant,,
-ChIJ3yG7vYqxlUcRMGJY5idS8Eg,Consultant,,
+ChIJQ96LYhCylUcRZSee-4-sVp8,Consultant,0.0,0.0
+ChIJq6o6NWKxlUcR4G5zpMzznz4,Consultant,0.0,0.0
+ChIJg_IWJaexlUcRrEFqf8rUDKM,Consultant,0.0,0.0
+ChIJ3yG7vYqxlUcRMGJY5idS8Eg,Consultant,0.0,0.0
 ChIJNRiKRrqzlUcRnSz1w7aDgSg,Consultant,9.0,5.0
 ChIJNQomY1qxlUcRIj-vkkU8zyY,Consultant,24.0,4.1
 ChIJEcAEZOR-C0ER6lKPgH5rT1k,Consultant,3.0,4.3
 ChIJTxXSlXmxlUcRlob9Z7gtMmI,Consultant,2.0,4.0
 ChIJ4_Hm-GCxlUcRio4f-96MsKE,Consultant,58.0,4.7
 ChIJ02D2K1KxlUcRgWUX5JesfyE,Consultant,2.0,4.5
-ChIJoTFDNWKxlUcR6zbz-bgYMWs,Consultant,,
+ChIJoTFDNWKxlUcR6zbz-bgYMWs,Consultant,0.0,0.0
 ChIJLc68LmOxlUcRoZcjFyB5Ozo,Consultant,48.0,4.4
-ChIJX-Mjy1mxlUcRAgE0Cg95DyY,Consultant,,
+ChIJX-Mjy1mxlUcRAgE0Cg95DyY,Consultant,0.0,0.0
 ChIJo69UzUqzlUcRMltNmzVt7mA,Consultant,1.0,5.0
-ChIJETFBjOazlUcRSYatYGuLzRI,Consultant,,
+ChIJETFBjOazlUcRSYatYGuLzRI,Consultant,0.0,0.0
 ChIJh2ZJvmCxlUcRExezekRKQss,Consultant,17.0,3.8
-ChIJL7_8w2OxlUcRmVueYeoWljs,Consultant,,
+ChIJL7_8w2OxlUcRmVueYeoWljs,Consultant,0.0,0.0
 ChIJFf4cvxeylUcRyu0xrXq8xnM,Consultant,9.0,5.0
 ChIJuVjjyxuxlUcRRdiH9Ljhkes,Consultant,5.0,4.6
-ChIJHcNLKimxlUcR3CPlqbUkYfU,Consultant,,
+ChIJHcNLKimxlUcR3CPlqbUkYfU,Consultant,0.0,0.0
 ChIJR14doZi2lUcRn0uIQnmkl14,Consultant,12.0,4.7
 ChIJuz3L16e2lUcR-scHI5k6VLU,Consultant,3.0,4.7
 ChIJodX3V1axlUcRnXGYOjk-pkc,Consultant,5.0,4.2
-ChIJj-p1U1axlUcRbkQCI1CYw8o,Consultant,,
-ChIJ4TDPTGCxlUcR7agzj4jwGd8,Consultant,,
-ChIJAbdcfeyxlUcRG0u6G77CcU0,Consultant,,
+ChIJj-p1U1axlUcRbkQCI1CYw8o,Consultant,0.0,0.0
+ChIJ4TDPTGCxlUcR7agzj4jwGd8,Consultant,0.0,0.0
+ChIJAbdcfeyxlUcRG0u6G77CcU0,Consultant,0.0,0.0
 ChIJVVYBRUKxlUcRDYthxy-fx7A,Consultant,33.0,4.1
 ChIJQY__evuzlUcR24gpY8Lu2XI,Consultant,19.0,3.7
-ChIJ5zCNiTuylUcRoMUtr0aa5wM,Consultant,,
+ChIJ5zCNiTuylUcRoMUtr0aa5wM,Consultant,0.0,0.0
 ChIJzURyRwyylUcRCLpYX7XaQpQ,Consultant,9.0,3.4
 ChIJFcoW5b2zlUcRyGTV789rY9E,Consultant,1.0,5.0
 ChIJr3l7S2CxlUcRWhb-d4KrRbY,Consultant,5.0,3.7
 ChIJ_UiD1f6zlUcR1viKoawvgm0,Consultant,2.0,5.0
-ChIJGUWQfGuxlUcRqfJo5feBrNE,Consultant,,
+ChIJGUWQfGuxlUcRqfJo5feBrNE,Consultant,0.0,0.0
 ChIJj5fQ8cuxlUcRiXyBKBf9mhY,Consultant,13.0,5.0
-ChIJ-5bPiD2ylUcRSzoxzNxRk_4,Consultant,,
+ChIJ-5bPiD2ylUcRSzoxzNxRk_4,Consultant,0.0,0.0
 ChIJdUUeI0DJlUcRaxL3vPR17H0,Consultant,1.0,5.0
-ChIJvUcvncOxlUcRxxhWLEa-aqM,Consultant,,
+ChIJvUcvncOxlUcRxxhWLEa-aqM,Consultant,0.0,0.0
 ChIJ6e8womCxlUcROEOLwyOdHQs,Consultant,1.0,4.0
-ChIJo_rDlJu1lUcRCZAnkGn1ziA,Consultant,,
+ChIJo_rDlJu1lUcRCZAnkGn1ziA,Consultant,0.0,0.0
 ChIJ_SyMpQeZlUcR_ecdKC5Oxz4,Consultant,9.0,4.9
 ChIJA06u2IyxlUcRdL_oL_v3x7I,Consultant,2.0,5.0
 ChIJ1e07zVOxlUcRASd-60lGOWg,Consultant,2.0,5.0
 ChIJd-i6byi0lUcR2FLxZVaUMn0,Consultant,1.0,5.0
 ChIJAQCQX3ixlUcRBYXCXCwDsoM,Consultant,1.0,5.0
 ChIJlab-yOizlUcRqnhNRv9MAKI,Consultant,5.0,3.2
-ChIJKWrUlX6xlUcRtc8Dr5zPizE,Consultant,,
+ChIJKWrUlX6xlUcRtc8Dr5zPizE,Consultant,0.0,0.0
 ChIJUSsBjVa2lUcROV8jTMTCnWU,Consultant,9.0,4.6
 ChIJe3lUWIezlUcRfDq7bnH_cbc,Consultant,11.0,4.8
-ChIJH4_XpGGxlUcRRmsCh3Jpn8Y,Consultant,,
-ChIJ878xMEOxlUcRod2CS6fSjnw,Consultant,,
-ChIJ1yxWkmCxlUcRg_O9c0ii1wo,Consultant,,
+ChIJH4_XpGGxlUcRRmsCh3Jpn8Y,Consultant,0.0,0.0
+ChIJ878xMEOxlUcRod2CS6fSjnw,Consultant,0.0,0.0
+ChIJ1yxWkmCxlUcRg_O9c0ii1wo,Consultant,0.0,0.0
 ChIJowAdWSazlUcRmdl8BEuaQfU,Consultant,17.0,5.0
 ChIJHUkjhE6xlUcRNXQ79h6RSNE,Consultant,2.0,5.0
 ChIJExt9Cr-zlUcRMwxzvxRFmlI,Consultant,8.0,5.0
 ChIJx_dG93ixlUcRkQah8lbuLbA,Consultant,6.0,3.3
-ChIJh6-W3QiylUcRxh2e1mnBmW8,Consultant,,
-ChIJxWI_ITyxlUcRGQ5zSp8t6P0,Consultant,,
+ChIJh6-W3QiylUcRxh2e1mnBmW8,Consultant,0.0,0.0
+ChIJxWI_ITyxlUcRGQ5zSp8t6P0,Consultant,0.0,0.0
 ChIJW_osVYqzlUcRyxOPDB3jUxg,Consultant,46.0,4.8
-ChIJ92ED9T-zlUcRLFnsqs8jxCA,Consultant,,
+ChIJ92ED9T-zlUcRLFnsqs8jxCA,Consultant,0.0,0.0
 ChIJNdiNw8GxlUcRxR2-IUg4_Wg,Consultant,26.0,3.1
 ChIJvwgbrGGxlUcRll-gdZj-qeo,Consultant,31.0,4.7
 ChIJC_L_0-9-C0ERay3UZd6i1Vc,Consultant,1.0,5.0
-ChIJQds2zFmxlUcR5dD7Hz7VuKw,Consultant,,
-ChIJRzmCu2uxlUcRZXfHn7lhRC8,Consultant,,
+ChIJQds2zFmxlUcR5dD7Hz7VuKw,Consultant,0.0,0.0
+ChIJRzmCu2uxlUcRZXfHn7lhRC8,Consultant,0.0,0.0
 ChIJe0LkohC0lUcRRwIWTjgfNPk,Consultant,1.0,5.0
-ChIJTXjWEXS0lUcRnCZTyYSAJIU,Consultant,,
+ChIJTXjWEXS0lUcRnCZTyYSAJIU,Consultant,0.0,0.0
 ChIJL2kevGizlUcRc97Wctv3YqE,Consultant,1.0,5.0
-ChIJfWhReg2ylUcR6D9WDejeCsY,Consultant,,
-ChIJyR3ERnS0lUcR1LTSTnuC-WA,Consultant,,
-ChIJ9UPKJzOzlUcRReaWaYMRi_w,Consultant,,
-ChIJt9nMKh-ylUcRnEPwadIVYKQ,Consultant,,
+ChIJfWhReg2ylUcR6D9WDejeCsY,Consultant,0.0,0.0
+ChIJyR3ERnS0lUcR1LTSTnuC-WA,Consultant,0.0,0.0
+ChIJ9UPKJzOzlUcRReaWaYMRi_w,Consultant,0.0,0.0
+ChIJt9nMKh-ylUcRnEPwadIVYKQ,Consultant,0.0,0.0
 ChIJVT0wWF2xlUcRBKIPTf3F1-s,Consultant,3.0,3.3
-ChIJ-SK4ibi1lUcRy4ijSAMCj_4,Consultant,,
-ChIJiUJYBOV-C0ER6h7phmqcurw,Consultant,,
+ChIJ-SK4ibi1lUcRy4ijSAMCj_4,Consultant,0.0,0.0
+ChIJiUJYBOV-C0ER6h7phmqcurw,Consultant,0.0,0.0
 ChIJcwTSQ_izlUcRmN92LG5uArc,Consultant,13.0,4.9
 ChIJ5_xObpy2lUcRNEPhK9zUpEo,Consultant,3.0,5.0
 ChIJNZkZ0l-xlUcRrUEyGxqY5y4,Consultant,1.0,5.0
@@ -1761,7 +1761,7 @@ ChIJG472oY6xlUcRoGt_JnfV978,Car dealer,26.0,3.5
 ChIJjwALwXuxlUcRmkKit-HbfEE,Car dealer,6.0,3.7
 ChIJr9SZS9azlUcR5n_SyEacJVc,Car dealer,149.0,4.9
 ChIJ-SrJhnW0lUcRzQ4EJHLJNcU,Car dealer,20.0,3.3
-ChIJtwHJQ4-xlUcRG_J1TtiS-Tw,Car dealer,,
+ChIJtwHJQ4-xlUcRG_J1TtiS-Tw,Car dealer,0.0,0.0
 ChIJIWGdXoyxlUcRDC6jPvwhzIM,Car dealer,58.0,4.4
 ChIJZwoGMeaxlUcRYRjagDqs_eI,Car dealer,1.0,5.0
 ChIJbSVXjIWxlUcR2qPBNsuovIE,Car dealer,28.0,3.4
@@ -1771,8 +1771,8 @@ ChIJJ8WLGgC1lUcRU_fRYL0B24g,Car dealer,8.0,3.4
 ChIJpcv9S7exlUcRSjv3AVbAocc,Car dealer,11.0,4.0
 ChIJgS-KB5KzlUcRqrCebmXh9c8,Car dealer,15.0,4.9
 ChIJxdPzFH2xlUcRcdY_8OpTft0,Car dealer,133.0,4.8
-ChIJi21mlxuylUcRHnas32scsBQ,Car dealer,,
-ChIJSSMebVSxlUcRQQ9Bvn0qLDU,Car dealer,,
+ChIJi21mlxuylUcRHnas32scsBQ,Car dealer,0.0,0.0
+ChIJSSMebVSxlUcRQQ9Bvn0qLDU,Car dealer,0.0,0.0
 ChIJibUaggqxlUcR4D9nUv2tBcg,Car dealer,1.0,1.0
 ChIJvzLRRnuxlUcRdYOHxdrx6FU,Car dealer,15.0,4.2
 ChIJi3XPwPyzlUcRMRUmkctB_3g,Car dealer,43.0,4.3
@@ -1785,26 +1785,26 @@ ChIJLfhtb36xlUcRk15LwWhPogg,Campground,240.0,3.9
 ChIJbaAiBgCxlUcRm_klzdLC7V8,Kitchen supply store,1.0,4.0
 ChIJERhWhmGxlUcRL3KJdDTwqXE,Kitchen supply store,331.0,3.9
 ChIJq4mDwo6xlUcR33ZAyzOX9gg,Tool store,20.0,3.7
-ChIJdUpjhlaxlUcRkfMOygs4WhY,Bank,,
-ChIJU2jqeRCylUcRQoCGY-knhTs,Bank,,
+ChIJdUpjhlaxlUcRkfMOygs4WhY,Bank,0.0,0.0
+ChIJU2jqeRCylUcRQoCGY-knhTs,Bank,0.0,0.0
 ChIJ-aG39yqylUcRGhywR5xJdCw,Bank,6.0,4.0
-ChIJNQomY1qxlUcR7DgCIr6fbz8,Bank,,
+ChIJNQomY1qxlUcR7DgCIr6fbz8,Bank,0.0,0.0
 ChIJNWDylGWxlUcRIAbExcoiANY,Bank,1.0,3.0
-ChIJOZl3VeixlUcRMYok2r5hyEU,Bank,,
-ChIJJSvEVyqylUcRiWPCKXi0VBA,Bank,1.0,
-ChIJvV_4zJWxlUcRexx2x6Tq2Gw,Bank,,
+ChIJOZl3VeixlUcRMYok2r5hyEU,Bank,0.0,0.0
+ChIJJSvEVyqylUcRiWPCKXi0VBA,Bank,1.0,0.0
+ChIJvV_4zJWxlUcRexx2x6Tq2Gw,Bank,0.0,0.0
 ChIJaXtB3_mzlUcRciAXJDP9sVs,Bank,1.0,5.0
-ChIJKbAxp_ixlUcRCyp4r3Nz8sI,Bank,,
+ChIJKbAxp_ixlUcRCyp4r3Nz8sI,Bank,0.0,0.0
 ChIJi1-g81CzlUcRQliVIxwJ8XM,Bank,2.0,1.5
-ChIJHfArDfWzlUcR4ejnLelyutk,Bank,,
+ChIJHfArDfWzlUcR4ejnLelyutk,Bank,0.0,0.0
 ChIJo1NHLd6vlUcRDcc1UZkUtOc,Bank,12.0,3.7
 ChIJxQwDAIqxlUcRJexoWCe_eIQ,Bank,1.0,4.0
-ChIJ-ygqS4-zlUcRYsPVfLHItXc,Bank,,
-ChIJcbn4cHizlUcRYSvUlDrf6dM,Bank,,
-ChIJLc68LmOxlUcRvrKV6lFsRX8,Bank,,
+ChIJ-ygqS4-zlUcRYsPVfLHItXc,Bank,0.0,0.0
+ChIJcbn4cHizlUcRYSvUlDrf6dM,Bank,0.0,0.0
+ChIJLc68LmOxlUcRvrKV6lFsRX8,Bank,0.0,0.0
 ChIJG4XXHI-zlUcRXKt8QlvxsxI,Bank,2.0,3.0
 ChIJZTzisTKzlUcRNyKWF_ERrsY,Religious organization,12.0,4.9
-ChIJzeaRlOezlUcRK_156q4u4pY,Religious organization,,
+ChIJzeaRlOezlUcRK_156q4u4pY,Religious organization,0.0,0.0
 ChIJlw9eJQaxlUcRTrJDF2GVzN0,Religious organization,14.0,4.8
 ChIJSyDjA52zlUcRvQskT2D4D4Q,Bus tour agency,22.0,3.8
 ChIJeawEUKy2lUcRGyW5U9fD6aE,Bus tour agency,65.0,4.5
@@ -1815,79 +1815,79 @@ ChIJm68fqbCxlUcRvnRLG00WLtA,Buffet restaurant,14.0,5.0
 ChIJ65_CIiS0lUcRLl1lPuzcshI,Chemical plant,85.0,4.2
 ChIJ10eY3HyxlUcRhNK6gMfg4JQ,Optician,37.0,3.6
 ChIJtUOe3HyxlUcRG268Qp4Yu_M,Optician,14.0,5.0
-ChIJ1e07zVOxlUcRmzVwuqys38M,Optician,,
+ChIJ1e07zVOxlUcRmzVwuqys38M,Optician,0.0,0.0
 ChIJucDjowWylUcRWEfM_aNLgVQ,Art center,9.0,4.8
-ChIJ0eBQRSuylUcRDUbIDg3EeCk,Medical clinic,,
+ChIJ0eBQRSuylUcRDUbIDg3EeCk,Medical clinic,0.0,0.0
 ChIJXWiTcmixlUcRMPG0GQYgTLo,Medical clinic,1.0,4.0
-ChIJXWiTcmixlUcR4Vk_sNIe8FI,Medical clinic,,
+ChIJXWiTcmixlUcR4Vk_sNIe8FI,Medical clinic,0.0,0.0
 ChIJzVolGGixlUcR_u_HHu7YJEA,Medical clinic,1.0,5.0
 ChIJe_byE2ixlUcRzVG3V9eEQJQ,Medical clinic,470.0,3.3
-ChIJd4SldZZN8mcRDhCFIek_6nM,Medical clinic,,
+ChIJd4SldZZN8mcRDhCFIek_6nM,Medical clinic,0.0,0.0
 ChIJCWmTcmixlUcRSvjYj7E_o-o,Medical clinic,30.0,4.6
-ChIJXWiTcmixlUcRDfRKefSEJAU,Medical clinic,,
-ChIJe_byE2ixlUcRFnixZj9s1MQ,Medical clinic,,
+ChIJXWiTcmixlUcRDfRKefSEJAU,Medical clinic,0.0,0.0
+ChIJe_byE2ixlUcRFnixZj9s1MQ,Medical clinic,0.0,0.0
 ChIJ8RDbsGaxlUcRwW5xJbv7aQU,Medical clinic,1.0,1.0
-ChIJv3AOFRG0lUcR1ZHQkv7OEWw,Medical clinic,,
+ChIJv3AOFRG0lUcR1ZHQkv7OEWw,Medical clinic,0.0,0.0
 ChIJXWiTcmixlUcRAoZ38L8xrAU,Medical clinic,5.0,2.6
 ChIJ75JZv1mxlUcRbWwT4KL0MOI,Medical clinic,69.0,3.7
 ChIJactnib-xlUcRskwD475q9lc,Medical clinic,1.0,5.0
 ChIJkf4mBUKxlUcRDJKMmyuDf0k,Medical clinic,2.0,4.5
 ChIJmdhlj6i2lUcRoL9rTKef93o,Medical clinic,16.0,4.5
-ChIJV9_L1U2xlUcRYMTzNrMY0CY,Medical clinic,,
-ChIJy7v95_azlUcRSifQ0laXvVM,Medical clinic,,
+ChIJV9_L1U2xlUcRYMTzNrMY0CY,Medical clinic,0.0,0.0
+ChIJy7v95_azlUcRSifQ0laXvVM,Medical clinic,0.0,0.0
 ChIJQxcOMKaxlUcRZiCKEHfg5xw,Medical clinic,4.0,4.0
 ChIJVWdGn0KxlUcRCDy4f5uU6cg,Medical clinic,1.0,4.0
-ChIJVUnzvcuxlUcRQXhL35nIma8,Medical clinic,,
+ChIJVUnzvcuxlUcRQXhL35nIma8,Medical clinic,0.0,0.0
 ChIJD9Tb3S21lUcRObQ8ZnvMEtk,Medical clinic,3.0,3.3
 ChIJ77DqUFuxlUcRhUL6jbKllYo,Medical clinic,92.0,2.6
-ChIJx8fV3TmxlUcRv0I8ytqzCqc,Medical clinic,,
-ChIJ-bhBfPezlUcR-p1ZMvBR7kQ,Medical clinic,,
+ChIJx8fV3TmxlUcRv0I8ytqzCqc,Medical clinic,0.0,0.0
+ChIJ-bhBfPezlUcR-p1ZMvBR7kQ,Medical clinic,0.0,0.0
 ChIJrT5uxpmxlUcRqBpUcZvzvuY,Medical clinic,5.0,4.8
 ChIJXWiTcmixlUcRaphWIskyMB0,Medical clinic,11.0,2.8
-ChIJCcafuKG2lUcRYyDX4K6_0tQ,Medical clinic,,
+ChIJCcafuKG2lUcRYyDX4K6_0tQ,Medical clinic,0.0,0.0
 ChIJkUWbzf6zlUcRDKR_JkW1pk4,Medical clinic,35.0,4.2
 ChIJEbH44SiylUcRFYaFx8vjGyc,Medical clinic,9.0,5.0
 ChIJSwrtUFuxlUcRPCmV0QZQXKU,Medical clinic,16.0,4.9
 ChIJe_byE2ixlUcRoxBa4TnI0v4,Medical clinic,2.0,3.0
-ChIJG1a7Dn2xlUcRQGj-2evKnY0,Property management company,,
-ChIJETAdk1exlUcRwDc4JN4jmeI,Property management company,,
+ChIJG1a7Dn2xlUcRQGj-2evKnY0,Property management company,0.0,0.0
+ChIJETAdk1exlUcRwDc4JN4jmeI,Property management company,0.0,0.0
 ChIJMY6Zehe0lUcRKKKRiudi4Pw,Property management company,78.0,4.9
-ChIJ31HQIl6xlUcRpFdS6_EzSgc,Property management company,,
+ChIJ31HQIl6xlUcRpFdS6_EzSgc,Property management company,0.0,0.0
 ChIJ79IAgvuzlUcRCqgaoVdobK8,Veterinarian,4.0,3.0
 ChIJCT68Nf6zlUcR0qyRu0hgiF4,Veterinarian,98.0,4.1
 ChIJWcF9c16xlUcRZ6oZMF_AzOk,Veterinarian,256.0,4.2
 ChIJHwkN24-xlUcR1kJ4_lXzito,Veterinarian,1.0,4.0
 ChIJAd7E_E2xlUcRzXqA_9jmdO0,Real estate agent,2.0,1.0
-ChIJwxVGnlixlUcRDiqmy1J2PQc,Real estate agent,,
+ChIJwxVGnlixlUcRDiqmy1J2PQc,Real estate agent,0.0,0.0
 ChIJAZhVyk6zlUcRC2vi2kGHRUI,Real estate agent,3.0,3.7
 ChIJvxFkFpCxlUcRx6lZgHa5OTw,Real estate agent,2.0,5.0
-ChIJt5Svi_uzlUcR2RQ0T4TEQnI,Real estate agent,,
+ChIJt5Svi_uzlUcR2RQ0T4TEQnI,Real estate agent,0.0,0.0
 ChIJcRW_03yxlUcRJXTw4b6Ih0M,Real estate agent,13.0,4.3
-ChIJwV-J0xexlUcRrMMkPpZoGwk,Real estate agent,,
-ChIJb2jpodyzlUcRn18pqCKgmXo,Real estate agent,,
-ChIJ___zFpCxlUcRBdVUdrBk-v4,Real estate agent,,
-ChIJEwDHEXixlUcRqxX9xmG2fhY,Real estate agent,,
+ChIJwV-J0xexlUcRrMMkPpZoGwk,Real estate agent,0.0,0.0
+ChIJb2jpodyzlUcRn18pqCKgmXo,Real estate agent,0.0,0.0
+ChIJ___zFpCxlUcRBdVUdrBk-v4,Real estate agent,0.0,0.0
+ChIJEwDHEXixlUcRqxX9xmG2fhY,Real estate agent,0.0,0.0
 ChIJR1uKklaxlUcRTJ7BOVDA7nQ,Real estate agent,50.0,3.1
-ChIJF9rLWeWzlUcR6d1PM_vhKRM,Real estate agent,,
+ChIJF9rLWeWzlUcR6d1PM_vhKRM,Real estate agent,0.0,0.0
 ChIJ_Wta1l-xlUcRup1CGMs99io,Real estate agent,1.0,3.0
-ChIJOUcs502xlUcRsEzlbYPPRg4,Real estate agent,,
-ChIJMwSCSR-ylUcRc_mx_3Eia20,Real estate agent,,
+ChIJOUcs502xlUcRsEzlbYPPRg4,Real estate agent,0.0,0.0
+ChIJMwSCSR-ylUcRc_mx_3Eia20,Real estate agent,0.0,0.0
 ChIJrbF71hyzlUcR7J2dzsH548U,Real estate agent,1.0,5.0
-ChIJ6WFoO9-zlUcRW5GBPYqx25U,Apartment complex,,
+ChIJ6WFoO9-zlUcRW5GBPYqx25U,Apartment complex,0.0,0.0
 ChIJ8eJS8v6zlUcRS5tPO0s2s_0,Apartment complex,5.0,4.2
 ChIJNbkxQYCxlUcRIiCRm-yfu0M,Apartment complex,14.0,4.4
-ChIJxYQUmJCzlUcRHenks0G0XLk,Apartment complex,,
-ChIJSZCqeQCxlUcRrIVy5vlJy-Y,Apartment complex,,
-ChIJ-famTUWxlUcR67apSNoz4Q8,Apartment complex,,
+ChIJxYQUmJCzlUcRHenks0G0XLk,Apartment complex,0.0,0.0
+ChIJSZCqeQCxlUcRrIVy5vlJy-Y,Apartment complex,0.0,0.0
+ChIJ-famTUWxlUcR67apSNoz4Q8,Apartment complex,0.0,0.0
 ChIJuY1-kfOzlUcR7J7qAjNn4Vw,Apartment complex,6.0,4.8
-ChIJYd2IAkKxlUcR047IrqPXSQU,Social services,,
+ChIJYd2IAkKxlUcR047IrqPXSQU,Social services,0.0,0.0
 ChIJ_2LEH1ixlUcRjq8mNPvnWBA,Social services,17.0,4.5
 ChIJX3xzRESxlUcR2CK9hVmrHg0,Social services,48.0,4.0
 ChIJ5Z_C32KxlUcRTNe-2JG2sRs,Social services,32.0,3.8
 ChIJ5cTMF2GxlUcR5pWRCrwoLEA,Social services,117.0,2.3
 ChIJASW__pyxlUcR7ecBJe0DVRA,Social services,2.0,3.0
-ChIJzbojXhSylUcRJoFXATdOj3k,Social services,,
-ChIJVVUVqnmxlUcR6PsCBXbF3Jc,Social services,,
+ChIJzbojXhSylUcRJoFXATdOj3k,Social services,0.0,0.0
+ChIJVVUVqnmxlUcR6PsCBXbF3Jc,Social services,0.0,0.0
 ChIJ-QMAXv-zlUcRXtQoc-MspLk,Social services,17.0,4.3
 ChIJCaGn9FmxlUcRUIuB3y7_zLo,Social services,9.0,3.7
 ChIJ30lQl9-xlUcRQfRWWNak_eI,Grill store,38.0,4.3
@@ -1904,64 +1904,64 @@ ChIJX7eKSvazlUcRxcV4m6rPIuk,Electric vehicle charging station,1.0,3.0
 ChIJ55K5AnmxlUcR32uMEJRwTzE,Electric vehicle charging station,1.0,5.0
 ChIJ49d5rmGxlUcRAUG-jL8WvQQ,Electric vehicle charging station,6.0,4.3
 ChIJAQDQa9azlUcRGWVxtji8ZN0,Electric vehicle charging station,1.0,5.0
-ChIJEUPCbP6zlUcR0UbmZuDhcV4,Electric vehicle charging station,,
-ChIJYwWtLl6xlUcRSVoHWbz0yTA,Electric vehicle charging station,,
+ChIJEUPCbP6zlUcR0UbmZuDhcV4,Electric vehicle charging station,0.0,0.0
+ChIJYwWtLl6xlUcRSVoHWbz0yTA,Electric vehicle charging station,0.0,0.0
 ChIJSa26qlWxlUcR6HY3J0lc7ro,City park,1409.0,4.1
 ChIJmaKybPezlUcRO4PA19YhQwA,City park,23.0,3.8
 ChIJ8xuENcOwlUcRdwABnUdj8Hw,City park,94.0,4.8
-ChIJt1jneY-xlUcRvA3QJiYR_44,Cultural association,,
+ChIJt1jneY-xlUcRvA3QJiYR_44,Cultural association,0.0,0.0
 ChIJzefXH06xlUcRdsza5RA-YL0,Cultural association,5.0,5.0
-ChIJ1z2RweSzlUcRTAh1RqZgru0,Cultural association,,
+ChIJ1z2RweSzlUcRTAh1RqZgru0,Cultural association,0.0,0.0
 ChIJJz9FVS6ylUcREy_idA_r5Hg,Gym,18.0,4.7
 ChIJAWFlw0yzlUcRrEluEfRV68k,Gym,3.0,5.0
-ChIJT7_vKQGzlUcRH0ud1DnDloc,Gym,,
+ChIJT7_vKQGzlUcRH0ud1DnDloc,Gym,0.0,0.0
 ChIJj1wX_xWylUcRxHKYUtyQn0g,Podiatrist,1.0,5.0
 ChIJhfzigfezlUcRpwVWTSHn7eI,Podiatrist,5.0,3.4
 ChIJ6xlE_FqxlUcRETzBZUtGxec,Podiatrist,16.0,4.5
 ChIJoa4vxv-zlUcRFUaI5icVFeA,Podiatrist,3.0,4.7
-ChIJG9U4gWWxlUcRmA4qb5xErfw,Podiatrist,,
-ChIJtxuUyP-zlUcR3Hb_TmNrYLU,Podiatrist,,
-ChIJw9PBayexlUcRBpmB9HGsBnA,State park,54.0,
+ChIJG9U4gWWxlUcRmA4qb5xErfw,Podiatrist,0.0,0.0
+ChIJtxuUyP-zlUcR3Hb_TmNrYLU,Podiatrist,0.0,0.0
+ChIJw9PBayexlUcRBpmB9HGsBnA,State park,54.0,0.0
 ChIJ5fPdqFWxlUcRzCNkRfpM5lM,State park,89.0,4.1
-ChIJVVWVARqylUcRJQ0gVNxVLaM,Transportation service,,
-ChIJdXpH7zyzlUcReTdBg8t_yKg,Transportation service,1.0,
+ChIJVVWVARqylUcRJQ0gVNxVLaM,Transportation service,0.0,0.0
+ChIJdXpH7zyzlUcReTdBg8t_yKg,Transportation service,1.0,0.0
 ChIJeXMo8Y-zlUcRfZLwQ0BRa5U,Transportation service,34.0,4.3
 ChIJDcp_0YCxlUcRLo9qVoCafTo,Transportation service,2.0,2.5
 ChIJNxYTvGGxlUcRsqN_qXZk7so,Transportation service,1.0,1.0
-ChIJAXmnvL-xlUcRr7csefkO7eo,Transportation service,,
+ChIJAXmnvL-xlUcRr7csefkO7eo,Transportation service,0.0,0.0
 ChIJOVxtwFKzlUcRThWULTWi41M,Transportation service,10.0,3.3
 ChIJH7Q3vfSxlUcRb3mmTP9RR1s,Transportation service,42.0,4.0
-ChIJ47liwcGxlUcRUR9HR-XwNKU,Transportation service,,
-ChIJ0ZSQd8CxlUcRx25vcnbkNHc,Transportation service,,
+ChIJ47liwcGxlUcRUR9HR-XwNKU,Transportation service,0.0,0.0
+ChIJ0ZSQd8CxlUcRx25vcnbkNHc,Transportation service,0.0,0.0
 ChIJMcc2TV6xlUcRmEarQKBzn3Y,Transportation service,20.0,4.2
-ChIJpXGgRNKxlUcRkYkkjT92pXs,Transportation service,,
-ChIJ5zQrSVKzlUcRIf563GWmDNs,Transportation service,,
+ChIJpXGgRNKxlUcRkYkkjT92pXs,Transportation service,0.0,0.0
+ChIJ5zQrSVKzlUcRIf563GWmDNs,Transportation service,0.0,0.0
 ChIJO0Xqm1CxlUcR8F2rUs7IXFE,Transportation service,15.0,4.1
 ChIJSV0N1PyzlUcRH9rfm-otFT8,Transportation service,106.0,4.2
-ChIJfTyHxsGxlUcRs5pfCvWqVDs,Transportation service,,
-ChIJdX8OXv6zlUcRrmusAqTuVig,Transportation service,,
+ChIJfTyHxsGxlUcRs5pfCvWqVDs,Transportation service,0.0,0.0
+ChIJdX8OXv6zlUcRrmusAqTuVig,Transportation service,0.0,0.0
 ChIJuwx772exlUcR4FTevCsrloA,Transportation service,2.0,5.0
 ChIJpWo92fqxlUcRzgO76psbgBo,Transportation service,2.0,4.0
-ChIJxR_TreazlUcRzmiVqb1Jzzs,Transportation service,,
+ChIJxR_TreazlUcRzmiVqb1Jzzs,Transportation service,0.0,0.0
 ChIJvy1pMfqxlUcR8QPqtSWHYKU,Transportation service,2.0,5.0
 ChIJZdNYq9WzlUcRoizBr7W0b3g,Transportation service,7.0,4.4
-ChIJCZYxeMCxlUcRLL8ZcILgCBI,Transportation service,,
-ChIJoTCtj_-zlUcR-9kGcO3j1H4,Transportation service,,
-ChIJH18yeACzlUcRuMgfKLjtV7Y,Transportation service,,
+ChIJCZYxeMCxlUcRLL8ZcILgCBI,Transportation service,0.0,0.0
+ChIJoTCtj_-zlUcR-9kGcO3j1H4,Transportation service,0.0,0.0
+ChIJH18yeACzlUcRuMgfKLjtV7Y,Transportation service,0.0,0.0
 ChIJNTP38FyxlUcR99z1xlJt0Ck,Transportation service,1.0,4.0
 ChIJuRcPsdezlUcR1AGNkSiB9PA,Transportation service,1.0,5.0
-ChIJMSCMXf6zlUcRyjk5opX_nkA,Transportation service,,
+ChIJMSCMXf6zlUcRyjk5opX_nkA,Transportation service,0.0,0.0
 ChIJrc92saWxlUcR7uvh_JAVsdg,Transportation service,2.0,5.0
 ChIJSzeWiH6xlUcRQmScKmY6wDI,Transportation service,1.0,1.0
 ChIJbaZRYFaxlUcRv9WlO8IIoAo,Transportation service,6.0,5.0
 ChIJDaVVop6zlUcRC5gOYudBmJY,Transportation service,4.0,2.7
 ChIJa_ecRhCxlUcRlOrimuJG3JE,Transportation service,6.0,4.7
-ChIJYU9jmVCxlUcRwPFE-4gk0EY,Transportation service,,
+ChIJYU9jmVCxlUcRwPFE-4gk0EY,Transportation service,0.0,0.0
 ChIJtVMSHZqzlUcRgzxsz-8WAc0,Transportation service,10.0,3.5
 ChIJGyNYUvyzlUcRau0CQuwD8SA,Transportation service,1.0,3.0
 ChIJX9DXDaaxlUcRMZXBWIe2ubA,Transportation service,2.0,5.0
 ChIJQWRCHyqxlUcR3WgL4xYulEw,Transportation service,5.0,4.4
-ChIJOWV5bdSxlUcR-nZNXid59zc,Transportation service,,
+ChIJOWV5bdSxlUcR-nZNXid59zc,Transportation service,0.0,0.0
 ChIJy6cpjFqxlUcRTawkj47lLqQ,Transportation service,4.0,4.8
 ChIJNac_0TG1lUcRrjjyLXGtxrg,Transportation service,5.0,4.4
 ChIJf9rx2fyzlUcRrrXAKUf0nGQ,Transportation service,19.0,2.7
@@ -1969,14 +1969,14 @@ ChIJkYbUj-azlUcRhsq8fxvjhEc,Transportation service,6.0,3.2
 ChIJw_ORxZWzlUcRW3pdbYOZUac,Transportation service,17.0,4.4
 ChIJTzYjEVuxlUcRr31pIOsv-ec,Transportation service,1.0,5.0
 ChIJ2yu1s0uxlUcRIiGPwdKfVmw,Transportation service,1.0,5.0
-ChIJq6rqK7-xlUcRaE_zyzkK_XY,Transportation service,,
+ChIJq6rqK7-xlUcRaE_zyzkK_XY,Transportation service,0.0,0.0
 ChIJnZ9Hz1ixlUcRDhhZIi5wscg,Transportation service,1.0,5.0
 ChIJFZ4UauazlUcRjmCQfHE3_VQ,Transportation service,7.0,4.2
 ChIJDboDN_6zlUcRP828Kyo0CA8,Transportation service,147.0,2.8
 ChIJLdgTJwCxlUcRDvYsrG5wtfs,Marketing consultant,3.0,5.0
-ChIJgTFlIH-xlUcRT2UlFrSQxBY,Marketing consultant,,
-ChIJwUI3BtizlUcRWwv4F-k9PNw,Marketing consultant,,
-ChIJCZZ6IH-xlUcR_95M6LWijV4,Marketing consultant,,
+ChIJgTFlIH-xlUcRT2UlFrSQxBY,Marketing consultant,0.0,0.0
+ChIJwUI3BtizlUcRWwv4F-k9PNw,Marketing consultant,0.0,0.0
+ChIJCZZ6IH-xlUcR_95M6LWijV4,Marketing consultant,0.0,0.0
 ChIJiWaEbvazlUcRermK2W42xhU,Marketing consultant,1.0,5.0
 ChIJf24QyPqzlUcRWZymx_rpkH8,Marketing consultant,3.0,5.0
 ChIJF3HFrW6xlUcRfPIwUd-l3N8,Marketing consultant,1.0,5.0
@@ -1991,20 +1991,20 @@ ChIJ1U9n4Z2xlUcRGJn8eHgMWjU,Parking,126.0,4.5
 ChIJ69E1znqzlUcRynVVF8ZSeVo,Parking,16.0,5.0
 ChIJx_dG93ixlUcRNEijoySQsaU,Parking,3.0,5.0
 ChIJI1FuFnmxlUcRvFPlguFOCww,Parking,5.0,4.4
-ChIJjTce7F-xlUcRODWXopqKVZ0,Parking,,
+ChIJjTce7F-xlUcRODWXopqKVZ0,Parking,0.0,0.0
 ChIJ7SwYtf622K8RqGTenXn2kuE,Parking,32.0,4.9
-ChIJCWjA8lWxlUcR3pQHEZ1QwvA,Parking,,
+ChIJCWjA8lWxlUcR3pQHEZ1QwvA,Parking,0.0,0.0
 ChIJtYco4u-zlUcRKvkOzuqRzYU,Parking,8182.0,4.5
 ChIJSYZMUcuxlUcR1ZkSuFXtsI0,Parking,1.0,5.0
 ChIJOZkNSluxlUcRlA1AmP1HArU,Parking,586.0,3.5
 ChIJL3JOm-OzlUcR9OoUyS_X6qs,Parking,273.0,4.6
 ChIJ8Tnx5zO1lUcRudOpnO78Te0,Parking,21.0,4.8
 ChIJ398PmpGzlUcR5F1w5qknHtQ,Parking,1.0,5.0
-ChIJlx0qNtWzlUcRqv8wPGjUS3c,Parking,,
+ChIJlx0qNtWzlUcRqv8wPGjUS3c,Parking,0.0,0.0
 ChIJs2D-AfOzlUcRUvnwipwV7rY,Garden center,4.0,5.0
 ChIJ8Qyd8yezlUcRuglD-tVxpQo,Garden center,9.0,5.0
 ChIJTfaego6zlUcR3TpFkbak3u8,Fabric store,15.0,4.8
-ChIJRXPbAEqxlUcRV0qtT7N2eWw,Furniture manufacturer,,
+ChIJRXPbAEqxlUcRV0qtT7N2eWw,Furniture manufacturer,0.0,0.0
 ChIJD3pHs7yxlUcRaFVn1GOUi_c,Coffee shop,3.0,4.7
 ChIJL4X3C16xlUcRAerqtn5Cbes,Coffee shop,15.0,4.9
 ChIJpRqn03yxlUcRpSiRtIw1i9s,Coffee shop,44.0,4.7
@@ -2012,33 +2012,33 @@ ChIJmWiOiIGxlUcRAuNvdtF-9cE,Coffee shop,29.0,3.8
 ChIJIdv7_9uxlUcRY_xTZrNX3z4,Coffee shop,9.0,3.6
 ChIJ__-zE_yzlUcR7QMgwWR6rQc,Coffee shop,20.0,4.5
 ChIJIdQ2z7-xlUcRgoRnjTg-8bk,Tour agency,37.0,4.6
-ChIJXcAoklexlUcR6bzW8QlgWv8,Tour agency,,
-ChIJuyg0qpPFl0cRx-2TVSGq-KA,Tour agency,,
+ChIJXcAoklexlUcR6bzW8QlgWv8,Tour agency,0.0,0.0
+ChIJuyg0qpPFl0cRx-2TVSGq-KA,Tour agency,0.0,0.0
 ChIJ80UOz_-zlUcRdfCSDoj-Hzc,Tour agency,4.0,5.0
 ChIJO9hMxXuxlUcRpfVArZtdnyY,Tour agency,39.0,4.5
 ChIJKaDZ74SxlUcRLjqMIBSXA-Q,Tour agency,5.0,4.2
 ChIJcTlNwfCxlUcRSOnHj29qplA,Tour agency,29.0,3.9
 ChIJDxjmbF7An0cRVQZRSnAuHcw,Tour agency,104.0,4.9
-ChIJAQBwZiG0lUcR5fpK-SjXzuc,Tour agency,,
+ChIJAQBwZiG0lUcR5fpK-SjXzuc,Tour agency,0.0,0.0
 ChIJ01S9XAmzlUcRrifZpH5s50g,Wholesale bakery,3.0,5.0
 ChIJo0NoKEmxlUcR8-bgObn-QPo,Foundry,1.0,5.0
-ChIJ12KYLmyxlUcRMVZL9A3BIRE,Internet marketing service,,
+ChIJ12KYLmyxlUcRMVZL9A3BIRE,Internet marketing service,0.0,0.0
 ChIJ7cR6mV6xlUcRS-Ff9iSIIWY,HVAC contractor,4.0,4.0
-ChIJxc_MeMezlUcRxVOeJPNQiNM,Ceramic manufacturer,,
+ChIJxc_MeMezlUcRxVOeJPNQiNM,Ceramic manufacturer,0.0,0.0
 ChIJo591KJyxlUcRJVoj3fs7VUI,Auto body shop,15.0,4.7
 ChIJoxe_GAKylUcRHxAJP1H9zGE,Toy manufacturer,3.0,5.0
-ChIJf_z8EEGxlUcRaXJAUamRfS0,Toy manufacturer,,
-ChIJLUfKfLuxlUcR6AcrKjRbhRE,Tourist attraction,,
-ChIJC9u9kJGxlUcRpt3k7ov4lj4,Tourist attraction,,
+ChIJf_z8EEGxlUcRaXJAUamRfS0,Toy manufacturer,0.0,0.0
+ChIJLUfKfLuxlUcR6AcrKjRbhRE,Tourist attraction,0.0,0.0
+ChIJC9u9kJGxlUcRpt3k7ov4lj4,Tourist attraction,0.0,0.0
 ChIJ4bcwBcezlUcRh8s4WZUdj-c,Tourist attraction,4.0,5.0
 ChIJGdJfdeexlUcRJpg5K6_65O4,Tourist attraction,1.0,5.0
 ChIJX0JytMWwlUcROqJl8pxLCkU,Tourist attraction,30.0,4.6
 ChIJ9W1r2sGxlUcRcRnOB7tKYUE,Tourist attraction,4.0,5.0
 ChIJZzTbK8KzlUcRDfyFw-jcmyo,Tourist attraction,1.0,5.0
 ChIJSzVLvK6xlUcR-9SDNw7wSNM,Tourist attraction,2.0,5.0
-ChIJ5ZWsf0-xlUcRPGq9Fp77Cz0,Tourist attraction,,
+ChIJ5ZWsf0-xlUcRPGq9Fp77Cz0,Tourist attraction,0.0,0.0
 ChIJRdXXRzmylUcRm85gR3MWjCU,Tourist attraction,14.0,4.6
-ChIJi-RpKYSxlUcRwkZ0h_TK6fg,Tourist attraction,,
+ChIJi-RpKYSxlUcRwkZ0h_TK6fg,Tourist attraction,0.0,0.0
 ChIJKbSQVVaxlUcRqDIir7ZJX7k,Tourist attraction,4.0,4.5
 ChIJWfypKzizlUcRVAqQeYvKh2k,Tourist attraction,12.0,4.8
 ChIJNSVl53yxlUcRcQm5q506H1A,Tourist attraction,43.0,4.7
@@ -2051,28 +2051,28 @@ ChIJ41eyIPKzlUcRPT6du8O1o6I,Tourist attraction,1.0,5.0
 ChIJGd8cGxmzlUcRFE3xXe988KE,Tourist attraction,2.0,5.0
 ChIJoVo70JaxlUcR2jU4jSb3Fzs,Tourist attraction,4.0,3.7
 ChIJBdmUa46zlUcR1ZGR5Ai_F24,Tourist attraction,93.0,4.3
-ChIJOdx41UKxlUcRXBwb5x2FzPQ,Occupational health service,,
-ChIJJSc4yfizlUcRrxARBFtupj0,Occupational health service,,
+ChIJOdx41UKxlUcRXBwb5x2FzPQ,Occupational health service,0.0,0.0
+ChIJJSc4yfizlUcRrxARBFtupj0,Occupational health service,0.0,0.0
 ChIJ_UrZF82zlUcRKaNMDE3jLDQ,Occupational health service,2.0,5.0
-ChIJjxFgi7uxlUcRQWVA_GKuKtU,Occupational health service,,
-ChIJHZQA8jezlUcRqr8w9ZCNzkQ,Occupational health service,,
+ChIJjxFgi7uxlUcRQWVA_GKuKtU,Occupational health service,0.0,0.0
+ChIJHZQA8jezlUcRqr8w9ZCNzkQ,Occupational health service,0.0,0.0
 ChIJxYAd14-xlUcR7eEQppi-WCk,Occupational health service,7.0,5.0
 ChIJS9OHGkWxlUcRNV99aAM0NxY,Occupational health service,5.0,5.0
 ChIJ0VV2cVqxlUcRUGaejD0xNrk,Physiatrist,9.0,5.0
-ChIJXZ0qvKKxlUcRqEBaUWh-ML8,Appraiser,,
+ChIJXZ0qvKKxlUcRqEBaUWh-ML8,Appraiser,0.0,0.0
 ChIJodX3V1axlUcRkCUk7TORojg,Restaurant,37.0,4.3
-ChIJhabxC4ixlUcRseuSIF8QVsI,Restaurant,,
+ChIJhabxC4ixlUcRseuSIF8QVsI,Restaurant,0.0,0.0
 ChIJqc51pPGzlUcRVDNYsC0oWyM,Restaurant,52.0,3.9
-ChIJU9W0XBh_C0ERSuU1oR8yURw,Restaurant,,
+ChIJU9W0XBh_C0ERSuU1oR8yURw,Restaurant,0.0,0.0
 ChIJ1_s8F7uxlUcRyacxqkiF6z8,Restaurant,10.0,5.0
 ChIJ4z6bdoqxlUcRHm7N8_CtLg0,Restaurant,329.0,4.3
 ChIJKw3c9GOxlUcRBuLs32iDcFM,Restaurant,2.0,3.0
-ChIJXXNIt06xlUcR2v-PWhyCqHA,Restaurant,,
+ChIJXXNIt06xlUcR2v-PWhyCqHA,Restaurant,0.0,0.0
 ChIJIXOQF32xlUcRrhYWLv2p370,Restaurant,284.0,4.6
 ChIJZQUfXCyxlUcRekp1uPiR0wM,Restaurant,184.0,4.7
 ChIJT19diFezlUcRtH0Ghb2QxVI,Restaurant,6.0,1.0
-ChIJQxADqV6xlUcRKjENqUQKuoo,Restaurant,,
-ChIJw2usMkOxlUcRt4O1tLw-8QI,Restaurant,,
+ChIJQxADqV6xlUcRKjENqUQKuoo,Restaurant,0.0,0.0
+ChIJw2usMkOxlUcRt4O1tLw-8QI,Restaurant,0.0,0.0
 ChIJVfnGCp2zlUcRos6sSWKwpgU,Restaurant,4.0,4.5
 ChIJUQ2A61exlUcR9DkLuBygHng,Restaurant,1.0,5.0
 ChIJX1t0yFmxlUcRJ480ebcwd64,Restaurant,35.0,3.9
@@ -2080,162 +2080,162 @@ ChIJA1F6yXW0lUcRnH-qe6uMGlw,Restaurant,92.0,4.5
 ChIJpRm4ur-xlUcRn7RskR4mjV4,Restaurant,18.0,4.9
 ChIJ2X4nDWGzlUcR64vN5CZ1WWQ,Restaurant,1.0,1.0
 ChIJCQELL2ixlUcRZFce1xDk4l8,Restaurant,21.0,3.5
-ChIJL2oxwt-xlUcR9mHHPRwK2zo,Building equipment hire service,,
+ChIJL2oxwt-xlUcR9mHHPRwK2zo,Building equipment hire service,0.0,0.0
 ChIJJRI2DEfIlUcRAgCjUGLEyqs,Insurance broker,3.0,5.0
 ChIJpZ_dZlqxlUcRNK1sKqBJrlw,Insurance broker,7.0,4.4
 ChIJ95qgAWGxlUcRptrbQ9kQwzc,Business to business service,4.0,5.0
 ChIJQ4tZWoyzlUcReOs-S3ae42I,Car accessories store,10.0,4.5
-ChIJnw_6HGqxlUcRLjfkHdcH9Ww,Family counselor,,
-ChIJBQgVR3exlUcRa1dMOkXlCW8,Family counselor,,
-ChIJPZfdtWGxlUcRsczuBjZ-6hY,Telecommunications equipment supplier,,
+ChIJnw_6HGqxlUcRLjfkHdcH9Ww,Family counselor,0.0,0.0
+ChIJBQgVR3exlUcRa1dMOkXlCW8,Family counselor,0.0,0.0
+ChIJPZfdtWGxlUcRsczuBjZ-6hY,Telecommunications equipment supplier,0.0,0.0
 ChIJ5dzIPv2zlUcRZW03_qB-Nfw,Public university,19.0,4.6
 ChIJ0T_u_oOxlUcRS5f6C93ZGbc,Shipping service,41.0,4.6
 ChIJW_JABQqzlUcR-cA0z237RBs,Shipping service,2.0,3.0
 ChIJA8Igz7-xlUcRBFMWNJLssfs,Shipping service,33.0,5.0
-ChIJpQ0NBGGxlUcR0l39o1hzklk,Laboratory,,
+ChIJpQ0NBGGxlUcR0l39o1hzklk,Laboratory,0.0,0.0
 ChIJe_byE2ixlUcRG6Lm-ppdmZ0,Doctor,10.0,4.3
 ChIJt2u8mF-xlUcRUxeyNSTnYSc,Doctor,9.0,4.9
 ChIJN1_Z_E2xlUcROAa-sowhX9w,Doctor,9.0,5.0
-ChIJgQrq7EKxlUcRr8j--uq6DsM,Doctor,,
+ChIJgQrq7EKxlUcRr8j--uq6DsM,Doctor,0.0,0.0
 ChIJHUGrN12xlUcR5w0WVUEeZyg,Doctor,29.0,3.6
 ChIJXQmQWBSxlUcR6ZtS56IsJlw,Doctor,124.0,4.2
-ChIJvdo-qXSxlUcRysCIkvMaPa4,Doctor,,
-ChIJXWiTcmixlUcRtySrSJVhpzY,Doctor,1.0,
-ChIJe_byE2ixlUcRuRA0VHluAQ4,Doctor,,
+ChIJvdo-qXSxlUcRysCIkvMaPa4,Doctor,0.0,0.0
+ChIJXWiTcmixlUcRtySrSJVhpzY,Doctor,1.0,0.0
+ChIJe_byE2ixlUcRuRA0VHluAQ4,Doctor,0.0,0.0
 ChIJS9OHGkWxlUcRIPvX6FvhJSE,Doctor,14.0,4.6
 ChIJXWiTcmixlUcRp8UfrPng1pQ,Doctor,18.0,4.8
-ChIJ73mzZACzlUcRnE5wtFpEcXM,Doctor,1.0,
+ChIJ73mzZACzlUcRnE5wtFpEcXM,Doctor,1.0,0.0
 ChIJVdsnal2xlUcRPCZb96afdJI,Doctor,4.0,5.0
 ChIJe_byE2ixlUcRVqp9DtE9XtU,Doctor,3.0,5.0
-ChIJZZIU2hOylUcR3ertvqJk-fU,Doctor,,
-ChIJZZIU2hOylUcRj1l-aIQXAkA,Doctor,,
-ChIJPznwepWxlUcRksC59iufrpo,Doctor,,
+ChIJZZIU2hOylUcR3ertvqJk-fU,Doctor,0.0,0.0
+ChIJZZIU2hOylUcRj1l-aIQXAkA,Doctor,0.0,0.0
+ChIJPznwepWxlUcRksC59iufrpo,Doctor,0.0,0.0
 ChIJ3d0Z6HKxlUcRQIhxUW-J9hg,Doctor,15.0,4.6
-ChIJTwJ23uSzlUcRvrcOHkPg3TQ,Doctor,,
-ChIJSbRAvBG0lUcRPtwaxQMJWH4,Doctor,,
+ChIJTwJ23uSzlUcRvrcOHkPg3TQ,Doctor,0.0,0.0
+ChIJSbRAvBG0lUcRPtwaxQMJWH4,Doctor,0.0,0.0
 ChIJXWiTcmixlUcRfarNVmmEYgQ,Doctor,1.0,4.0
-ChIJVT0wWF2xlUcRocqDpCpHn8g,Doctor,,
-ChIJZZIU2hOylUcRPAnRKh-kTRE,Doctor,,
+ChIJVT0wWF2xlUcRocqDpCpHn8g,Doctor,0.0,0.0
+ChIJZZIU2hOylUcRPAnRKh-kTRE,Doctor,0.0,0.0
 ChIJZZIU2hOylUcRUpjsoSlaM1U,Doctor,2.0,5.0
 ChIJZZIU2hOylUcRxTOXpQ63lcY,Doctor,3.0,4.7
-ChIJzwv4fPezlUcRMXmsySMRDLU,Doctor,,
-ChIJOdx41UKxlUcRp5-Nxxsr62w,Doctor,,
+ChIJzwv4fPezlUcRMXmsySMRDLU,Doctor,0.0,0.0
+ChIJOdx41UKxlUcRp5-Nxxsr62w,Doctor,0.0,0.0
 ChIJHUGrN12xlUcR0PXETbOuH7A,Doctor,22.0,3.6
-ChIJe_byE2ixlUcRKmvh727KmvM,Doctor,,
+ChIJe_byE2ixlUcRKmvh727KmvM,Doctor,0.0,0.0
 ChIJK2k-BsSxlUcR_vROVsayHEg,Doctor,83.0,5.0
 ChIJQ7cD4iiylUcRnNlCtNXW1R4,Doctor,53.0,4.4
-ChIJw5dyai-ylUcREJsoDn8ZdwM,Doctor,,
+ChIJw5dyai-ylUcREJsoDn8ZdwM,Doctor,0.0,0.0
 ChIJw_w7bXexlUcR-C_OnSqeUis,Doctor,70.0,3.7
 ChIJtVHivH6xlUcRY0qph2pN9UA,Doctor,29.0,3.0
 ChIJIYpLHnyxlUcRnzSmBbzDQZs,Doctor,43.0,4.0
-ChIJe_byE2ixlUcRoz8mSuOUgKk,Doctor,,
-ChIJZZIU2hOylUcRsfcaqT7KBUQ,Doctor,,
+ChIJe_byE2ixlUcRoz8mSuOUgKk,Doctor,0.0,0.0
+ChIJZZIU2hOylUcRsfcaqT7KBUQ,Doctor,0.0,0.0
 ChIJe_byE2ixlUcRZ1wRT8Wne44,Doctor,5.0,5.0
-ChIJx_uVB2qxlUcRYWJa_L0OTEQ,Doctor,,
+ChIJx_uVB2qxlUcRYWJa_L0OTEQ,Doctor,0.0,0.0
 ChIJAQCUUFuxlUcRLyfOwp4uIbE,Doctor,35.0,3.2
-ChIJl_ML8BCylUcRLsZsB62B-E0,Doctor,,
+ChIJl_ML8BCylUcRLsZsB62B-E0,Doctor,0.0,0.0
 ChIJ53b2zBOylUcRAxxh8USqdt4,Doctor,29.0,3.3
-ChIJAUgykkGxlUcR9C00_NfJmo0,Doctor,,
-ChIJTTuv_UOxlUcRkbUhH3aqdpE,Doctor,,
+ChIJAUgykkGxlUcR9C00_NfJmo0,Doctor,0.0,0.0
+ChIJTTuv_UOxlUcRkbUhH3aqdpE,Doctor,0.0,0.0
 ChIJe_byE2ixlUcRnrGOSjAE6iM,Doctor,1.0,5.0
 ChIJXWiTcmixlUcRzqvDpnrgtJ0,Doctor,21.0,3.8
-ChIJe_byE2ixlUcRN1Z2U9zyCkk,Doctor,,
+ChIJe_byE2ixlUcRN1Z2U9zyCkk,Doctor,0.0,0.0
 ChIJf1hTepWxlUcRkFdzze56CT4,Doctor,28.0,3.7
-ChIJ-bhBfPezlUcRJQzYGBNsKyc,Doctor,,
+ChIJ-bhBfPezlUcRJQzYGBNsKyc,Doctor,0.0,0.0
 ChIJp_vVOm-xlUcROmwtbJv2JBA,Doctor,40.0,3.2
 ChIJe_byE2ixlUcRGFiEzAc0lqI,Doctor,16.0,4.6
-ChIJe_byE2ixlUcRHt8T5PI6xrY,Doctor,,
+ChIJe_byE2ixlUcRHt8T5PI6xrY,Doctor,0.0,0.0
 ChIJ13lSYP6zlUcR3PR2HAm8T4U,Doctor,65.0,3.9
 ChIJA_RgCkSxlUcRC5IeG100ZM8,Doctor,1.0,5.0
-ChIJSbRAvBG0lUcRM-MCAWKC5UM,Doctor,,
+ChIJSbRAvBG0lUcRM-MCAWKC5UM,Doctor,0.0,0.0
 ChIJB4DaYf6zlUcRVWz6rBpENtQ,Doctor,21.0,4.1
-ChIJAUgykkGxlUcRBkXvY4ABCvI,Doctor,,
+ChIJAUgykkGxlUcRBkXvY4ABCvI,Doctor,0.0,0.0
 ChIJSx5IXUKxlUcRTuPhNW9SNH0,Doctor,6.0,4.5
-ChIJ1bjo5EKxlUcR3Oil6gRyHo8,Doctor,,
+ChIJ1bjo5EKxlUcR3Oil6gRyHo8,Doctor,0.0,0.0
 ChIJI5zyZYqxlUcRdYHXk_h4e_E,Doctor,37.0,4.2
-ChIJP6HWkH6xlUcRN-7mq_71PAM,Doctor,,
+ChIJP6HWkH6xlUcRN-7mq_71PAM,Doctor,0.0,0.0
 ChIJ75JZv1mxlUcRShXlrWJpKDc,Doctor,14.0,3.9
 ChIJSx5IXUKxlUcRfSulPFaH3A8,Doctor,11.0,3.1
 ChIJc2aldAWxlUcRyr8qB2l2E_w,Doctor,37.0,5.0
-ChIJVXlZHGqxlUcRJXmCKTLANlE,Doctor,,
+ChIJVXlZHGqxlUcRJXmCKTLANlE,Doctor,0.0,0.0
 ChIJH2VczUSxlUcRaYLr9S7CiFs,Doctor,62.0,4.6
-ChIJSbRAvBG0lUcRA1a7aN31LRo,Doctor,,
-ChIJZZIU2hOylUcR1HBb5jn3mvM,Doctor,,
+ChIJSbRAvBG0lUcRA1a7aN31LRo,Doctor,0.0,0.0
+ChIJZZIU2hOylUcR1HBb5jn3mvM,Doctor,0.0,0.0
 ChIJzwv4fPezlUcRXEFWsIcwjIM,Doctor,38.0,4.0
 ChIJt2u8mF-xlUcRrBX3072I35E,Doctor,106.0,3.4
 ChIJx--XphqylUcRcnPLj7j6PL8,Doctor,33.0,4.5
-ChIJw40qnECxlUcRRL8gIGEqQsQ,Doctor,,
-ChIJHUkjhE6xlUcRjoeZRH-mEvQ,Doctor,,
+ChIJw40qnECxlUcRRL8gIGEqQsQ,Doctor,0.0,0.0
+ChIJHUkjhE6xlUcRjoeZRH-mEvQ,Doctor,0.0,0.0
 ChIJSbRAvBG0lUcRv7DYx8aejFs,Doctor,9.0,2.5
-ChIJ16tWq-qxlUcRdeWXMbA8_6E,Doctor,,
+ChIJ16tWq-qxlUcRdeWXMbA8_6E,Doctor,0.0,0.0
 ChIJ7zZSmV-xlUcR_4h1RI2MXEs,Doctor,11.0,4.5
 ChIJzfEN0hOylUcRkM3BezXc4II,Doctor,49.0,4.1
-ChIJSbRAvBG0lUcRT5fFDS4nmdo,Doctor,,
+ChIJSbRAvBG0lUcRT5fFDS4nmdo,Doctor,0.0,0.0
 ChIJe_byE2ixlUcRuTFPkK1lR1I,Doctor,29.0,3.8
-ChIJe_byE2ixlUcRm8rz57Rvqqg,Doctor,,
-ChIJbbBVREKxlUcRVBs94UXQeJo,Doctor,,
+ChIJe_byE2ixlUcRm8rz57Rvqqg,Doctor,0.0,0.0
+ChIJbbBVREKxlUcRVBs94UXQeJo,Doctor,0.0,0.0
 ChIJ77DqUFuxlUcRFLFsmg6KxEA,Doctor,7.0,2.3
 ChIJG_VF4XKxlUcRqvxBy7_QXSc,Doctor,6.0,3.4
 ChIJvXTwXEKxlUcRlRghQ1fMvSg,Doctor,10.0,2.6
-ChIJZZIU2hOylUcRMyJB8fIT-Qc,Doctor,,
+ChIJZZIU2hOylUcRMyJB8fIT-Qc,Doctor,0.0,0.0
 ChIJSclcIluxlUcRYIF3joNa0go,Doctor,44.0,4.4
-ChIJ31YZi1qxlUcRgFMpH9tV7Xg,Doctor,,
+ChIJ31YZi1qxlUcRgFMpH9tV7Xg,Doctor,0.0,0.0
 ChIJe_byE2ixlUcRdAwGCeY-CpU,Doctor,32.0,4.2
-ChIJM-A8i52xlUcRrAEbUgsVDdQ,Doctor,,
+ChIJM-A8i52xlUcRrAEbUgsVDdQ,Doctor,0.0,0.0
 ChIJe_byE2ixlUcRli6IIZJLqEc,Doctor,1.0,5.0
-ChIJfSy_21uxlUcRbfOAcTTQNyU,Doctor,,
-ChIJZZIU2hOylUcR1dbBEcpuHvg,Doctor,,
-ChIJPZvp8_CzlUcRUptfKkzGfUw,Doctor,1.0,
-ChIJ6ztI_U2xlUcRXsQl82oPUlA,Doctor,,
-ChIJdSKxZR6ylUcRZn7ZZc66vAE,Doctor,,
+ChIJfSy_21uxlUcRbfOAcTTQNyU,Doctor,0.0,0.0
+ChIJZZIU2hOylUcR1dbBEcpuHvg,Doctor,0.0,0.0
+ChIJPZvp8_CzlUcRUptfKkzGfUw,Doctor,1.0,0.0
+ChIJ6ztI_U2xlUcRXsQl82oPUlA,Doctor,0.0,0.0
+ChIJdSKxZR6ylUcRZn7ZZc66vAE,Doctor,0.0,0.0
 ChIJqVn-LmOxlUcRJqBuYTUt0WQ,Doctor,50.0,2.8
 ChIJSx5IXUKxlUcRFCnIVXRANPo,Doctor,11.0,3.5
 ChIJZZIU2hOylUcR99XbVvl6-oA,Doctor,1.0,1.0
-ChIJe_byE2ixlUcRRVMMvDhy514,Doctor,,
-ChIJAUgykkGxlUcRFtIYRare7qk,Doctor,,
+ChIJe_byE2ixlUcRRVMMvDhy514,Doctor,0.0,0.0
+ChIJAUgykkGxlUcRFtIYRare7qk,Doctor,0.0,0.0
 ChIJ0XHqkH6xlUcR0cvBe98s90I,Doctor,12.0,4.0
 ChIJKT6odqm2lUcRpniMRccaSfw,Doctor,11.0,4.3
 ChIJ77DqUFuxlUcRb1uG_qGpK2g,Doctor,42.0,3.8
-ChIJSbRAvBG0lUcRe08rp6n9tIY,Doctor,,
+ChIJSbRAvBG0lUcRe08rp6n9tIY,Doctor,0.0,0.0
 ChIJJc8STCqylUcRRJyQeSeHoik,Doctor,28.0,3.9
 ChIJcZMtKhl_C0ER47j_0lwj-DE,Doctor,101.0,3.9
-ChIJ4UwdyOqxlUcRMGf5cnWSTVo,Doctor,,
+ChIJ4UwdyOqxlUcRMGf5cnWSTVo,Doctor,0.0,0.0
 ChIJxfuSwT2ylUcRSOg2IR63GCA,Doctor,1.0,5.0
-ChIJZZIU2hOylUcRYIAC0YnXtAA,Doctor,,
+ChIJZZIU2hOylUcRYIAC0YnXtAA,Doctor,0.0,0.0
 ChIJIeJqqVOxlUcRiTQfGOBul50,Sports club,264.0,4.4
 ChIJfYzmyluxlUcRjcjzWqeIEuY,Sports club,4.0,5.0
-ChIJR6KRPiaylUcRvujmoSbvIXk,Sports club,,
+ChIJR6KRPiaylUcRvujmoSbvIXk,Sports club,0.0,0.0
 ChIJi28FWhCylUcRlVlIO-iuYWw,Sports club,17.0,4.4
 ChIJ93yGEeWzlUcRFPwXReb9e20,Sports club,2.0,5.0
-ChIJL77S5oqxlUcRHbLrmcpN0UA,Industrial equipment supplier,,
+ChIJL77S5oqxlUcRHbLrmcpN0UA,Industrial equipment supplier,0.0,0.0
 ChIJ59ESaHS0lUcRXe73u74BYIg,Industrial equipment supplier,5.0,5.0
 ChIJwR2UxQiulUcRzEWfoUiG_-0,Industrial equipment supplier,22.0,1.7
-ChIJvwgbrGGxlUcRJcHThaON5dQ,Industrial equipment supplier,,
+ChIJvwgbrGGxlUcRJcHThaON5dQ,Industrial equipment supplier,0.0,0.0
 ChIJx_dG93ixlUcRmnAm81tkur4,Industrial equipment supplier,831.0,4.1
 ChIJjZKxCMCxlUcRpwJebIWgECc,Industrial equipment supplier,1.0,5.0
-ChIJN0gnOW-xlUcR54MugR2oWpk,Industrial equipment supplier,,
-ChIJE3aT62axlUcRpU99nBJAJm0,Industrial equipment supplier,,
-ChIJKxpR5nixlUcRAKir8l2ux4w,Industrial equipment supplier,,
-ChIJO5OYA6KxlUcRggSzJ5IgEsk,Industrial equipment supplier,,
+ChIJN0gnOW-xlUcR54MugR2oWpk,Industrial equipment supplier,0.0,0.0
+ChIJE3aT62axlUcRpU99nBJAJm0,Industrial equipment supplier,0.0,0.0
+ChIJKxpR5nixlUcRAKir8l2ux4w,Industrial equipment supplier,0.0,0.0
+ChIJO5OYA6KxlUcRggSzJ5IgEsk,Industrial equipment supplier,0.0,0.0
 ChIJGc4Hu1ixlUcRkAYW3JIio20,Industrial equipment supplier,5.0,5.0
 ChIJdwHgpFqxlUcRiu3-uJfzauc,Industrial equipment supplier,1.0,5.0
 ChIJzXRM82m2lUcRhwOxyowBgS0,Industrial equipment supplier,41.0,4.6
-ChIJObc_08yxlUcRKwBGFH1Bi5A,Industrial equipment supplier,,
+ChIJObc_08yxlUcRKwBGFH1Bi5A,Industrial equipment supplier,0.0,0.0
 ChIJ98IaAFSxlUcRfxsW2VH3w1w,Industrial equipment supplier,2.0,4.5
-ChIJpRX0Fhh_C0ERZKapx7Hh_Kg,Education center,,
+ChIJpRX0Fhh_C0ERZKapx7Hh_Kg,Education center,0.0,0.0
 ChIJu9npsg-xlUcR7H_ZrK78G3s,Education center,10.0,3.9
-ChIJ2QvuNHyzlUcROj9oX9Jjou0,Education center,,
+ChIJ2QvuNHyzlUcROj9oX9Jjou0,Education center,0.0,0.0
 ChIJy5uW50WxlUcRCGlw2wbC3U4,Education center,11.0,4.6
-ChIJK7TKu9SxlUcRX6Z9tig_pco,Education center,,
+ChIJK7TKu9SxlUcRX6Z9tig_pco,Education center,0.0,0.0
 ChIJffqgmuWxlUcRyOSOToh4g74,Education center,9.0,5.0
-ChIJLTfMswqzlUcRKsuThQXMihM,Education center,,
+ChIJLTfMswqzlUcRKsuThQXMihM,Education center,0.0,0.0
 ChIJKwTef4GxlUcR0qlu3uA8Nnc,Club,8.0,4.1
 ChIJqazfeTizlUcREfLTjkW_Wdk,Club,3.0,5.0
 ChIJ5TJN42mxlUcR83y87aK33Uo,Club,1.0,5.0
 ChIJrcjBSSqylUcRvCGeNHILhC0,Club,1.0,5.0
-ChIJI6T66WWxlUcRIIDs6pJm3Jo,Club,,
-ChIJyxlHg1exlUcRCGoVuoIxd8c,Club,1.0,
-ChIJAQD8-xiylUcRSC3OS3pJ76E,Club,,
+ChIJI6T66WWxlUcRIIDs6pJm3Jo,Club,0.0,0.0
+ChIJyxlHg1exlUcRCGoVuoIxd8c,Club,1.0,0.0
+ChIJAQD8-xiylUcRSC3OS3pJ76E,Club,0.0,0.0
 ChIJH7BTK5WxlUcR2O-Rv_EQKMQ,Club,7.0,3.9
 ChIJ__8PPFixlUcRAh60GWgvUYs,Club,1.0,5.0
 ChIJW5kx4YmxlUcRXjZJLwPGQT4,Club,1.0,5.0
@@ -2247,9 +2247,9 @@ ChIJPZfdtWGxlUcRIBHfcSX0M8A,Club,2.0,4.0
 ChIJWS-s-nyxlUcRLNkKz5fWvlQ,Club,1.0,2.0
 ChIJRZCNO1ixlUcRL_-Pp9k5Y30,Club,162.0,4.8
 ChIJx4wb_y6xlUcR3ZM5eXZguMg,Club,11.0,4.0
-ChIJiXLvGA-ylUcRubtVgkUv9XQ,Club,,
+ChIJiXLvGA-ylUcRubtVgkUv9XQ,Club,0.0,0.0
 ChIJtcq-XnyxlUcRPSb28PaVEDI,Club,29.0,4.2
-ChIJ7ygAPQWylUcRKIn91qjk4Jg,Club,,
+ChIJ7ygAPQWylUcRKIn91qjk4Jg,Club,0.0,0.0
 ChIJp9GbMJCzlUcR4Vx4kNa_XKI,Cleaning service,2.0,5.0
 ChIJ64LbqimylUcRdIYCaphtNcI,Cleaning service,34.0,4.9
 ChIJ71o8-3OzlUcRRBORlIyv1O0,Holiday apartment,3.0,3.7
@@ -2260,11 +2260,11 @@ ChIJ8ZnlHdCxlUcRrnTBmJ8Kjf4,Holiday apartment,1.0,1.0
 ChIJe38qwh20lUcRoyCJoP7GLL8,Holiday apartment,29.0,4.5
 ChIJxcZHjSiylUcRfn1m4SHT6fg,Holiday apartment,2.0,4.0
 ChIJ___bXGSxlUcR5m6nCTIpoH8,Holiday apartment,4.0,3.8
-ChIJWyE8mmyzlUcR7QQyuizt51I,Holiday apartment,1.0,
+ChIJWyE8mmyzlUcR7QQyuizt51I,Holiday apartment,1.0,0.0
 ChIJY_83WEKxlUcRDQN8OzOMkIc,Holiday apartment,2.0,2.5
 ChIJn72q7zGxlUcRmBO7j-UtoBI,Holiday apartment,2.0,5.0
 ChIJ_ztxl4qxlUcRNmz865KL51Y,Holiday apartment,32.0,4.7
-ChIJvX3GEOqxlUcR5Xps6nsFHc0,Holiday apartment,1.0,
+ChIJvX3GEOqxlUcR5Xps6nsFHc0,Holiday apartment,1.0,0.0
 ChIJOfILtNaxlUcR8qXj4wYsq8U,Holiday apartment,3.0,5.0
 ChIJ__riRhmylUcRiiDS5rJ2EaY,Car wash,113.0,3.8
 ChIJ4ey5WF6xlUcR3h-LEcoYZfY,Car wash,156.0,4.1
@@ -2277,63 +2277,63 @@ ChIJ_aBlLQKylUcRKaXwP6mbbyg,Car wash,48.0,4.9
 ChIJq0ENnFyzlUcRPxnkkTx7NEo,Car wash,522.0,4.6
 ChIJqZ3twZGzlUcR8NCQHHFdKSw,Car wash,24.0,3.5
 ChIJdSkFRHezlUcR_cmROHppzPg,Building,13.0,5.0
-ChIJxT1HGwCxlUcRzkXIi8MpSL4,Building,,
-ChIJe3F4HVSxlUcR1TjSstU7weI,Building,,
-ChIJoVN85OSxlUcRzU6EaZNazGs,Building,,
-ChIJ8_N8AzCylUcRqY-fUqZ_CC4,Building,,
-ChIJF1LtVXexlUcRGiRkHfGn0bg,Building,,
-ChIJX8QWI7KxlUcRiOUti1xxULQ,Building,,
+ChIJxT1HGwCxlUcRzkXIi8MpSL4,Building,0.0,0.0
+ChIJe3F4HVSxlUcR1TjSstU7weI,Building,0.0,0.0
+ChIJoVN85OSxlUcRzU6EaZNazGs,Building,0.0,0.0
+ChIJ8_N8AzCylUcRqY-fUqZ_CC4,Building,0.0,0.0
+ChIJF1LtVXexlUcRGiRkHfGn0bg,Building,0.0,0.0
+ChIJX8QWI7KxlUcRiOUti1xxULQ,Building,0.0,0.0
 ChIJG8Dy6uWzlUcR6G-JVqSrRWY,Coworking space,82.0,5.0
 ChIJcSWVYpqxlUcRGKV-0EdDxqI,Coworking space,10.0,4.8
-ChIJ__8T18GxlUcRhsBFgiVHyxc,Establishment,,
-ChIJ-d8FII6zlUcRMb6bYi1hjX0,Establishment,,
+ChIJ__8T18GxlUcRhsBFgiVHyxc,Establishment,0.0,0.0
+ChIJ-d8FII6zlUcRMb6bYi1hjX0,Establishment,0.0,0.0
 ChIJx_dG93ixlUcRvSso_eRfZxU,Establishment,39.0,4.9
-ChIJq6rGvYCxlUcRkL2SlFlEz3c,Establishment,,
-ChIJ53bY-VqxlUcRHyQyo9Acqtk,Establishment,,
-ChIJz36173yxlUcRTKHUawfOhqw,Establishment,,
+ChIJq6rGvYCxlUcRkL2SlFlEz3c,Establishment,0.0,0.0
+ChIJ53bY-VqxlUcRHyQyo9Acqtk,Establishment,0.0,0.0
+ChIJz36173yxlUcRTKHUawfOhqw,Establishment,0.0,0.0
 ChIJmeFvQU-xlUcRySCXoXzeXvI,Establishment,7.0,4.6
-ChIJy8g6Q9qzlUcREld4TFjUQPc,Establishment,,
-ChIJ8-uRc_yzlUcREQJbo-DK9cU,Establishment,,
+ChIJy8g6Q9qzlUcREld4TFjUQPc,Establishment,0.0,0.0
+ChIJ8-uRc_yzlUcREQJbo-DK9cU,Establishment,0.0,0.0
 ChIJi81ebyexlUcRZhUjKHLvzvk,Establishment,1.0,5.0
 ChIJR-qSJlixlUcRFvdd-O04wXU,Establishment,4.0,4.0
 ChIJwWmxfPKzlUcRqur69vw8xvY,Establishment,1.0,5.0
 ChIJ3RroGamxlUcRRZ5XwSUkU1I,Establishment,18.0,4.7
 ChIJaYKZRUaxlUcRI7Gc77q37YQ,Establishment,1.0,4.0
 ChIJsW7INuezlUcRpwixKVkTQO8,Establishment,1.0,5.0
-ChIJHbciCTCylUcRQ1mz52qhl1s,Establishment,,
+ChIJHbciCTCylUcRQ1mz52qhl1s,Establishment,0.0,0.0
 ChIJd2owo1OxlUcRlNLHAXWrnYM,Establishment,2.0,4.0
 ChIJS_BhWVSxlUcRuUagqlTGuck,Establishment,13.0,4.6
 ChIJlWh9aWOxlUcR1dNKYX6XmD0,Establishment,2.0,3.0
-ChIJocc39I-xlUcRL8SEZqqdgF8,Establishment,,
-ChIJu4m4AvyzlUcRh2THID9sXYA,Establishment,,
+ChIJocc39I-xlUcRL8SEZqqdgF8,Establishment,0.0,0.0
+ChIJu4m4AvyzlUcRh2THID9sXYA,Establishment,0.0,0.0
 ChIJozNf_8GxlUcRAKRDAGcxIog,Establishment,4.0,3.3
-ChIJ6WRZwYOzlUcRQqGMHImXFSo,Establishment,,
+ChIJ6WRZwYOzlUcRQqGMHImXFSo,Establishment,0.0,0.0
 ChIJh1EC85GzlUcR5WGelpG4nM8,Establishment,1.0,3.0
 ChIJUUM8WcOxlUcR22i3VzC4Zk4,Establishment,3.0,3.5
 ChIJ8_ojwWSxlUcRm534XJ-1nwg,Establishment,4.0,3.8
 ChIJHZpuF3yxlUcRVxn_rTaXnsE,Establishment,1.0,5.0
 ChIJA2TOkvyzlUcRn95tMIyX-90,Establishment,2.0,4.0
-ChIJdceMoH6xlUcRU7egjThZ-YY,Establishment,,
+ChIJdceMoH6xlUcRU7egjThZ-YY,Establishment,0.0,0.0
 ChIJSWkDVVmxlUcR2QWt7oTDgmg,Establishment,1.0,5.0
-ChIJ_70cnDGylUcRVEMGYRgbP-o,Establishment,,
-ChIJ79LYajexlUcRMB9I5wGSh7Y,Establishment,,
-ChIJ2XPIc-SzlUcRXSjXnPlV46s,Establishment,,
-ChIJ89UXDayzlUcRYJpcr41_jrY,Establishment,,
+ChIJ_70cnDGylUcRVEMGYRgbP-o,Establishment,0.0,0.0
+ChIJ79LYajexlUcRMB9I5wGSh7Y,Establishment,0.0,0.0
+ChIJ2XPIc-SzlUcRXSjXnPlV46s,Establishment,0.0,0.0
+ChIJ89UXDayzlUcRYJpcr41_jrY,Establishment,0.0,0.0
 ChIJP5uMlamxlUcRENMP2AHCmFs,Establishment,8.0,5.0
-ChIJxc9ELFKxlUcRPD0ThUXFOrc,Investment company,,
+ChIJxc9ELFKxlUcRPD0ThUXFOrc,Investment company,0.0,0.0
 ChIJV_0RxgCxlUcRFtnDDiCMeaM,Investment company,4.0,5.0
-ChIJ-dh4qiCylUcRd7ApiRnUtCY,Trade fair construction company,,
+ChIJ-dh4qiCylUcRd7ApiRnUtCY,Trade fair construction company,0.0,0.0
 ChIJS356byO1lUcRnzz644GEyL8,Coffee store,17.0,5.0
 ChIJiYlLIq62lUcRCLDzNufKYL4,Engineering consultant,6.0,4.3
 ChIJFdJvhhOxlUcRsZeig6tNyJM,Dry wall contractor,1.0,5.0
-ChIJ12Yg9FSxlUcRPTs8xU8fy58,Bus stop,,
-ChIJnz5edkGxlUcRjetR5qviVxU,Nursing home,,
+ChIJ12Yg9FSxlUcRPTs8xU8fy58,Bus stop,0.0,0.0
+ChIJnz5edkGxlUcRjetR5qviVxU,Nursing home,0.0,0.0
 ChIJeVjFqSCzlUcRfSBG7dD-CQ0,Nursing home,11.0,4.6
-ChIJHyq-XFexlUcRO5XqhM3QlMo,Nursing home,,
+ChIJHyq-XFexlUcRO5XqhM3QlMo,Nursing home,0.0,0.0
 ChIJZWNwU1axlUcRy9sIn1qd6OQ,Nursing home,15.0,4.8
 ChIJe_byE2ixlUcR4i52qti8Jus,Nursing home,2.0,1.0
-ChIJTez3cUSxlUcRDkhOyC_tZaQ,Nursing home,,
-ChIJX3xzRESxlUcRdi_yBz4g2nI,Nursing home,,
+ChIJTez3cUSxlUcRDkhOyC_tZaQ,Nursing home,0.0,0.0
+ChIJX3xzRESxlUcRdi_yBz4g2nI,Nursing home,0.0,0.0
 ChIJV2idSyuylUcRVJm481wf_Wo,Hotel,5.0,4.8
 ChIJV2Y8r_6zlUcRFHy1RQGtAyY,Hotel,166.0,3.8
 ChIJSbDiTeOzlUcRdtGO0Ej2ses,Hotel,359.0,4.1
@@ -2345,95 +2345,95 @@ ChIJ1Sf4h7SxlUcRQNvcOTKF5kU,Kiosk,9.0,2.8
 ChIJkQKz92OxlUcRvKtpsN0HJfc,Kiosk,1.0,3.0
 ChIJjcgADHyxlUcRgYpdJ5J-iAI,Kiosk,1.0,5.0
 ChIJ__8rgvezlUcR9BSFXZ4OY-Y,Kiosk,13.0,4.2
-ChIJZxeR8HyxlUcRebJt6paQrbo,Kiosk,2.0,
+ChIJZxeR8HyxlUcRebJt6paQrbo,Kiosk,2.0,0.0
 ChIJBz7DPs6xlUcRHfwiPCorfoQ,Kiosk,10.0,5.0
 ChIJizvdWo-xlUcRDPETqgc-bFw,Kiosk,8.0,5.0
 ChIJIdQ2z7-xlUcRfsfZvEiklmY,Foot care,23.0,4.9
 ChIJV9_L1U2xlUcRVfYS1n2p6kg,Non-profit organization,37.0,3.9
-ChIJRfx9RgCxlUcRUGM2g_FxHTc,Non-profit organization,,
-ChIJAQDwzv2zlUcRRSvwmKNsY_8,Non-profit organization,,
+ChIJRfx9RgCxlUcRUGM2g_FxHTc,Non-profit organization,0.0,0.0
+ChIJAQDwzv2zlUcRRSvwmKNsY_8,Non-profit organization,0.0,0.0
 ChIJebSlv3e2lUcR4Ew9aZ7iWE4,Non-profit organization,25.0,4.4
 ChIJZQPtmu2zlUcR6EL5xuPxz4E,Non-profit organization,7.0,4.3
 ChIJEyPPdlSxlUcRauesXBU3Q44,Non-profit organization,8.0,5.0
 ChIJN_NgsBCylUcRkg_WZ1LQZrc,Bar,8.0,3.6
-ChIJ_UfMDlexlUcRY-rjwNt__gU,Bar,,
+ChIJ_UfMDlexlUcRY-rjwNt__gU,Bar,0.0,0.0
 ChIJH3R-Fx6ylUcR-5aTg8h_RIw,Wine wholesaler and importer,1.0,5.0
 ChIJ29mbtoqxlUcRl3Y0htQW2cY,Shopping mall,489.0,4.2
 ChIJ8eF7qiaxlUcRMgR7jjwxP48,Shopping mall,11.0,4.5
-ChIJOSFPhYOxlUcRFbWi1pDd2WI,Kindergarten,,
-ChIJo8-tN7ezlUcRtzFFOvq-29Q,Kindergarten,,
+ChIJOSFPhYOxlUcRFbWi1pDd2WI,Kindergarten,0.0,0.0
+ChIJo8-tN7ezlUcRtzFFOvq-29Q,Kindergarten,0.0,0.0
 ChIJS3DGH3-xlUcRJ-Gg8zqCbBo,Kindergarten,50.0,3.6
 ChIJU-ntELSxlUcRKGKcmu_Eomg,Medical examiner,17.0,3.7
-ChIJ1e07zVOxlUcRU-VIBi6tGj4,Farm,,
-ChIJV1A4PpyxlUcRAtJC5sw_GXk,Farm,,
+ChIJ1e07zVOxlUcRU-VIBi6tGj4,Farm,0.0,0.0
+ChIJV1A4PpyxlUcRAtJC5sw_GXk,Farm,0.0,0.0
 ChIJWdyLZvyzlUcRQwwaxoXgRw8,Party store,89.0,4.4
 ChIJ0VV2cVqxlUcR-nvbwzv0yOo,Osteopath,3.0,5.0
 ChIJx_dG93ixlUcRZEsoudEvqO8,Manufacturer,2.0,5.0
-ChIJxc9ELFKxlUcRu8AMBQ1quRE,Manufacturer,,
+ChIJxc9ELFKxlUcRu8AMBQ1quRE,Manufacturer,0.0,0.0
 ChIJE3L8xGaxlUcRnHgTBSCeg_M,Manufacturer,6.0,4.5
-ChIJR2SVflmxlUcRsk29iwxBALA,Manufacturer,,
-ChIJt1ilEgCzlUcRuS-nj5v9Zgs,Manufacturer,,
-ChIJcV2qXq0SlkcRi9t0spHdFiE,Manufacturer,,
+ChIJR2SVflmxlUcRsk29iwxBALA,Manufacturer,0.0,0.0
+ChIJt1ilEgCzlUcRuS-nj5v9Zgs,Manufacturer,0.0,0.0
+ChIJcV2qXq0SlkcRi9t0spHdFiE,Manufacturer,0.0,0.0
 ChIJL87kJ6a2lUcR5uNBq6qS1S8,Manufacturer,1.0,5.0
 ChIJL7fw6oWxlUcRKGQKRbOHUic,Manufacturer,2.0,5.0
-ChIJp0vOW_21lUcROIgJHRO22oY,Manufacturer,,
+ChIJp0vOW_21lUcROIgJHRO22oY,Manufacturer,0.0,0.0
 ChIJVbA63GaxlUcReMNkEkE-PQM,Manufacturer,4.0,4.2
-ChIJCdIvWw-xlUcRhYNwJLiT6Og,Manufacturer,,
+ChIJCdIvWw-xlUcRhYNwJLiT6Og,Manufacturer,0.0,0.0
 ChIJGS3lgBeylUcRYphbjFFjabI,Manufacturer,2.0,5.0
-ChIJrwoIZLWxlUcRZtvbkieZpI4,Manufacturer,,
+ChIJrwoIZLWxlUcRZtvbkieZpI4,Manufacturer,0.0,0.0
 ChIJSVVHl2axlUcRaPeds6r7nw4,Manufacturer,2.0,4.5
 ChIJ5czTWQqylUcRYZRZnLIppKg,Manufacturer,10.0,5.0
-ChIJ1e07zVOxlUcRJdCasF5vY0c,Manufacturer,,
+ChIJ1e07zVOxlUcRJdCasF5vY0c,Manufacturer,0.0,0.0
 ChIJDfJcmouzlUcR-PDzicrcnAA,Manufacturer,1.0,5.0
 ChIJPdggjOixlUcRt-NqyQSNMnY,Manufacturer,1.0,1.0
-ChIJwVM_mPezlUcRB_mTyrMnQgw,Manufacturer,,
-ChIJRexpqbmxlUcR7YG1bZZOjC0,Manufacturer,,
-ChIJ1xcIoJqzlUcRE6FtPtsCBE0,Manufacturer,,
+ChIJwVM_mPezlUcRB_mTyrMnQgw,Manufacturer,0.0,0.0
+ChIJRexpqbmxlUcR7YG1bZZOjC0,Manufacturer,0.0,0.0
+ChIJ1xcIoJqzlUcRE6FtPtsCBE0,Manufacturer,0.0,0.0
 ChIJUTpnklGxlUcR6vdZEyjAZSM,Manufacturer,1.0,5.0
 ChIJr_V7_7KxlUcRLlLtnFyuUwE,Manufacturer,10.0,4.8
-ChIJG5SuYoyzlUcRfSMSmcw1hH4,Manufacturer,,
+ChIJG5SuYoyzlUcRfSMSmcw1hH4,Manufacturer,0.0,0.0
 ChIJSzby_NixlUcR32cMjoXiE78,Manufacturer,2.0,2.5
-ChIJ-XurMZKxlUcR-scU-GqmBEk,Manufacturer,,
+ChIJ-XurMZKxlUcR-scU-GqmBEk,Manufacturer,0.0,0.0
 ChIJ7S1E7YyzlUcR8H7JxKWPzdw,Manufacturer,1.0,5.0
 ChIJQw4J8RaylUcRbgDDC4tZK3w,Manufacturer,1.0,5.0
 ChIJlaX-sLGzlUcRvao_8hm92AA,Manufacturer,49.0,1.7
 ChIJ1e07zVOxlUcRixzhBOwbpwE,Manufacturer,1.0,5.0
 ChIJXTKNOxmylUcRQ9nlPJVTn9Y,Manufacturer,6.0,2.3
-ChIJ1ZbusCaylUcRUX5VW5kZTk8,Manufacturer,,
-ChIJq6ouoo6xlUcRsNa19UVjeuU,Manufacturer,,
-ChIJs23YRzuxlUcRG-MqIdTRvck,Manufacturer,,
-ChIJTexSPGexlUcRmknIGaZuf1s,Manufacturer,,
-ChIJxRtNeuKxlUcRgFBNe_sz5bY,Manufacturer,,
-ChIJvR9LvnW0lUcR_kMrVf3pyoI,Manufacturer,,
-ChIJrUOeHOSxlUcRyUkn134NpRk,Manufacturer,,
-ChIJ1e07zVOxlUcRfYipx5ItDYc,Manufacturer,,
-ChIJlS3FxJSxlUcR2udEqPsrGw8,Manufacturer,,
+ChIJ1ZbusCaylUcRUX5VW5kZTk8,Manufacturer,0.0,0.0
+ChIJq6ouoo6xlUcRsNa19UVjeuU,Manufacturer,0.0,0.0
+ChIJs23YRzuxlUcRG-MqIdTRvck,Manufacturer,0.0,0.0
+ChIJTexSPGexlUcRmknIGaZuf1s,Manufacturer,0.0,0.0
+ChIJxRtNeuKxlUcRgFBNe_sz5bY,Manufacturer,0.0,0.0
+ChIJvR9LvnW0lUcR_kMrVf3pyoI,Manufacturer,0.0,0.0
+ChIJrUOeHOSxlUcRyUkn134NpRk,Manufacturer,0.0,0.0
+ChIJ1e07zVOxlUcRfYipx5ItDYc,Manufacturer,0.0,0.0
+ChIJlS3FxJSxlUcR2udEqPsrGw8,Manufacturer,0.0,0.0
 ChIJxQwDAIqxlUcRkZ1SjnpdrAI,Manufacturer,1.0,4.0
 ChIJy0muNF6xlUcRo3G4uCLSehQ,Manufacturer,2.0,4.5
 ChIJB9gyr_KxlUcRyoJEMK7GDws,Souvenir store,30.0,4.1
 ChIJy8yxfWixlUcRlW6orak_Ark,Souvenir store,3.0,5.0
 ChIJVeovD_GxlUcRqayLnjtj78g,Souvenir store,1.0,5.0
-ChIJ7dYtUSyxlUcRG4TQn3p9uWE,Souvenir store,,
+ChIJ7dYtUSyxlUcRG4TQn3p9uWE,Souvenir store,0.0,0.0
 ChIJ06sMGPOxlUcR-Ajw5-zd3A8,Souvenir store,15.0,4.7
 ChIJSeopbwmulUcROdKZaOo7OKI,Software company,23.0,4.5
-ChIJXTW98v6zlUcRYI2hgLvjD_o,Software company,,
-ChIJs2Y4ppSxlUcRtl_Ew_BWALk,Software company,,
-ChIJOxcb4p2xlUcRtmURRFuMbW0,Software company,,
-ChIJc7RD4pSxlUcRKWTRu8Nj2O4,Software company,,
+ChIJXTW98v6zlUcRYI2hgLvjD_o,Software company,0.0,0.0
+ChIJs2Y4ppSxlUcRtl_Ew_BWALk,Software company,0.0,0.0
+ChIJOxcb4p2xlUcRtmURRFuMbW0,Software company,0.0,0.0
+ChIJc7RD4pSxlUcRKWTRu8Nj2O4,Software company,0.0,0.0
 ChIJx_dG93ixlUcRPBLocqZcR-0,Software company,1.0,5.0
 ChIJ6e8womCxlUcR09OcKQyr3eI,Software company,4.0,4.3
-ChIJT3AQ9VSxlUcROU2c_HnOLLo,Software company,,
-ChIJ9SLU3GCxlUcRXMXa0R1_CIE,Software company,,
-ChIJDZ1ynJOxlUcR8BgcrWfAEh0,Software company,,
+ChIJT3AQ9VSxlUcROU2c_HnOLLo,Software company,0.0,0.0
+ChIJ9SLU3GCxlUcRXMXa0R1_CIE,Software company,0.0,0.0
+ChIJDZ1ynJOxlUcR8BgcrWfAEh0,Software company,0.0,0.0
 ChIJHUkjhE6xlUcRi6-UAoC1Vag,Software company,3.0,5.0
-ChIJxTe3nNKxlUcRzzlNBZ4NImg,Software company,,
+ChIJxTe3nNKxlUcRzzlNBZ4NImg,Software company,0.0,0.0
 ChIJO-k_4p2xlUcRgd6UYzoWlO4,Software company,2.0,4.5
 ChIJK3i2RvyzlUcR05NPf-gaYT4,Software company,3.0,5.0
 ChIJnzKNwWOxlUcRVomYI98C51Y,Software company,5.0,5.0
-ChIJ0QKG9vuzlUcRJJgdbSLihK8,Software company,,
-ChIJx_dG93ixlUcRofyQ2QRT5Ms,Software company,,
-ChIJf3L0TGCxlUcRDTpl99S-ltg,Software company,,
-ChIJ7TsS93ixlUcRGknKQamZuFo,Software company,,
+ChIJ0QKG9vuzlUcRJJgdbSLihK8,Software company,0.0,0.0
+ChIJx_dG93ixlUcRofyQ2QRT5Ms,Software company,0.0,0.0
+ChIJf3L0TGCxlUcRDTpl99S-ltg,Software company,0.0,0.0
+ChIJ7TsS93ixlUcRGknKQamZuFo,Software company,0.0,0.0
 ChIJY11FEwuzlUcRB6fe6KXt54E,College,1.0,5.0
 ChIJHck2kXixlUcRwT9FJsfISTw,College,6.0,4.3
 ChIJ_VmS90GxlUcRhpFL6qgBbIk,College,8.0,4.3
@@ -2442,136 +2442,136 @@ ChIJFfk0GMizlUcRXSBDkfGpZNY,Historical landmark,1.0,4.0
 ChIJvTbURQC1lUcRS2aJORS0v-g,Historical landmark,1.0,5.0
 ChIJG31sPCKzlUcR-fRkjRrqnX8,Historical landmark,2.0,4.5
 ChIJVZ4Mj_mzlUcRh8p1GEOl4oA,Historical landmark,18.0,4.1
-ChIJy9ahI0OxlUcRRJlQ2fbB0d4,Historical landmark,,
+ChIJy9ahI0OxlUcRRJlQ2fbB0d4,Historical landmark,0.0,0.0
 ChIJxQWL8VezlUcRNLl5Wp3Z08c,Historical landmark,5.0,4.3
 ChIJp_V1n3CxlUcRoY5UcqeNX14,Historical landmark,1.0,5.0
 ChIJZ2arrouxlUcRTVRzsb5vTh8,Historical landmark,1.0,5.0
 ChIJD8GBz66xlUcRhiluCBdnwMM,Historical landmark,1.0,5.0
 ChIJ6UmvtXexlUcR1dC9Quvd7LM,Caterer,13.0,4.9
 ChIJTXDGH3-xlUcRF3yMg3CMwVg,Caterer,6.0,5.0
-ChIJvSog-jexlUcR1EuMKpSQau8,Caterer,,
-ChIJ1UoQJjKylUcRriZkcWFKKvU,Cemetery,,
+ChIJvSog-jexlUcR1EuMKpSQau8,Caterer,0.0,0.0
+ChIJ1UoQJjKylUcRriZkcWFKKvU,Cemetery,0.0,0.0
 ChIJUbZtbfGzlUcRw7N3q_1ME_o,Cemetery,6.0,4.7
 ChIJb8kU3ZWzlUcRYYaq3cmbGgg,Cemetery,1.0,5.0
 ChIJ3_8crPqzlUcRfK5_tKFz1gI,Cemetery,3.0,4.7
 ChIJj6uwY9-xlUcRHpjuw9DTk8g,Cemetery,6.0,2.8
-ChIJ8ThBZSezlUcRCDoh4a_Osh0,Cemetery,,
+ChIJ8ThBZSezlUcRCDoh4a_Osh0,Cemetery,0.0,0.0
 ChIJ49QaR_mzlUcR8h8yZgLT-yQ,Cemetery,11.0,4.8
 ChIJszGEtr6xlUcRrh3F11oSkWs,Cemetery,3.0,4.0
 ChIJuQP8-_azlUcR-gt0V6VGNt8,Cemetery,9.0,3.9
 ChIJfwFL-PuzlUcRhOKD8cL6Y44,Cemetery,1.0,4.0
 ChIJI1rakNuxlUcR-ob9W-YMsuM,Wholesaler,2.0,5.0
-ChIJK5oc8L6xlUcR1xGc7PAoRyE,Wholesaler,,
-ChIJ46J3Tg-xlUcR9FAiie4AsB0,River,,
-ChIJ2dWmkEuxlUcReYWRBehMU0Q,River,,
-ChIJVSexsQaxlUcRLokwmwaer3s,River,,
+ChIJK5oc8L6xlUcR1xGc7PAoRyE,Wholesaler,0.0,0.0
+ChIJ46J3Tg-xlUcR9FAiie4AsB0,River,0.0,0.0
+ChIJ2dWmkEuxlUcReYWRBehMU0Q,River,0.0,0.0
+ChIJVSexsQaxlUcRLokwmwaer3s,River,0.0,0.0
 ChIJURfQCR2xlUcRGLbsKqa90GI,River,4.0,5.0
 ChIJp6_ONSOxlUcRQOc0OPrZk6Y,River,1.0,4.0
-ChIJRRirND6xlUcR-FevWczZckM,River,,
-ChIJxUlhGeGzlUcRZrSHPx7vkqI,River,,
+ChIJRRirND6xlUcR-FevWczZckM,River,0.0,0.0
+ChIJxUlhGeGzlUcRZrSHPx7vkqI,River,0.0,0.0
 ChIJB8epZ6CxlUcRmeP9ZECehV4,River,3.0,3.7
-ChIJ6z55mB2xlUcRL6ak8KajsCc,River,,
+ChIJ6z55mB2xlUcRL6ak8KajsCc,River,0.0,0.0
 ChIJB82R7DuxlUcRRHmQFN-bAdI,River,2.0,3.5
-ChIJ6c6KAD-xlUcRc0c6k0B-Xgw,River,,
-ChIJsbMPvg2xlUcRK3aa84p1gjk,River,,
-ChIJrzRZ7CGxlUcREXTA62qdK5E,River,,
-ChIJwWmpjRWxlUcRYgoupUqRqv4,River,,
+ChIJ6c6KAD-xlUcRc0c6k0B-Xgw,River,0.0,0.0
+ChIJsbMPvg2xlUcRK3aa84p1gjk,River,0.0,0.0
+ChIJrzRZ7CGxlUcREXTA62qdK5E,River,0.0,0.0
+ChIJwWmpjRWxlUcRYgoupUqRqv4,River,0.0,0.0
 ChIJH763qra1lUcRgMORB-zLlg8,Organic shop,2.0,5.0
 ChIJ0XS3v_yzlUcRemsnKNEmJbI,Physical fitness program,1.0,5.0
-ChIJs9qxcPuzlUcRflya75LEwJc,Association / Organization,,
-ChIJTZ8sFgCxlUcRTFF24hURnqQ,Association / Organization,,
+ChIJs9qxcPuzlUcRflya75LEwJc,Association / Organization,0.0,0.0
+ChIJTZ8sFgCxlUcRTFF24hURnqQ,Association / Organization,0.0,0.0
 ChIJ-6mwcCCylUcRQlJq1Sy1vK4,Association / Organization,18.0,4.7
 ChIJzytTU_6zlUcR01pHDAFOd_4,Association / Organization,4.0,2.3
-ChIJublO7CmylUcRIqnYxBRGOYU,Association / Organization,,
+ChIJublO7CmylUcRIqnYxBRGOYU,Association / Organization,0.0,0.0
 ChIJdaW9lhCylUcRWgIn63SDZ8Y,Association / Organization,4.0,3.8
-ChIJE_xZHSmylUcRRdge8vcpBaY,Association / Organization,,
+ChIJE_xZHSmylUcRRdge8vcpBaY,Association / Organization,0.0,0.0
 ChIJ1796XYyxlUcRfn7_LMyv0bs,Association / Organization,36.0,4.6
-ChIJH8IMfGOxlUcRg2NAAWx55aY,Association / Organization,,
+ChIJH8IMfGOxlUcRg2NAAWx55aY,Association / Organization,0.0,0.0
 ChIJd61HSSqylUcRqdjoh3YxHNU,Association / Organization,5.0,4.4
 ChIJKSQ-73yxlUcR6vy_X51f-Fc,Association / Organization,58.0,4.3
 ChIJ-XvNL-J-C0ERyqEw38DUZqw,Association / Organization,4.0,5.0
-ChIJnw-o0AaxlUcROcEMv9Q8rvI,Association / Organization,,
-ChIJE6OfBAuylUcRGjAQ-UOuyMY,Association / Organization,,
-ChIJKzwFEQC0lUcRHQDGk6ydKIs,Association / Organization,,
+ChIJnw-o0AaxlUcROcEMv9Q8rvI,Association / Organization,0.0,0.0
+ChIJE6OfBAuylUcRGjAQ-UOuyMY,Association / Organization,0.0,0.0
+ChIJKzwFEQC0lUcRHQDGk6ydKIs,Association / Organization,0.0,0.0
 ChIJJZhH9Zq3lUcR450qVcrx3yI,Association / Organization,4.0,5.0
 ChIJBclJ8CuylUcROyCrTmL3Gao,Association / Organization,8.0,4.3
-ChIJYxVhjhiylUcRVIKhL0JVYWU,Association / Organization,,
+ChIJYxVhjhiylUcRVIKhL0JVYWU,Association / Organization,0.0,0.0
 ChIJXRcn2dSxlUcRTQnTusQciDo,Self-storage facility,1.0,5.0
 ChIJJQOezOqxlUcRjscgrvZWh7U,Health counselor,9.0,4.4
-ChIJbdShNHqxlUcRnj37yEeXWag,Health counselor,,
+ChIJbdShNHqxlUcRnj37yEeXWag,Health counselor,0.0,0.0
 ChIJ_ftF29WzlUcRAMAD1u5SShE,Health counselor,1.0,5.0
 ChIJh5yBq1axlUcRkUzCedMqUKk,Health counselor,5.0,4.0
-ChIJBwwg1muxlUcRJIQ0i-mDQq4,Health counselor,,
+ChIJBwwg1muxlUcRJIQ0i-mDQq4,Health counselor,0.0,0.0
 ChIJ7YtMd0GxlUcRWlu42uof-gs,Health counselor,3.0,5.0
-ChIJAx9nJbu1lUcRoYl2dKiUJ6Q,Health counselor,,
-ChIJ77DqUFuxlUcRKt4I_DXC744,Health counselor,,
-ChIJtd2ZkQG0lUcR6nL0lkStx0k,Health counselor,,
+ChIJAx9nJbu1lUcRoYl2dKiUJ6Q,Health counselor,0.0,0.0
+ChIJ77DqUFuxlUcRKt4I_DXC744,Health counselor,0.0,0.0
+ChIJtd2ZkQG0lUcR6nL0lkStx0k,Health counselor,0.0,0.0
 ChIJN5ZihFmzlUcRi4sNxA1muVI,Massage spa,34.0,4.9
 ChIJSQ1V2XyxlUcRy-Aoy5YwQHU,Massage spa,32.0,4.1
 ChIJJbQdRz6zlUcR7ot7DHp6Lbw,Massage spa,1.0,5.0
-ChIJm92auaaxlUcRH4nu3dlVpRg,Cultural landmark,,
+ChIJm92auaaxlUcRH4nu3dlVpRg,Cultural landmark,0.0,0.0
 ChIJzz6qwhiylUcR_7s3Iuc_a1g,Liquor store,12.0,4.6
 ChIJBR9tcjeylUcRawCFmfLqhr0,Liquor store,2.0,4.5
 ChIJYeUZdoKxlUcRZkvbkquIP5M,Liquor store,1.0,5.0
 ChIJJRGcDCuylUcRYL8zdE3iRJU,Liquor store,1.0,5.0
 ChIJYTJEC8yvlUcRcKOfMwLO9FM,Liquor store,29.0,4.4
-ChIJ6brB1RSxlUcRQOOyHSS-pnQ,Forestry office,,
+ChIJ6brB1RSxlUcRQOOyHSS-pnQ,Forestry office,0.0,0.0
 ChIJ43FNwGqxlUcRowmTnkeVFFY,Forestry office,1.0,5.0
 ChIJG58sbgKxlUcResPJE7_KxJo,Forestry office,17.0,2.6
 ChIJwwxVXTeylUcRYmIjTDpf3P0,Hookah store,12.0,4.3
 ChIJTTlIJYaxlUcRrnEwgjJnvgQ,Tobacco shop,4.0,3.0
 ChIJXZqg99uxlUcRPfk_HW0eYl4,Stationery store,97.0,4.6
-ChIJXZxhPmGPsUcRmqMkMRfKmB0,Vitamin & supplements store,,
+ChIJXZxhPmGPsUcRmqMkMRfKmB0,Vitamin & supplements store,0.0,0.0
 ChIJ2zW1E_yzlUcRRjSqMHaIXo8,District office,2.0,5.0
-ChIJ1aKYim-xlUcROrMwOdinSuM,Goldsmith,,
-ChIJg1ST1NyxlUcRAj1G1N1bbS0,Medical supply store,,
+ChIJ1aKYim-xlUcROrMwOdinSuM,Goldsmith,0.0,0.0
+ChIJg1ST1NyxlUcRAj1G1N1bbS0,Medical supply store,0.0,0.0
 ChIJxQeHt6uzlUcRM8JQU-RTWsg,Public works department,4.0,3.0
 ChIJb7uXUUKxlUcRTKlpVfg193c,Tire shop,86.0,4.7
 ChIJj3RaLmOxlUcRsqz_HCpb6Bs,Toy store,3.0,5.0
-ChIJXWiTcmixlUcRsTpDW3leRtQ,Hospital,,
+ChIJXWiTcmixlUcRsTpDW3leRtQ,Hospital,0.0,0.0
 ChIJp_mWf4W1lUcRkeB_EaeHNtc,Nail salon,35.0,4.9
 ChIJl0vgfC-xlUcRwBFechsYjL8,Lake,19.0,4.6
 ChIJwws-QuuzlUcRNk4cHzPjn6w,Lake,4.0,3.3
 ChIJ60yxG_-wlUcR7l5eZYwJ_qA,Lake,10.0,4.4
-ChIJP01b0fKzlUcRhlHd9HyL3gA,Lake,,
+ChIJP01b0fKzlUcRhlHd9HyL3gA,Lake,0.0,0.0
 ChIJk4c0xyaxlUcR9McVHqUnRX8,Lake,4.0,4.8
-ChIJTYwMd7-zlUcR4Ke3qFGWGeY,Lake,,
+ChIJTYwMd7-zlUcR4Ke3qFGWGeY,Lake,0.0,0.0
 ChIJnRGy2iGylUcRaI9bt7qbnA4,Lake,5.0,3.4
-ChIJeS33H7-zlUcRQH6nkMTrUYA,Lake,,
+ChIJeS33H7-zlUcRQH6nkMTrUYA,Lake,0.0,0.0
 ChIJa2zYQSKylUcRJIMr80p0kHA,Lake,4.0,4.3
 ChIJ0dRZeo-xlUcRGtEal8dhsrk,Lake,1.0,4.0
 ChIJeXz8sOqzlUcRYGI7c_iWT78,Lake,2.0,4.0
-ChIJ6cfW05CxlUcR5sdzc8pFb1U,Lake,,
-ChIJYRMopQWxlUcRgGEhW8RBle8,Lake,,
+ChIJ6cfW05CxlUcR5sdzc8pFb1U,Lake,0.0,0.0
+ChIJYRMopQWxlUcRgGEhW8RBle8,Lake,0.0,0.0
 ChIJgcuXTDmylUcRbBFAQWWUYrQ,Lake,2.0,5.0
 ChIJA-8RlNuzlUcRfMhWOfjrSMk,Lake,1.0,4.0
 ChIJR_hy--WzlUcRGiz-QaU-SU4,Lake,9.0,4.8
-ChIJYyWIKDGylUcRkmKVzsuPZhU,Lake,,
-ChIJXRN2g8SxlUcRLHqyNJD9tEU,Lake,,
-ChIJAbRNqU2wlUcRDjwWG9Xo_iE,Lake,,
+ChIJYyWIKDGylUcRkmKVzsuPZhU,Lake,0.0,0.0
+ChIJXRN2g8SxlUcRLHqyNJD9tEU,Lake,0.0,0.0
+ChIJAbRNqU2wlUcRDjwWG9Xo_iE,Lake,0.0,0.0
 ChIJIwZAvRqylUcRbOYOtitj6_A,Lake,1.0,5.0
 ChIJ-RVBJwuxlUcRLgPWQQro9CI,Lake,1.0,5.0
 ChIJc6iBd8KxlUcRYMmu9t0Bo6Y,Lake,2.0,4.5
-ChIJkSr3tX-xlUcRlp-hwWK423Q,Lake,,
+ChIJkSr3tX-xlUcRlp-hwWK423Q,Lake,0.0,0.0
 ChIJCSOcY1mxlUcR1ydUxwXg8nM,Machine construction,26.0,4.8
-ChIJ02D2K1KxlUcRHpHWL5biBt8,Roofing contractor,,
-ChIJHck1TX6xlUcRHV2-MGD_6mg,Heating oil supplier,,
+ChIJ02D2K1KxlUcRHpHWL5biBt8,Roofing contractor,0.0,0.0
+ChIJHck1TX6xlUcRHV2-MGD_6mg,Heating oil supplier,0.0,0.0
 ChIJTWpIwmOxlUcRvy3lSTs1ahI,Heating oil supplier,3.0,3.7
-ChIJ1-kCQkOxlUcRAbvtxxdY1NM,Heating oil supplier,,
+ChIJ1-kCQkOxlUcRAbvtxxdY1NM,Heating oil supplier,0.0,0.0
 ChIJreo4XUKxlUcRyTcOWj8Oqyk,Sports massage therapist,5.0,5.0
 ChIJFTz0NfyzlUcRhfcguC73_60,Sports massage therapist,37.0,5.0
-ChIJ5XIFcVqxlUcRi9wL7z_ZLto,Cell phone store,,
-ChIJE_B7GgmxlUcR9EdmzAxCifU,Cell phone store,,
-ChIJxeCsM-qxlUcR7bIIw4ExsjI,Insurance company,,
+ChIJ5XIFcVqxlUcRi9wL7z_ZLto,Cell phone store,0.0,0.0
+ChIJE_B7GgmxlUcR9EdmzAxCifU,Cell phone store,0.0,0.0
+ChIJxeCsM-qxlUcR7bIIw4ExsjI,Insurance company,0.0,0.0
 ChIJmVMDZNWxlUcRjjfT8QWAixs,Insurance company,1.0,5.0
 ChIJ1UfFMW-xlUcRyojcKPYeySU,Insurance company,8.0,4.1
 ChIJBQs9CI2xlUcRnr94khP3Vi4,Insurance company,1.0,4.0
 ChIJG69RIWGxlUcR0RIOgqYutyg,Insurance company,62.0,4.5
 ChIJCzmS91OxlUcRv0NfvIjMrtg,Insurance company,4.0,4.5
-ChIJwQWHpEOxlUcRQp96SEynh24,Insurance company,,
+ChIJwQWHpEOxlUcRQp96SEynh24,Insurance company,0.0,0.0
 ChIJHwD5d2OxlUcRgyxeM8sv1Lo,Insurance company,22.0,4.5
 ChIJlS3FxJSxlUcROu3ZUXaybQo,Insurance company,1.0,4.0
-ChIJQTVRqGGxlUcR99dmzu2wjZM,Insurance company,,
+ChIJQTVRqGGxlUcR99dmzu2wjZM,Insurance company,0.0,0.0
 ChIJJWnXQKu2lUcRT3bzjaNRFDk,Insurance company,2.0,5.0
 ChIJUeSa0GmxlUcRu702847b-Cw,Insurance company,1.0,5.0
 ChIJ79ytU_izlUcRUi4aPPSWaTg,Insurance company,5.0,5.0
@@ -2581,15 +2581,15 @@ ChIJ1Q9kGsixlUcRL6JifmYXoh4,Dessert shop,16.0,4.7
 ChIJxzgjiu6zlUcR05gdPXym_rk,Corporate office,7.0,4.5
 ChIJdwxZcj6xlUcRjPmBo49bXQQ,Corporate office,1.0,5.0
 ChIJrRC5YIKxlUcRgVfk3TFIHI8,Corporate office,9.0,4.9
-ChIJn18TuMSxlUcR-ZjC9BPp4Rs,Corporate office,,
+ChIJn18TuMSxlUcR-ZjC9BPp4Rs,Corporate office,0.0,0.0
 ChIJ_xDi6gmylUcRWijncFKy-7g,Dog trainer,3.0,4.7
 ChIJ6ZO-B0KxlUcRSxshsNKfTTU,Dog trainer,3.0,5.0
 ChIJV07U73yxlUcRlivtP2TMHBQ,Pet groomer,2.0,3.5
 ChIJddUmlP-zlUcRK-hCZAP7KEs,Temp agency,1.0,5.0
-ChIJywhO3JaxlUcR7jOIuQ2CejI,Temp agency,1.0,
+ChIJywhO3JaxlUcR7jOIuQ2CejI,Temp agency,1.0,0.0
 ChIJJQLhzEy0lUcRK2oqo6ikeA4,Temp agency,9.0,4.0
 ChIJgTTBfwCxlUcRrrX7tazFIIA,Temp agency,1.0,1.0
-ChIJ6_CYuqG2lUcRRovg4PoI-I8,Temp agency,,
+ChIJ6_CYuqG2lUcRRovg4PoI-I8,Temp agency,0.0,0.0
 ChIJxR6-o56xlUcR2WsrPQ-RHLg,Scaffolding service,5.0,5.0
 ChIJIRKwXNazlUcRPsqlf9j-LeU,Scaffolding service,8.0,4.0
 ChIJaV6soqSxlUcRIlCefhF4c0Q,Meal delivery,2.0,5.0
@@ -2597,30 +2597,30 @@ ChIJr3rg9gOylUcRzAJk3UXSe5Y,Sporting goods store,17.0,4.3
 ChIJQ0uac7GtlUcRJCm_9bMZ2Ew,Sand plant,27.0,4.6
 ChIJq-s0O1ixlUcRjLVjIYokTU0,Alternative medicine practitioner,2.0,5.0
 ChIJh6I_TRSylUcRGcEDe3nMnYA,Alternative medicine practitioner,1.0,5.0
-ChIJ_cpcoOqxlUcRMkqMAs9Tf9I,Alternative medicine practitioner,,
+ChIJ_cpcoOqxlUcRMkqMAs9Tf9I,Alternative medicine practitioner,0.0,0.0
 ChIJD-NAeD2xlUcR-GXNhTdqvF4,Cafe,15.0,2.9
 ChIJc4ETkX6xlUcRBNAAn8uQWFY,Window supplier,1.0,5.0
 ChIJL8KlfL_KlUcRBwBKXxDA0fU,Window supplier,26.0,4.8
 ChIJ_cYHYpOxlUcRjv91CiE5BWI,Mobile phone repair shop,1.0,5.0
-ChIJu_xVwtexlUcRZBdmz3DRsx4,Mobile phone repair shop,,
+ChIJu_xVwtexlUcRZBdmz3DRsx4,Mobile phone repair shop,0.0,0.0
 ChIJYyhNruazlUcRwVOFruSS_EA,Medical office,4.0,2.3
 ChIJ799aT6OxlUcRnvznIhaPo8E,Medical office,21.0,4.8
-ChIJ02rJXVaxlUcRG_qG1vZGRJc,Gas station,,
+ChIJ02rJXVaxlUcRG_qG1vZGRJc,Gas station,0.0,0.0
 ChIJUdzJKfSzlUcRiX1ODThzyVA,Architect,1.0,5.0
 ChIJ2ekV9CCylUcRsC0FR3-APn8,Architect,2.0,5.0
 ChIJbenlf662lUcRDS6Ke_sUeiM,Architect,3.0,5.0
 ChIJfXUw7_ezlUcRrx6_NojyGOE,Architect,3.0,3.7
 ChIJy0CgIsCxlUcRloI2u7sVmAE,Architect,2.0,5.0
 ChIJ4TDPTGCxlUcRWDsJLdrAZ2A,Architect,2.0,5.0
-ChIJIfJWZE21lUcRuOSDfEvOSYs,Architect,,
-ChIJ9SLU3GCxlUcR6VphZ2j50aw,Architect,,
+ChIJIfJWZE21lUcRuOSDfEvOSYs,Architect,0.0,0.0
+ChIJ9SLU3GCxlUcR6VphZ2j50aw,Architect,0.0,0.0
 ChIJzb4n4P2zlUcRzVmCgLgrcvk,Architect,1.0,5.0
-ChIJA8ngdf-zlUcRGbum4bwneyQ,Architect,,
-ChIJgYWRrsGxlUcRBbpxcjxuUFg,Architect,,
+ChIJA8ngdf-zlUcRGbum4bwneyQ,Architect,0.0,0.0
+ChIJgYWRrsGxlUcRBbpxcjxuUFg,Architect,0.0,0.0
 ChIJswro33yxlUcRTicEvMWMoOs,Massage therapist,9.0,4.6
 ChIJ4-FhTSqylUcREjteRYBgDPM,Massage therapist,26.0,5.0
 ChIJ_a3zqi6ylUcRVypqLhNJOzY,Guest house,2.0,4.0
-ChIJOSjcDfSzlUcRy71oxIl6Qj8,Physical therapist,,
+ChIJOSjcDfSzlUcRy71oxIl6Qj8,Physical therapist,0.0,0.0
 ChIJ7_6eMUmzlUcRKIzt1g8RQ4E,Physical therapist,3.0,5.0
 ChIJXaDulpyzlUcR7CHIbjyQ9Jw,Physical therapist,8.0,4.8
 ChIJy7v95_azlUcRkK65y7siaOo,Physical therapist,1.0,5.0
@@ -2630,11 +2630,11 @@ ChIJRdhk3f2zlUcRfvfSbIivGI0,Physical therapist,3.0,5.0
 ChIJq1LjwVWxlUcRBYaquyMwS0A,Government office,7.0,2.9
 ChIJD7GeImGxlUcRi-dERfCgp-Y,Government office,25.0,3.0
 ChIJtU_qEwKxlUcRl6lsfOile4g,Government office,3.0,5.0
-ChIJk1orGcGxlUcRIVvasLeCEqY,Store,,
+ChIJk1orGcGxlUcRIVvasLeCEqY,Store,0.0,0.0
 ChIJ7dpbaBeylUcRHgfvbEAwOtY,Store,4.0,5.0
 ChIJO_vZYcKxlUcREuZ60TgOqgc,Store,3.0,2.3
 ChIJRWyvTw-ylUcRPPI96rvwJ8c,Store,27.0,4.5
 ChIJafOtJRyylUcR_WRDo2oOXfM,Store,14.0,4.7
 ChIJla_gfZKxlUcRn3PvvViTg4E,Locksmith,44.0,4.8
-ChIJXYoasvKzlUcRIbcwn1lgKMo,Mountain peak,,
+ChIJXYoasvKzlUcRIbcwn1lgKMo,Mountain peak,0.0,0.0
 ChIJTYwMd7-zlUcRbI6xhtAfogc,Mountain peak,4.0,4.0

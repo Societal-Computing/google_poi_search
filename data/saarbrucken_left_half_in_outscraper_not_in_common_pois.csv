@@ -1,19 +1,19 @@
 place_id,name,type,subtypes,category,latitude,longitude,rating,reviews
 ChIJQ6K8kNC7lUcRbYxnWqu5i9Q,Mack Kurt GmbH,Fish farm,"Fish farm, Metal construction company, Metal working shop, Steel construction company",Fischfarm,49.2270828,6.972289699999999,5.0,1.0
-ChIJZShF4Z6xlUcRc3GTkNCrkLo,Stuckateurbetrieb Falletta,Construction company,"Construction company, Dry wall contractor",Bauunternehmen,49.2606887,6.9775429,,
+ChIJZShF4Z6xlUcRc3GTkNCrkLo,Stuckateurbetrieb Falletta,Construction company,"Construction company, Dry wall contractor",Bauunternehmen,49.2606887,6.9775429,0.0,0.0
 ChIJuVflXEWxlUcROZrw_YlFHOY,Norbert Langenfeld,Electrician,Electrician,Elektriker,49.2476238,6.9727823,4.7,6.0
 ChIJM4LI-OF-C0ERioBTPSJgN48,GVS GmbH,Property management company,"Property management company, Apartment rental agency, Construction company, Real estate agent, Holiday apartment",Hausverwaltungsunternehmen,49.2387437,6.975146199999999,4.9,48.0
-ChIJG_8MAQexlUcRxDc6ut99NtM,Yla-Deco,Dry wall contractor,Dry wall contractor,Trockenbauunternehmen,49.2443949,6.9568615,,
+ChIJG_8MAQexlUcRxDc6ut99NtM,Yla-Deco,Dry wall contractor,Dry wall contractor,Trockenbauunternehmen,49.2443949,6.9568615,0.0,0.0
 ChIJCZFA41ixlUcR5-wxLU9LAK8,Richard Schmeer GmbH,Bathroom remodeler,"Bathroom remodeler, Bathroom supply store, Wholesaler",Sanitärtechnik,49.2385757,6.9672747,4.2,147.0
 ChIJHfa0YVixlUcRDHMO2ASQXIA,Ledig & Szymanski GmbH,Window supplier,"Window supplier, Blinds shop, Door supplier, Electric motor repair shop, Garage door supplier, Security system supplier, Window installation service",Fensteranbieter,49.2377389,6.967448999999999,3.8,34.0
-ChIJH9zYIaWzlUcRARgTXifLLtA,Galand UGH,Civil engineering company,Civil engineering company,Bauunternehmen,49.2302735,6.8924097,,
-ChIJactnib-xlUcRDlk2zm2JzV8,Inge Rohr Heilpraktikerin,Alternative medicine practitioner,Alternative medicine practitioner,Alternativmediziner,49.2618697,6.914769,,
+ChIJH9zYIaWzlUcRARgTXifLLtA,Galand UGH,Civil engineering company,Civil engineering company,Bauunternehmen,49.2302735,6.8924097,0.0,0.0
+ChIJactnib-xlUcRDlk2zm2JzV8,Inge Rohr Heilpraktikerin,Alternative medicine practitioner,Alternative medicine practitioner,Alternativmediziner,49.2618697,6.914769,0.0,0.0
 ChIJvZ-vvlmxlUcRDJ77JLnx5LM,Stadtteilbüro Malstatt,Association / Organization,Association / Organization,Vereinigung / Organisation,49.2396916,6.9763506,3.8,13.0
 ChIJUTpnklGxlUcRYYEuA9IlXwY,MP Härtetechnik + Vorrichtungsbau GmbH Co. KG,Metal finisher,Metal finisher,Metalloberflächenveredler,49.244389,6.9788868,4.3,8.0
 ChIJvwgbrGGxlUcRRNg06Sem8kk,Gesellschaft für Innovation und Unternehmensförderung mbH,Real estate rental agency,"Real estate rental agency, Commercial real estate agency, Office space rental agency, Real estate agency, Real estate developer",Immobilienvermittlung,49.239674,6.955735199999999,3.9,9.0
 ChIJx1LHteqxlUcRCob3anTUWDQ,Appo Gebäudeservice,Janitorial service,"Janitorial service, Building restoration service, Cleaners",Hausmeisterservice,49.2472137,6.953180499999999,5.0,19.0
 ChIJ26yAvH2xlUcRiO7i0bXlS5w,Glas Adolph GmbH,Glazier,"Glazier, Glass repair service, Glass shop, Handicraft",Glaser,49.2394475,6.9420701,4.4,40.0
-ChIJq1eyRwyylUcRSTLBHcobjdM,66127,Building,Building,,49.2247464,6.8888614,,
+ChIJq1eyRwyylUcRSTLBHcobjdM,66127,Building,Building,,49.2247464,6.8888614,0.0,0.0
 ChIJCVSzxtWzlUcR9JX7Y_Z7iJA,Schnabels Restaurant,Restaurant,"Restaurant, Wine store",restaurants,49.2369044,6.9384144,4.8,334.0
 ChIJr6UFXIyxlUcROzTWDhFt5q0,Da Carlo,Italian restaurant,Italian restaurant,restaurants,49.2371962,6.9391189,4.4,295.0
 ChIJZ3OSCGqxlUcRRPGN_w2zy9U,Sternschnuppe Saarbrücken,Gastropub,"Gastropub, Bar, Pub",restaurants,49.2528619,6.9622572,4.6,25.0
@@ -22,84 +22,84 @@ ChIJS3fFJMSxlUcRloRjChsAx4s,سوق العرب ساربروكن,Restaurant,Restau
 ChIJoQtCo1mxlUcR1tlbA5X5kxQ,Milano Saarbrücken Pizza & Kebap,Pizza delivery,"Pizza delivery, Kebab shop, Pizza restaurant",Pizza-Lieferdienst,49.2398383,6.970801,3.5,126.0
 ChIJEZelQGWxlUcR4C-yw_Rlr18,Pilsstube Pizzeria Siena,Pizza restaurant,"Pizza restaurant, Italian restaurant",restaurants,49.2466723,6.9496178,4.4,132.0
 ChIJ40kj03-xlUcRvM9u0N1rYQw,مشاوي سلورة ساربروكن,Restaurant,Restaurant,restaurants,49.24026,6.969209999999999,4.0,71.0
-ChIJbwaLQQCzlUcRp8tbEP8vccE,Saarbrücken,Italian restaurant,Italian restaurant,restaurants,49.2321136,6.962276399999999,,
+ChIJbwaLQQCzlUcRp8tbEP8vccE,Saarbrücken,Italian restaurant,Italian restaurant,restaurants,49.2321136,6.962276399999999,0.0,0.0
 ChIJkwHDg_ezlUcRSOZO8aBWYW8,"Bistro NELI, Inh. Neli Kirch Ivanova",Bistro,Bistro,restaurants,49.225569,6.9776571,4.3,45.0
 ChIJbc5w5SuylUcRngw-WtKeKQA,Schwanenkönig,Restaurant,Restaurant,restaurants,49.234804,6.927417999999999,4.6,489.0
-ChIJT0KkRIyxlUcR1JvT966-unE,Da Carlo,Restaurant,Restaurant,restaurants,49.2465719,6.9147403,,
+ChIJT0KkRIyxlUcR1JvT966-unE,Da Carlo,Restaurant,Restaurant,restaurants,49.2465719,6.9147403,0.0,0.0
 ChIJa4k5-oWzlUcRLerEbk6el4o,Restaurant ''Italia'',Italian restaurant,"Italian restaurant, Advertising agency, Pizza restaurant",restaurants,49.23189499999999,6.8935885,3.4,249.0
 ChIJUaVKmtzAlUcR1bNAeD9ZHTw,Restaurant Hellas Klarenthal,Greek restaurant,Greek restaurant,restaurants,49.2327,6.892089899999999,4.0,162.0
 ChIJhT_lpBqylUcRJTt7Rronao0,Ratsschenke,Restaurant,Restaurant,restaurants,49.2317219,6.895439,3.8,5.0
 ChIJc3JjOQyzlUcRxEgeJhAyCec,Corfu Greek Cuisine,Greek restaurant,Greek restaurant,restaurants,49.2327771,6.8920099,4.3,70.0
 ChIJiS2fiT2zlUcRi-r4-mO4gsQ,Buddha Garden Gersweiler,Asian restaurant,Asian restaurant,restaurants,49.2318359,6.9230946,4.6,68.0
 ChIJYzLWqiCylUcRSdcc830gh64,"""Zum Turnerheim Ottenhausen""",Restaurant,"Restaurant, Bar",restaurants,49.2399115,6.9148951,3.6,93.0
-ChIJhR3DFwi0lUcRkuY6YlbFDTs,Beauty Lounge Biesel Michaela,Beauty salon,Beauty salon,Schönheitssalon,49.2244721,6.9811356,,
+ChIJhR3DFwi0lUcRkuY6YlbFDTs,Beauty Lounge Biesel Michaela,Beauty salon,Beauty salon,Schönheitssalon,49.2244721,6.9811356,0.0,0.0
 ChIJ53hv11mxlUcRg0vtmq1I1mM,Hair Oasis,Hair salon,Hair salon,Friseursalon,49.2396226,6.971129299999999,4.4,65.0
 ChIJbxRShx-vlUcRLKF3UufqvKU,WimpaKlimpa,Beauty salon,Beauty salon,Schönheitssalon,49.25148,6.9358795,5.0,9.0
 ChIJ020DfB6xlUcRdE5oBN4HzhI,Kosmetik Rauber Saskia,Beauty salon,Beauty salon,Schönheitssalon,49.2570753,6.9164183,5.0,2.0
-ChIJEwGOYMqxlUcRI2qkHUiLXYA,Nail Manufaktur Saar *by Ariane,Nail salon,Nail salon,Nagelstudio,49.2441974,6.9573848,,
+ChIJEwGOYMqxlUcRI2qkHUiLXYA,Nail Manufaktur Saar *by Ariane,Nail salon,Nail salon,Nagelstudio,49.2441974,6.9573848,0.0,0.0
 ChIJe0dqZmOxlUcR_i_BPXb-1Kc,Balsam & Beauty Kosmetik,Beauty salon,Beauty salon,Schönheitssalon,49.2423304,6.9491143,5.0,1.0
-ChIJjUdKUPyxlUcRJhfwA3UCtHA,Beuty Saar,Beauty salon,Beauty salon,Schönheitssalon,49.2441283,6.9261917,,
+ChIJjUdKUPyxlUcRJhfwA3UCtHA,Beuty Saar,Beauty salon,Beauty salon,Schönheitssalon,49.2441283,6.9261917,0.0,0.0
 ChIJjUtgY9u1lUcRtrS5ckFGENI,Jil Sander Ästhetik & Tattoo,Beauty salon,"Beauty salon, Tattoo shop, Cosmetics store, Permanent make-up clinic",Tattoostudio,49.2314531,6.9797749,5.0,42.0
 ChIJv4wleZWxlUcRGTnkmh_LPpY,NagelKultur Fußpflege & Maniküre,Foot care,Foot care,Fußpflege,49.2597378,6.9168971,4.8,20.0
 ChIJAWXo9Y6tlUcRoLSoRqEzkYc,A|B Cosmetic Institut Aesthetic Beauty,Cosmetics store,Cosmetics store,Kosmetikgeschäft,49.2295266,6.9027492,5.0,13.0
-ChIJgawpu7-xlUcRtnQujuhDBzE,Brow & Lash Studio,Beauty salon,Beauty salon,Schönheitssalon,49.26198979999999,6.9166892,,
+ChIJgawpu7-xlUcRtnQujuhDBzE,Brow & Lash Studio,Beauty salon,Beauty salon,Schönheitssalon,49.26198979999999,6.9166892,0.0,0.0
 ChIJn8Cqj36xlUcRCs74w1BGGS0,Bosch Car Service Metzinger GmbH,Auto repair shop,"Auto repair shop, Auto air conditioning service, Auto glass shop, Auto parts store, Brake shop, Car inspection station, Electric motor repair shop, Mechanic, Oil change service, Tire shop",Autowerkstatt,49.2413931,6.9395655,4.6,114.0
 ChIJu-f10XWzlUcR--vDNYmJWa8,Kfz-Meisterwerkstatt SaarProfiL (Antonino Livia & Talitha Livia GbR),Auto repair shop,Auto repair shop,Autowerkstatt,49.232409,6.971131799999999,5.0,78.0
 ChIJ1x-4HJ6xlUcRrHuyMSLIfzU,Sammler Mechanics,Auto repair shop,Auto repair shop,Autowerkstatt,49.2544306,6.937399399999999,5.0,1.0
 ChIJ02D2K1KxlUcRRb9BFBTjAfM,Bei Mister Auto,Store,Store,Geschäft,49.2438385,6.97936,2.4,7.0
-ChIJ6VYskmWxlUcRSCXheERJCf8,Peter's Autoshop,Auto repair shop,Auto repair shop,Autowerkstatt,49.2469598,6.9527144,,
-ChIJlSGzuP2zlUcRoEnLhApg58I,Auto-Sauer Motorsport,Car repair and maintenance service,Car repair and maintenance service,Autowerkstatt,49.2346073,6.9748823,,
+ChIJ6VYskmWxlUcRSCXheERJCf8,Peter's Autoshop,Auto repair shop,Auto repair shop,Autowerkstatt,49.2469598,6.9527144,0.0,0.0
+ChIJlSGzuP2zlUcRoEnLhApg58I,Auto-Sauer Motorsport,Car repair and maintenance service,Car repair and maintenance service,Autowerkstatt,49.2346073,6.9748823,0.0,0.0
 ChIJP_2NmwWzlUcR-61S21udDu8,DS Auto Solutions,Car dealer,Car dealer,Autohändler,49.2119195,6.964580199999999,4.7,43.0
 ChIJk9Pi0VmxlUcRnVb2mPXCbcw,MJ Barber Shop,Barber shop,Barber shop,Herrenfriseur,49.2394003,6.9706741,4.5,36.0
 ChIJr7SQJBazlUcRROdWjny7lk0,Sahand barbarshop,Hairdresser,Hairdresser,Hairdresser,49.2369454,6.9296712,5.0,2.0
 ChIJP_iaYn6xlUcRG0ML7gsoJAY,Steffen Weber Chirurg,Surgeon,Surgeon,Chirurg,49.2408838,6.939673699999999,4.5,88.0
 ChIJnyGmE5CzlUcR7g3wEz2xHGU,Casino Pub - Saarbrücken,Bar,Bar,bars,49.2073215,6.962170899999999,3.7,26.0
 ChIJS8bQxVCzlUcR2GzWbz8ZOHo,Casa Paula Saarbrücken,Night club,Night club,Nachtclub,49.2132905,6.9702093,4.2,27.0
-ChIJb7vC-yqylUcR39d6ilds0v8,Bios Shisha Cafe Bar,Bar,Bar,bars,49.2367311,6.9306392,,
+ChIJb7vC-yqylUcR39d6ilds0v8,Bios Shisha Cafe Bar,Bar,Bar,bars,49.2367311,6.9306392,0.0,0.0
 ChIJO0Bs-FOxlUcRs9nV6SNX_oE,Lady Monika Bar,Bar,Bar,bars,49.2411334,6.9788288,3.0,9.0
-ChIJJ8AdRluxlUcRKxsUG24OBh0,Bierstubb,Bar,Bar,bars,49.2461902,6.968114799999999,,
+ChIJJ8AdRluxlUcRKxsUG24OBh0,Bierstubb,Bar,Bar,bars,49.2461902,6.968114799999999,0.0,0.0
 ChIJtbSOZa21lUcRhHJ9zZa8n-4,Wolfgang Kern Automobile,Motor vehicle dealer,Motor vehicle dealer,Fahrzeughändler,49.2432473,6.941398599999999,4.2,80.0
 ChIJKYE3mgixlUcRx0JyVsSdccY,iClean Reinigungsservice,Commercial cleaning service,Commercial cleaning service,Commercial cleaning service,49.2418874,6.9535348,5.0,1.0
 ChIJV89BswiylUcR8bIOjVJH8pE,SHGS Stephan Martini,Pest control service,"Pest control service, Garden, House cleaning service, Janitorial service, Moving and storage service",Kammerjäger,49.2441052,6.9304337,3.9,55.0
 ChIJS3DGH3-xlUcR2ogCRG6cwUw,Hanns-Joachim-Haus Jugendhilfe,Social services organization,Social services organization,Sozialeinrichtung,49.242189,6.93771,4.0,2.0
-ChIJf7ZAAkmxlUcR4NjCXtjUIhw,66113 Saarbrücken-Mitte,Postal code,Postal code,,49.2511667,6.9806041,,
-ChIJzTUf476xlUcRQNnCXtjUIhw,66126 Saarbrücken,Postal code,Postal code,,49.2649117,6.9215152,,
-ChIJ3aE_yPGtlUcRUNnCXtjUIhw,66127 Saarbrücken,Postal code,Postal code,,49.2246625,6.871119999999999,,
-ChIJkd3TnT2ylUcRMNnCXtjUIhw,66128 Saarbrücken,Postal code,Postal code,,49.2271055,6.9153595,,
-ChIJjT2GBmGxlUcRFCQvmFKrzBU,Rechtsanwalt A. Gessinger,Lawyer,Lawyer,Rechtsanwalt,49.2404269,6.9559359,,
+ChIJf7ZAAkmxlUcR4NjCXtjUIhw,66113 Saarbrücken-Mitte,Postal code,Postal code,,49.2511667,6.9806041,0.0,0.0
+ChIJzTUf476xlUcRQNnCXtjUIhw,66126 Saarbrücken,Postal code,Postal code,,49.2649117,6.9215152,0.0,0.0
+ChIJ3aE_yPGtlUcRUNnCXtjUIhw,66127 Saarbrücken,Postal code,Postal code,,49.2246625,6.871119999999999,0.0,0.0
+ChIJkd3TnT2ylUcRMNnCXtjUIhw,66128 Saarbrücken,Postal code,Postal code,,49.2271055,6.9153595,0.0,0.0
+ChIJjT2GBmGxlUcRFCQvmFKrzBU,Rechtsanwalt A. Gessinger,Lawyer,Lawyer,Rechtsanwalt,49.2404269,6.9559359,0.0,0.0
 ChIJMT5SxuN-C0ERQ6w3wf9kLBA,Schröder Jürgen Rechtsanwalt,Lawyer,Lawyer,Rechtsanwalt,49.2412384,6.9462961,4.9,8.0
 ChIJ5c3wCYyzlUcRmVG1mJnzVdc,zaar kiosk,Kiosk,Kiosk,Kiosque,49.2321423,6.9752855,1.9,11.0
-ChIJ66Av872xlUcR80GLu7Q9HBo,David Breuer Gartendesign Saarland,Landscaper,Landscaper,Gartenbauer,49.246978,6.9495859,,
+ChIJ66Av872xlUcR80GLu7Q9HBo,David Breuer Gartendesign Saarland,Landscaper,Landscaper,Gartenbauer,49.246978,6.9495859,0.0,0.0
 ChIJA0eadsmxlUcR05CSpoupOs0,gärtnerrei von orlov,Landscaper,Landscaper,Gartenbauer,49.2492588,6.934771599999999,5.0,1.0
 ChIJsd_puDexlUcRwSVNp3Nd_NM,Thongsai Thai Massage,Thai massage therapist,"Thai massage therapist, Massage spa",Thai-Massage,49.2617894,6.9164882,5.0,13.0
 ChIJJd4AHquxlUcRZDZVjJp6vXk,Philippinische Massage,Massage spa,Massage spa,Massage spa,49.24440629999999,6.9497537,5.0,19.0
-ChIJyeD-4gSzlUcR7QNM1S42Oaw,Kühnreich Pascal Fliesen,Tile contractor,Tile contractor,Fliesenleger,49.2287475,6.892911,,
-ChIJMXZtIiuylUcRka0kcFF4a4w,Woodrow Strobl Tierarzt,Veterinarian,Veterinarian,Tierarzt,49.24316,6.9718,,
+ChIJyeD-4gSzlUcR7QNM1S42Oaw,Kühnreich Pascal Fliesen,Tile contractor,Tile contractor,Fliesenleger,49.2287475,6.892911,0.0,0.0
+ChIJMXZtIiuylUcRka0kcFF4a4w,Woodrow Strobl Tierarzt,Veterinarian,Veterinarian,Tierarzt,49.24316,6.9718,0.0,0.0
 ChIJvyC33GWxlUcRYik7-UbkF9c,Conrad & Kohr Steuerberatungsgesellschaft mbH,Tax consultant,Tax consultant,Steuerberater,49.2461723,6.9536963,5.0,1.0
-ChIJe3t7JwGxlUcRVlf8YLGjQcY,Honorarfinanz AG Standort Saarbrücken,Financial consultant,Financial consultant,Finanzberater,49.2461812,6.9373533,,
-ChIJl-25p_6zlUcRNXjLwunPbJc,ERGO Versicherung Peter Kratz,Insurance agency,"Insurance agency, Financial consultant, Insurance company",Versicherungsagentur,49.2317766,6.9758365,,
-ChIJXaaWvYqxlUcRN8qOB6rd0Yo,Finanzbildung online,,,,49.2409506,6.9108788,,
+ChIJe3t7JwGxlUcRVlf8YLGjQcY,Honorarfinanz AG Standort Saarbrücken,Financial consultant,Financial consultant,Finanzberater,49.2461812,6.9373533,0.0,0.0
+ChIJl-25p_6zlUcRNXjLwunPbJc,ERGO Versicherung Peter Kratz,Insurance agency,"Insurance agency, Financial consultant, Insurance company",Versicherungsagentur,49.2317766,6.9758365,0.0,0.0
+ChIJXaaWvYqxlUcRN8qOB6rd0Yo,Finanzbildung online,,,,49.2409506,6.9108788,0.0,0.0
 ChIJQRslx0ixlUcRdKGZrd6F50s,Jene & Werner GmbH,Tire shop,Tire shop,Reifengeschäft,49.2520956,6.976239,4.3,29.0
 ChIJwSRJNfyzlUcRJdEs7JsiYZI,El Paso,Mexican restaurant,"Mexican restaurant, Spanish restaurant",restaurants,49.2335727,6.974905199999999,4.3,253.0
 ChIJHd14epWxlUcRV5DhmmkCYpY,Barbara Apotheke,Pharmacy,Pharmacy,Apotheke,49.2599612,6.9165113,4.9,23.0
-ChIJG0SVglCxlUcRW6JsECj0Qeg,Industrie Apotheke,Pharmacy,Pharmacy,Apotheke,49.2436124,6.9723828,,
-ChIJO0tSdFqxlUcRR-tlWe6oBVY,Greifen Apotheke,Pharmacy,Pharmacy,Apotheke,49.2430745,6.9719675,,
-ChIJUV6rzESxlUcReBfdCfhfI3o,Einhorn-Apotheke,Pharmacy,Pharmacy,Apotheke,49.2468234,6.9693577,,
+ChIJG0SVglCxlUcRW6JsECj0Qeg,Industrie Apotheke,Pharmacy,Pharmacy,Apotheke,49.2436124,6.9723828,0.0,0.0
+ChIJO0tSdFqxlUcRR-tlWe6oBVY,Greifen Apotheke,Pharmacy,Pharmacy,Apotheke,49.2430745,6.9719675,0.0,0.0
+ChIJUV6rzESxlUcReBfdCfhfI3o,Einhorn-Apotheke,Pharmacy,Pharmacy,Apotheke,49.2468234,6.9693577,0.0,0.0
 ChIJ4SxGHcCxlUcRt8tcrVeU3pI,Jutta Maria Eich Farb- und Typberatung,Services,Services,Dienstleistungen,49.2603807,6.913327199999999,4.9,12.0
 ChIJqTyjFkKxlUcRBRobILHzCE0,Helmuth Wolf Praxis für Immunologie,Doctor,Doctor,Arzt,49.251304,6.963145099999999,4.0,1.0
 ChIJy59Qb4qxlUcRYsgcSwTUh8Y,Dr.med. Eberhard Nest Facharzt für Innere Medizin,Internist,Internist,Internist,49.2408617,6.9133116,2.0,1.0
 ChIJ0fg60e9-C0ERcZQa8K6R10I,Gerd Michael Bach Architekt,Architect,Architect,Architekt,49.2487345,6.9643337,4.0,1.0
-ChIJFUtEtgS0lUcRoHjCUbrBPB4,Pfeilmedia,Graphic designer,"Graphic designer, Architectural designer",Grafikdesigner,49.251362,6.9684006,,
+ChIJFUtEtgS0lUcRoHjCUbrBPB4,Pfeilmedia,Graphic designer,"Graphic designer, Architectural designer",Grafikdesigner,49.251362,6.9684006,0.0,0.0
 ChIJ2SjCno6zlUcR6g619sPD0QU,Michael Achenbach GmbH,,,,49.2108938,6.9688586,5.0,2.0
-ChIJWzJpVVCxlUcR5KmlTf2nMMQ,Wolfgang Geuer,Psychologist,Psychologist,Psychologe/Psychologin,49.2438796,6.9755484,,
+ChIJWzJpVVCxlUcR5KmlTf2nMMQ,Wolfgang Geuer,Psychologist,Psychologist,Psychologe/Psychologin,49.2438796,6.9755484,0.0,0.0
 ChIJOdx41UKxlUcRai6Ymm9U-TU,SHG Tagesklinik,Hospital,Hospital,Krankenhaus,49.247232,6.963979999999999,2.0,2.0
-ChIJr9q2qSSxlUcRimoV51DyENE,Shari's Hair and Beauty Lounge,Hair salon,Hair salon,Friseursalon,49.246603,6.9525845,,
-ChIJK32MP2OxlUcRfGgxAPT8_TU,Friseursalon Damen & Herren,Hair salon,Hair salon,Friseursalon,49.2416536,6.9484395,,
-ChIJL9rNM8CxlUcRScIWxXHF4I0,Haarschneiderey,Hair salon,Hair salon,Friseursalon,49.2616627,6.9104613,,
-ChIJvZ-vvlmxlUcRzNhuv-pPF6k,LAG Soziokultur Saar,Cultural association,Cultural association,Cultural association,49.24009,6.9697,,
+ChIJr9q2qSSxlUcRimoV51DyENE,Shari's Hair and Beauty Lounge,Hair salon,Hair salon,Friseursalon,49.246603,6.9525845,0.0,0.0
+ChIJK32MP2OxlUcRfGgxAPT8_TU,Friseursalon Damen & Herren,Hair salon,Hair salon,Friseursalon,49.2416536,6.9484395,0.0,0.0
+ChIJL9rNM8CxlUcRScIWxXHF4I0,Haarschneiderey,Hair salon,Hair salon,Friseursalon,49.2616627,6.9104613,0.0,0.0
+ChIJvZ-vvlmxlUcRzNhuv-pPF6k,LAG Soziokultur Saar,Cultural association,Cultural association,Cultural association,49.24009,6.9697,0.0,0.0
 ChIJlesbFl2xlUcRtv4-W7xV5TY,Gemeindedienst für Mission u. Ökumene,Religious organization,Religious organization,Religiöse Organisation,49.2458858,6.9625762,3.5,2.0
-ChIJJz7U3GCxlUcRJBwQAkeNNjM,Malclub-Saar e.V.,Association / Organization,Association / Organization,Vereinigung / Organisation,49.2413131,6.956815799999999,,
-ChIJjfC4HQuzlUcRlfHNZH6rUic,Die Quassler,Carnival club,Carnival club,Karnevalsverein,49.2259871,6.9007141,,
+ChIJJz7U3GCxlUcRJBwQAkeNNjM,Malclub-Saar e.V.,Association / Organization,Association / Organization,Vereinigung / Organisation,49.2413131,6.956815799999999,0.0,0.0
+ChIJjfC4HQuzlUcRlfHNZH6rUic,Die Quassler,Carnival club,Carnival club,Karnevalsverein,49.2259871,6.9007141,0.0,0.0
 ChIJieEFXg-ylUcRxdr8GlUArWc,Club für Großkaliberschießen Klarenthal-Petite Roselle,Gun club,Gun club,Schützenverein,49.2308861,6.889736399999999,5.0,1.0
 ChIJ4cesgYaxlUcROYmIDw8u6WQ,HUK-COBURG Versicherung Heiko Geber in Saarbrücken - Burbach,Insurance agency,"Insurance agency, Auto insurance agency, Dental insurance agency, Health insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2441346,6.925968699999999,4.1,18.0
 ChIJu-VFJcuxlUcR5nTzncfW8bE,DEVK Versicherung: Marvin Mehl,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2419173,6.955741,4.6,9.0
@@ -109,15 +109,15 @@ ChIJu6FRIWGxlUcR6cH7U1O4NW8,DEVK Versicherung: Francesca Imeneo,Insurance agency
 ChIJyXKmScOzlUcRzopEdvDnl6g,Cashzone,ATM,ATM,Geldautomat,49.23183299999999,6.979391499999999,1.0,1.0
 ChIJsZKrxmCxlUcRdCRjz6XPCUA,Shell,ATM,"ATM, Gas station, Cafe, Car wash, Convenience store, Sandwich shop",Tankstelle,49.2415745,6.957846,3.1,38.0
 ChIJv9e7P4CzlUcRe3WXzwhsUR4,Weiland & Kirch Immobilien,Real estate agent,Real estate agent,Immobilienmakler,49.2309674,6.9789749,5.0,27.0
-ChIJM6dz9U6xlUcR1cCjuQ66Mvk,Gewerbepark Am Torhaus,Real estate agency,Real estate agency,Immobilienagentur,49.248844,6.978965,,
+ChIJM6dz9U6xlUcR1cCjuQ66Mvk,Gewerbepark Am Torhaus,Real estate agency,Real estate agency,Immobilienagentur,49.248844,6.978965,0.0,0.0
 ChIJVwZwGV6xlUcRmDoDE8tsdtI,Ferienwohnungen Wagner,Holiday apartment,"Holiday apartment, Vacation home rental agency",Ferienwohnung,49.2505536,6.9249453,5.0,13.0
 ChIJde8L6hOylUcRl0KfwFEj_5I,Immovadis GmbH,Real estate agency,Real estate agency,Immobilienagentur,49.2243812,6.8974404,5.0,2.0
-ChIJ-86GPpyxlUcRn-r6M3AOU5Y,Autoteile,Auto parts market,Auto parts market,Markt für Autoteile,49.2530708,6.932868699999999,,
+ChIJ-86GPpyxlUcRn-r6M3AOU5Y,Autoteile,Auto parts market,Auto parts market,Markt für Autoteile,49.2530708,6.932868699999999,0.0,0.0
 ChIJp5xE7XuxlUcRQflcqMMQYKg,Robert Schmidt,Auto parts store,Auto parts store,Kfz-Ersatzteilgeschäft,49.24392899999999,6.9428787,4.2,13.0
 ChIJP_iaYn6xlUcR1btpN1ak9JY,Herr Dr. med. (I) Domenico Battista,Doctor,Doctor,Arzt,49.2408615,6.9398143,5.0,1.0
 ChIJTep3VHmxlUcRf77joFL6tmE,Ordungshof Kaffe,Bakery,Bakery,Bäckerei,49.2495668,6.9504243,4.0,1.0
 ChIJgRpCDrSxlUcRsi4bCJX4yTc,Handwerksbaeckerei Schaefer,Bakery,Bakery,Bäckerei,49.2508583,6.9634088,3.9,20.0
-ChIJe9yZpP6zlUcRMUkgdMDTlPk,f.scheuer | opensourcemedia,Website designer,Website designer,Webdesigner,49.231969,6.976519,,
+ChIJe9yZpP6zlUcRMUkgdMDTlPk,f.scheuer | opensourcemedia,Website designer,Website designer,Webdesigner,49.231969,6.976519,0.0,0.0
 ChIJbRX6Q_yzlUcRrFn3HMunXKE,Tchibo im Supermarkt,Coffee store,"Coffee store, Clothing store, Women's clothing store",Coffee store,49.23399999999999,6.976452699999999,5.0,1.0
 ChIJ0XPK4VqxlUcRfkXYd6fAgm4,Stolmar Deutschland GmbH,Window supplier,Window supplier,Fensteranbieter,49.2453177,6.9699333,3.0,4.0
 ChIJB_V8c1yxlUcR_gvTUsmPw5s,Matra Markisen GmbH,Awning supplier,Awning supplier,Markisenanbieter,49.2432479,6.9655399,4.8,17.0
@@ -130,87 +130,87 @@ ChIJHSv-s7-xlUcRM0LWUy-DNk8,Morschett & Keßler GmbH,Heating contractor,"Heating
 ChIJVS5A5HuxlUcR5hNLoLMhwV0,Louis Arend GmbH Dach & Wand,Plumber,Plumber,Sanitärinstallateur,49.2441732,6.9419106,4.2,6.0
 ChIJ6cUQ0wW3lUcRA_FzLMvvRN4,Gerüstbau Hoffmann GmbH,Scaffolding service,Scaffolding service,Gerüstbauservice,49.251217,6.923583199999999,4.4,14.0
 ChIJH50ppgWylUcRavSDXapPZ18,Karl-Heinz Fritz Stern,Painter,Painter,Maler,49.2329753,6.891612299999999,5.0,1.0
-ChIJHxLaqguylUcRlAMKDH5zXkg,Brem Guido Heizung Sanitär,Plumber,Plumber,Sanitärinstallateur,49.224049,6.8835413,,
-ChIJZV8OpGmxlUcRwOwc7mUFgQw,Bunte Kinderwelt,Day care center,Day care center,Kindertagesstätte,49.24749629999999,6.9686498,,
-ChIJL7yF0PGtlUcR4KrdENXUIgU,Klarenthal,,,,49.2246625,6.871119999999999,,
-ChIJaTJVKyqylUcRQVmF92QUlQg,West Side Motors,Tour agency,Tour agency,Tourenveranstalter,49.2367964,6.9276024,,
-ChIJ00q484yxlUcRXzrbA_bCrvE,Seg-and-City Saar Ing.-Büro Kleist GmbH,Tourist information center,Tourist information center,Touristeninformation,49.2465798,6.9132944,,
-ChIJtYPVyiOxlUcRQcPxTTGUd8E,Narin Boutique,Clothing store,Clothing store,Clothing Shop,49.2396252,6.971308199999999,,
+ChIJHxLaqguylUcRlAMKDH5zXkg,Brem Guido Heizung Sanitär,Plumber,Plumber,Sanitärinstallateur,49.224049,6.8835413,0.0,0.0
+ChIJZV8OpGmxlUcRwOwc7mUFgQw,Bunte Kinderwelt,Day care center,Day care center,Kindertagesstätte,49.24749629999999,6.9686498,0.0,0.0
+ChIJL7yF0PGtlUcR4KrdENXUIgU,Klarenthal,,,,49.2246625,6.871119999999999,0.0,0.0
+ChIJaTJVKyqylUcRQVmF92QUlQg,West Side Motors,Tour agency,Tour agency,Tourenveranstalter,49.2367964,6.9276024,0.0,0.0
+ChIJ00q484yxlUcRXzrbA_bCrvE,Seg-and-City Saar Ing.-Büro Kleist GmbH,Tourist information center,Tourist information center,Touristeninformation,49.2465798,6.9132944,0.0,0.0
+ChIJtYPVyiOxlUcRQcPxTTGUd8E,Narin Boutique,Clothing store,Clothing store,Clothing Shop,49.2396252,6.971308199999999,0.0,0.0
 ChIJ_2NgRpmxlUcRIim77R-JBfE,Oo,Optometrist,Optometrist,Augenoptiker,49.2500166,6.9634737,5.0,4.0
 ChIJiYhZKCqylUcRxj9Ue72WebI,Immobilienmanagement Zilles GmbH,Real estate agency,Real estate agency,Immobilienagentur,49.2370726,6.9273045,3.4,5.0
-ChIJn1XXhUizlUcRrpO88Lkofdo,Der Saarland Makler,Real estate agent,Real estate agent,Immobilienmakler,49.2295728,6.8973999,,
-ChIJGeA2fuyxlUcRQ0Ee9zAIJVA,SDK Immobilien GmbH,Real estate agency,Real estate agency,Immobilienagentur,49.2552634,6.9097048,,
+ChIJn1XXhUizlUcRrpO88Lkofdo,Der Saarland Makler,Real estate agent,Real estate agent,Immobilienmakler,49.2295728,6.8973999,0.0,0.0
+ChIJGeA2fuyxlUcRQ0Ee9zAIJVA,SDK Immobilien GmbH,Real estate agency,Real estate agency,Immobilienagentur,49.2552634,6.9097048,0.0,0.0
 ChIJFTyfE7mulUcRYnNlL_8MS4I,welten+wunder Markenkommunikation GmbH,Advertising agency,"Advertising agency, Design agency, Marketing consultant",Werbeagentur,49.2396351,6.9565608,4.6,10.0
-ChIJs5ttFCmylUcRRQvKvj6U5qI,hm Marketing & Promotion,Marketing consultant,Marketing consultant,Marketingberater,49.2357042,6.9251045,,
+ChIJs5ttFCmylUcRRQvKvj6U5qI,hm Marketing & Promotion,Marketing consultant,Marketing consultant,Marketingberater,49.2357042,6.9251045,0.0,0.0
 ChIJU_YVHGmxlUcRPrJxsmaSK04,Altes Media,Advertising agency,"Advertising agency, Print shop",Druckerei,49.2416993,6.948417399999999,4.7,3.0
-ChIJ_aNT0HixlUcRxznRozVypA0,VIRALA,Marketing agency,"Marketing agency, Advertising agency, Computer consultant",Marketing agency,49.2440785,6.9376034,,
-ChIJxSOEiMqxlUcRvscASzl6cZY,Zeesylive,Internet marketing service,Internet marketing service,Online-Marketing-Unternehmen,49.2649117,6.9215152,,
+ChIJ_aNT0HixlUcRxznRozVypA0,VIRALA,Marketing agency,"Marketing agency, Advertising agency, Computer consultant",Marketing agency,49.2440785,6.9376034,0.0,0.0
+ChIJxSOEiMqxlUcRvscASzl6cZY,Zeesylive,Internet marketing service,Internet marketing service,Online-Marketing-Unternehmen,49.2649117,6.9215152,0.0,0.0
 ChIJ00q484yxlUcRp37QDIE0McQ,KÜS KFZ Prüfstelle Kleist Saarbrücken,Car inspection station,"Car inspection station, Appraiser",Kfz-Prüfstelle,49.2465208,6.9128341,4.8,175.0
-ChIJxXmkRWOxlUcRR_d_dRsr5p8,Diakonisches Werk für unbegl. u. minderj. Flüchtlinge,Social services organization,Social services organization,Sozialeinrichtung,49.24212379999999,6.9480425,,
-ChIJ2QXjH5axlUcR-WaG7eFHEkA,Eulennest und Kindereule AWO Saarland,Social services organization,Social services organization,Sozialeinrichtung,49.2407956,6.9449054,,
-ChIJ-QMAXv-zlUcR1B5aespDZC0,Diakonisches Werk,Charity,Charity,Gemeinnützige Organisation,49.23201,6.981719999999999,,
+ChIJxXmkRWOxlUcRR_d_dRsr5p8,Diakonisches Werk für unbegl. u. minderj. Flüchtlinge,Social services organization,Social services organization,Sozialeinrichtung,49.24212379999999,6.9480425,0.0,0.0
+ChIJ2QXjH5axlUcR-WaG7eFHEkA,Eulennest und Kindereule AWO Saarland,Social services organization,Social services organization,Sozialeinrichtung,49.2407956,6.9449054,0.0,0.0
+ChIJ-QMAXv-zlUcR1B5aespDZC0,Diakonisches Werk,Charity,Charity,Gemeinnützige Organisation,49.23201,6.981719999999999,0.0,0.0
 ChIJfZZJ4IqxlUcRnrorwDI_VM8,M-Evolution,Auto repair shop,Auto repair shop,Autowerkstatt,49.2426517,6.9117525,4.3,6.0
 ChIJweA02EWzlUcRRDGZ6x-C5as,Maul's Garage,Car repair and maintenance service,Car repair and maintenance service,Autowerkstatt,49.2390085,6.8903519,5.0,4.0
 ChIJg8P_6_exlUcRYqiSdMHXGZc,Carteland Deutschland,Corporate office,Corporate office,Oficinas de empresa,49.24375029999999,6.9792669,1.0,1.0
-ChIJ6XfTALyxlUcRAS7mr3AQ6S4,Immobilienkontor Research & Projektentwicklung a.p.b.,Corporate office,Corporate office,Geschäftsstelle,49.2364582,6.9800495,,
-ChIJyz7rFCCxlUcR-r26fTwpzyQ,FEAG HomeOffice Altenkessel,Manufacturer,Manufacturer,Hersteller,49.2601514,6.912926,,
-ChIJ18nJLGyxlUcRKkV1XnIRIH4,.,Security guard service,Security guard service,Sicherheitsdienst,49.26222,6.91688,,
-ChIJ0UP3T0OxlUcRRQ7smcsmEPI,Doc-Gesucht GmbH,Medical clinic,Medical clinic,Poliklinik,49.2475605,6.9663752,,
+ChIJ6XfTALyxlUcRAS7mr3AQ6S4,Immobilienkontor Research & Projektentwicklung a.p.b.,Corporate office,Corporate office,Geschäftsstelle,49.2364582,6.9800495,0.0,0.0
+ChIJyz7rFCCxlUcR-r26fTwpzyQ,FEAG HomeOffice Altenkessel,Manufacturer,Manufacturer,Hersteller,49.2601514,6.912926,0.0,0.0
+ChIJ18nJLGyxlUcRKkV1XnIRIH4,.,Security guard service,Security guard service,Sicherheitsdienst,49.26222,6.91688,0.0,0.0
+ChIJ0UP3T0OxlUcRRQ7smcsmEPI,Doc-Gesucht GmbH,Medical clinic,Medical clinic,Poliklinik,49.2475605,6.9663752,0.0,0.0
 ChIJGVzE8RSzlUcRIwCUQIUOm6c,"Coronatest Saarbrücken, Klarenthal",Medical laboratory,"Medical laboratory, Diagnostic center, Local medical services, Medical certificate service, Physical examination center",Medical laboratory,49.2322459,6.891568299999999,5.0,1.0
 ChIJIVTmDcazlUcRtIaSk8L9Jz4,"Coronatest Saarbrücken, AWO Gersweiler",Medical laboratory,"Medical laboratory, Diagnostic center, Local medical services, Medical certificate service, Physical examination center",Medical laboratory,49.2368318,6.9288791,3.7,12.0
 ChIJHUGrN12xlUcRVBJK7W0VnhE,Frau Helga Schimke,Doctor,Doctor,Arzt,49.2462057,6.966850699999999,4.1,46.0
 ChIJs2HqkH6xlUcRr9zs2tO3L18,Bershadska Nataliya,Medical office,Medical office,Arztpraxis,49.2417621,6.939989,3.8,18.0
 ChIJddlLz3yxlUcR9KmhW8s_6OY,German post office,Post office,"Post office, Mailing service, Shipping and mailing service, Shipping service",Postamt,49.241516,6.946242,4.3,127.0
 ChIJwyWvR1exlUcRoFQpB2YymkU,Kirchberg Schule,Primary school,"Primary school, Educational consultant, Elementary school",Grundschule,49.2410492,6.9735782,4.0,12.0
-ChIJc4m5OVGxlUcR--lSSY9RqaU,Katholisch Ensheim,Kindergarten,Kindergarten,Kindergarten,49.2418774,6.976527399999999,,
+ChIJc4m5OVGxlUcR--lSSY9RqaU,Katholisch Ensheim,Kindergarten,Kindergarten,Kindergarten,49.2418774,6.976527399999999,0.0,0.0
 ChIJeTwCD1mxlUcR0dLWO-L0UtQ,TGBBZ II Saarbrücken - Außenstelle Malstatt,Vocational school,"Vocational school, School",Berufsbildende Schule,49.2396973,6.9673495,3.1,7.0
 ChIJGTKx-mSxlUcRGL--Adl_SxQ,Städtische Kindertageseinrichtung Grüneich,Kindergarten,Kindergarten,Kindergarten,49.2448632,6.9500223,3.8,4.0
 ChIJDybkW_uzlUcRlqINrYMA008,Grundschule Am Ordensgut,School,School,Schule,49.2308648,6.9703744,5.0,3.0
 ChIJd9t-q_6zlUcRq2IjN-nNrNc,Kindertagesstätte Alt-Saarbrücken,Kindergarten,Kindergarten,Kindergarten,49.23051419999999,6.974935599999999,5.0,4.0
 ChIJZWNVWoyzlUcRR6BkEslCRdU,TEACH GMBH & Co KG,Adult education school,"Adult education school, Education center, Educational consultant, Educational institution, Training centre",Weiterbildungszentrum,49.213604,6.9692626,4.9,32.0
-ChIJpatpHMOxlUcRDhScsTMMxkQ,db Personal- und Unternehmensberatung GmbH,Human resource consulting,Human resource consulting,Personalberatung,49.24611909999999,6.939045399999999,,
-ChIJxc9ELFKxlUcR9DKkXmZ-2iQ,"ACCT – Advising, Cross-border Coaching & Training",Business management consultant,Business management consultant,Business management consultant,49.2436969,6.9794576,,
-ChIJL7_8w2OxlUcR_SoEaTWe8mA,mpool training GmbH,Business management consultant,Business management consultant,Unternehmensberater,49.24135889999999,6.952109,,
+ChIJpatpHMOxlUcRDhScsTMMxkQ,db Personal- und Unternehmensberatung GmbH,Human resource consulting,Human resource consulting,Personalberatung,49.24611909999999,6.939045399999999,0.0,0.0
+ChIJxc9ELFKxlUcR9DKkXmZ-2iQ,"ACCT – Advising, Cross-border Coaching & Training",Business management consultant,Business management consultant,Business management consultant,49.2436969,6.9794576,0.0,0.0
+ChIJL7_8w2OxlUcR_SoEaTWe8mA,mpool training GmbH,Business management consultant,Business management consultant,Unternehmensberater,49.24135889999999,6.952109,0.0,0.0
 ChIJ_xsjQm2ulUcRAobbDqmIVGU,bähr & fess forecasts GmbH,Consultant,Consultant,Berater,49.2412697,6.956828199999999,4.7,7.0
-ChIJm8QzTiuylUcREXbQeeyGwYw,saar-edv,Computer consultant,Computer consultant,IT-Berater,49.2338007,6.9313094,,
-ChIJPznwepWxlUcRYLO7BD6WqaY,BodyMed Center,Nutritionist,Nutritionist,Ernährungsberater,49.2595464,6.9163617,,
-ChIJxfiHzpG1lUcRKrpBI0j_KLM,wp-TEC GmbH,Machinery parts manufacturer,"Machinery parts manufacturer, Mechanical engineer",Hersteller von Maschinenteilen,49.2543391,6.932778,,
-ChIJO3RyIsCxlUcR-sQ_kVzNgmI,G&S - Grafik & Services,Graphic designer,Graphic designer,Grafikdesigner,49.2607441,6.912655099999999,,
+ChIJm8QzTiuylUcREXbQeeyGwYw,saar-edv,Computer consultant,Computer consultant,IT-Berater,49.2338007,6.9313094,0.0,0.0
+ChIJPznwepWxlUcRYLO7BD6WqaY,BodyMed Center,Nutritionist,Nutritionist,Ernährungsberater,49.2595464,6.9163617,0.0,0.0
+ChIJxfiHzpG1lUcRKrpBI0j_KLM,wp-TEC GmbH,Machinery parts manufacturer,"Machinery parts manufacturer, Mechanical engineer",Hersteller von Maschinenteilen,49.2543391,6.932778,0.0,0.0
+ChIJO3RyIsCxlUcR-sQ_kVzNgmI,G&S - Grafik & Services,Graphic designer,Graphic designer,Grafikdesigner,49.2607441,6.912655099999999,0.0,0.0
 ChIJQTVRqGGxlUcR-RU5QR9XQgQ,RealCore Technology GmbH,Business management consultant,Business management consultant,Unternehmensberater,49.24135889999999,6.952109,5.0,4.0
 ChIJ-xf4LyK0lUcRsuVpwgQyqGQ,ERGO Versicherung Tina Spagnolo,Insurance agency,"Insurance agency, Auto insurance agency, Dental insurance agency, Financial consultant, Health insurance agency, Insurance company, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2267261,6.8990345,5.0,2.0
-ChIJC4PGvBGxlUcRRhqQ0tQH2DI,MediaDesign Frank,Desktop publishing service,"Desktop publishing service, Media company, Publisher",Desktop-Publishing-Dienst,49.2423369,6.911560799999999,,
+ChIJC4PGvBGxlUcRRhqQ0tQH2DI,MediaDesign Frank,Desktop publishing service,"Desktop publishing service, Media company, Publisher",Desktop-Publishing-Dienst,49.2423369,6.911560799999999,0.0,0.0
 ChIJfZL4DZuzlUcRcwbCQa_1-NU,Stadtwerke Saarbrücken,Public works department,"Public works department, Business center",Stadtwerke,49.2345021,6.9787089,3.3,15.0
 ChIJy0JVxnyxlUcRXHe3h-ViLts,Birger Braun,Auto tag agency,Auto tag agency,Kfz-Kennzeichenservice,49.2416384,6.9459193,4.9,48.0
-ChIJw_9gSyCxlUcRw1eAbVn34Kc,Kennzeichen Werk,Auto tag agency,Auto tag agency,Kfz-Kennzeichenservice,49.2482576,6.9142762,,
-ChIJJYtCle2zlUcR8NnCXtjUIhw,66117 Saarbrücken-Mitte,Postal code,Postal code,,49.22182309999999,6.9608576,,
+ChIJw_9gSyCxlUcRw1eAbVn34Kc,Kennzeichen Werk,Auto tag agency,Auto tag agency,Kfz-Kennzeichenservice,49.2482576,6.9142762,0.0,0.0
+ChIJJYtCle2zlUcR8NnCXtjUIhw,66117 Saarbrücken-Mitte,Postal code,Postal code,,49.22182309999999,6.9608576,0.0,0.0
 ChIJS9N573GxlUcRUBNbYSFOAoY,Waldfriedhof Burbach,Cemetery,Cemetery,Friedhof,49.2520943,6.9495029,4.0,27.0
-ChIJ82HWZlazlUcRMwivrakR4Xo,Friedhof Klarenthal,Cemetery,Cemetery,Friedhof,49.2305736,6.8994611,,
+ChIJ82HWZlazlUcRMwivrakR4Xo,Friedhof Klarenthal,Cemetery,Cemetery,Friedhof,49.2305736,6.8994611,0.0,0.0
 ChIJ4xVttVezlUcRBQ3wvdTBQHQ,Tierfriedhof Saarbrücken,Pet cemetery,Pet cemetery,Cimetière animalier,49.2104788,6.960811,2.9,9.0
 ChIJqak_sgyxlUcRZGxBpYdBnhM,Burbacher Waldweiher,Lake,Lake,,49.2592851,6.9462886,4.4,108.0
-ChIJWUj7FsWwlUcRAHBBnkahs8c,Teich,Lake,Lake,,49.2880861,6.9812946,,
+ChIJWUj7FsWwlUcRAHBBnkahs8c,Teich,Lake,Lake,,49.2880861,6.9812946,0.0,0.0
 ChIJmX3oWZOzlUcRTPkLe8nUfAs,Folsterer Weiher,Lake,Lake,,49.2163283,6.9596963,3.0,1.0
 ChIJo2NsX1qxlUcRIcJaDmnVseE,Rahaf Style,Clothing store,Clothing store,Bekleidungsgeschäft,49.24408589999999,6.970731199999999,5.0,2.0
-ChIJFwNuOmOxlUcR7HhuvtyNaIc,Roj Shop,Clothing store,Clothing store,Bekleidungsgeschäft,49.2413038,6.9477252,,
-ChIJKf5xV86R12ARsO-O6VQOgYc,Heoken,Clothing store,Clothing store,Bekleidungsgeschäft,49.2484413,6.979322199999999,,
-ChIJ6ZwUvVWxlUcRr0104VjdsM0,Refined Europe UG,Clothing store,"Clothing store, Clothes and fabric wholesaler, Clothing supplier, Clothing wholesale market place, Clothing wholesaler, Men's clothing store, Plus size clothing store, Sportswear store, Textile exporter, Youth clothing store",Bekleidungsgeschäft,49.2458922,6.9372707,,
-ChIJG6FQq_mzlUcRl0HNmRBgAY0,Astrid Moser,Clothing store,Clothing store,Bekleidungsgeschäft,49.2281712,6.977988099999999,,
-ChIJOQCaUQCxlUcRJuTt7D_WjVQ,snackautomat,Supermarket,Supermarket,Supermarket,49.2620583,6.9164717,,
-ChIJDSkUUBmylUcRdhHDdXt9w4k,Christel Kreis Modehaus,Clothing store,Clothing store,Bekleidungsgeschäft,49.2348963,6.9024426,,
-ChIJqTyjFkKxlUcRrz0gKmKsFT4,"Praxis für Immuologie und Naturheilverfahren, Podologie",Podiatrist,Podiatrist,Podologe,49.251304,6.963145099999999,,
+ChIJFwNuOmOxlUcR7HhuvtyNaIc,Roj Shop,Clothing store,Clothing store,Bekleidungsgeschäft,49.2413038,6.9477252,0.0,0.0
+ChIJKf5xV86R12ARsO-O6VQOgYc,Heoken,Clothing store,Clothing store,Bekleidungsgeschäft,49.2484413,6.979322199999999,0.0,0.0
+ChIJ6ZwUvVWxlUcRr0104VjdsM0,Refined Europe UG,Clothing store,"Clothing store, Clothes and fabric wholesaler, Clothing supplier, Clothing wholesale market place, Clothing wholesaler, Men's clothing store, Plus size clothing store, Sportswear store, Textile exporter, Youth clothing store",Bekleidungsgeschäft,49.2458922,6.9372707,0.0,0.0
+ChIJG6FQq_mzlUcRl0HNmRBgAY0,Astrid Moser,Clothing store,Clothing store,Bekleidungsgeschäft,49.2281712,6.977988099999999,0.0,0.0
+ChIJOQCaUQCxlUcRJuTt7D_WjVQ,snackautomat,Supermarket,Supermarket,Supermarket,49.2620583,6.9164717,0.0,0.0
+ChIJDSkUUBmylUcRdhHDdXt9w4k,Christel Kreis Modehaus,Clothing store,Clothing store,Bekleidungsgeschäft,49.2348963,6.9024426,0.0,0.0
+ChIJqTyjFkKxlUcRrz0gKmKsFT4,"Praxis für Immuologie und Naturheilverfahren, Podologie",Podiatrist,Podiatrist,Podologe,49.251304,6.963145099999999,0.0,0.0
 ChIJBa-BbjexlUcR_vp0cHj8RSE,Apartment Schneider family,Guest house,Guest house,Gasthaus/Pension,49.2597872,6.9776408,4.5,2.0
 ChIJrZxG-zWxlUcRzJan2PNK5F4,саарбрюкен,Apartment complex,Apartment complex,Flat Complex,49.2437347,6.9729579,5.0,1.0
-ChIJ___bh0GxlUcRMLc8zxNA6Yg,wirsindcts,,,,49.25224069999999,6.964490199999999,,
-ChIJe_byE2ixlUcRU5tLoWoDVGU,Herr Dr. med. Muayyad Al-Alime,Charity,Charity,Gemeinnützige Organisation,49.2481327,6.9597418,,
-ChIJ--p1udKxlUcRCFGwBsQd574,SWA Job-Consultants GmbH,Adult education school,"Adult education school, Coaching center",Weiterbildungszentrum,49.2411414,6.9590213,,
+ChIJ___bh0GxlUcRMLc8zxNA6Yg,wirsindcts,,,,49.25224069999999,6.964490199999999,0.0,0.0
+ChIJe_byE2ixlUcRU5tLoWoDVGU,Herr Dr. med. Muayyad Al-Alime,Charity,Charity,Gemeinnützige Organisation,49.2481327,6.9597418,0.0,0.0
+ChIJ--p1udKxlUcRCFGwBsQd574,SWA Job-Consultants GmbH,Adult education school,"Adult education school, Coaching center",Weiterbildungszentrum,49.2411414,6.9590213,0.0,0.0
 ChIJlTeWq8CzlUcRrRHZcs9Fnjw,Saarbrucken,Parking lot,Parking lot,Parkoló,49.2097557,6.9670238,4.0,4.0
 ChIJw7BHtsWwlUcRMi-m-jeWIOI,Wanderparkplatz - Urwaldtafeltour (Neuhaus),Parking lot,Parking lot,Parkplatz,49.2914883,6.9800302,4.7,50.0
-ChIJVVVVIvOzlUcRRG93q0p7W64,Parkplatz,Parking,Parking,Parkplatz,49.2173143,6.969691999999999,,
+ChIJVVVVIvOzlUcRRG93q0p7W64,Parkplatz,Parking,Parking,Parkplatz,49.2173143,6.969691999999999,0.0,0.0
 ChIJW1L7ccyxlUcRW7bWGRQZqV4,BlumenKammer,Florist,"Florist, Greeting card shop, Newsstand, Post office, Stationery store, Tobacco shop",Blumengeschäft,49.2599188,6.916916499999999,2.0,8.0
 ChIJU9d25SqylUcRoMJoYboeOvU,Blumen Zauber by Marion Wolf,Florist,"Florist, Event management company, Home goods store",Blumengeschäft,49.2369461,6.9311994,4.7,30.0
-ChIJIT3arTGylUcRSGA3opmPRuk,Doris Kuhn-Dittrich,Florist,Florist,Blumengeschäft,49.2282443,6.9236208,,
-ChIJeeGP9BCylUcRMdKIlVRDd9c,Astrid Fauss Die Blumenfee,Florist,Florist,Blumengeschäft,49.2293258,6.8975297,,
-ChIJVVVILZCzlUcRXxrfwbwpRIk,Landesverband Verkehrsgewerbe Saarland,Association / Organization,Association / Organization,Vereinigung / Organisation,49.20907159999999,6.963821599999999,,
-ChIJ6dbgeGmxlUcRY4-xmn4ipjk,Roman Kluthe,Taxi service,Taxi service,Taxiunternehmen,49.2520789,6.958786,,
+ChIJIT3arTGylUcRSGA3opmPRuk,Doris Kuhn-Dittrich,Florist,Florist,Blumengeschäft,49.2282443,6.9236208,0.0,0.0
+ChIJeeGP9BCylUcRMdKIlVRDd9c,Astrid Fauss Die Blumenfee,Florist,Florist,Blumengeschäft,49.2293258,6.8975297,0.0,0.0
+ChIJVVVILZCzlUcRXxrfwbwpRIk,Landesverband Verkehrsgewerbe Saarland,Association / Organization,Association / Organization,Vereinigung / Organisation,49.20907159999999,6.963821599999999,0.0,0.0
+ChIJ6dbgeGmxlUcRY4-xmn4ipjk,Roman Kluthe,Taxi service,Taxi service,Taxiunternehmen,49.2520789,6.958786,0.0,0.0
 ChIJm_MaeFqxlUcRqHPSstuuJAg,Taxistand Hambacher,Taxi stand,Taxi stand,Taxistand,49.2435282,6.972482599999999,4.5,2.0
 ChIJrzwkPmOxlUcRuHvRrc5dVls,Alfons Knerr Taxibetrieb,Taxi service,Taxi service,Taxiunternehmen,49.2413856,6.9485433,3.0,1.0
 ChIJffoIC1exlUcR4uVn03o58Oo,Raimund Kraus,Taxi service,Taxi service,Taxiunternehmen,49.2391005,6.9731127,5.0,1.0
@@ -218,37 +218,37 @@ ChIJ4UinAbC2lUcRVZNgfRLAxZA,Pllana Umzüge,Moving and storage service,"Moving an
 ChIJlzKlBCy0lUcRZ4l7z54KaiM,Taxi Steve Schneider,Taxi service,Taxi service,Taxiunternehmen,49.2357483,6.9627598,4.4,115.0
 ChIJVye0AgOxlUcRTglG78qGwzk,"Von der Heydt Siedl., Saarbrücken Burbach",Bus stop,Bus stop,Bushaltestelle,49.27568,6.95304,5.0,1.0
 ChIJsVaPx-2zlUcReR0EImiRh1Q,W. Witt,Taxi service,Taxi service,Taxiunternehmen,49.220474,6.964650199999999,5.0,1.0
-ChIJVaht2v6zlUcRmwpMEx3xZ-k,TRADUETT GbR,Transportation service,Transportation service,Transportation service,49.2316245,6.978389399999999,,
+ChIJVaht2v6zlUcRmwpMEx3xZ-k,TRADUETT GbR,Transportation service,Transportation service,Transportation service,49.2316245,6.978389399999999,0.0,0.0
 ChIJ4U_XrvCzlUcRyqXHDIXO9b4,Taxibetrieb Steve Schneider,Taxi service,Taxi service,Taxiunternehmen,49.225768,6.9737179,4.6,5.0
-ChIJkTqemf6zlUcRbJJm9m7luN4,Franz Spaniol,Taxi service,Taxi service,Taxiunternehmen,49.2325729,6.976591099999999,,
-ChIJTdj1H_yzlUcR2rXNTHfGs1A,Alfons Mertz Taxiunternehmen,Taxi service,Taxi service,Taxiunternehmen,49.232358,6.9758749,,
+ChIJkTqemf6zlUcRbJJm9m7luN4,Franz Spaniol,Taxi service,Taxi service,Taxiunternehmen,49.2325729,6.976591099999999,0.0,0.0
+ChIJTdj1H_yzlUcR2rXNTHfGs1A,Alfons Mertz Taxiunternehmen,Taxi service,Taxi service,Taxiunternehmen,49.232358,6.9758749,0.0,0.0
 ChIJTQ3_4vmzlUcRxzznwUih2F4,"Lulustein, Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.22618,6.97539,4.0,1.0
-ChIJSxpuG42xlUcR7Sdz-jNDXwc,NYCTaxi,Taxi service,Taxi service,Taxiunternehmen,49.2479439,6.913303699999999,,
-ChIJE2KmZg6ylUcRTKRqwetp3Us,"Karlstr., Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.227,6.89084,,
-ChIJncIPuQWylUcRNdcF65ajJws,"Warndtstr., Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.23285,6.89051,,
-ChIJVaj08h2ylUcRpb0oTaSfqQM,"Grubenweg, Gersweiler Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.2404,6.90137,,
+ChIJSxpuG42xlUcR7Sdz-jNDXwc,NYCTaxi,Taxi service,Taxi service,Taxiunternehmen,49.2479439,6.913303699999999,0.0,0.0
+ChIJE2KmZg6ylUcRTKRqwetp3Us,"Karlstr., Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.227,6.89084,0.0,0.0
+ChIJncIPuQWylUcRNdcF65ajJws,"Warndtstr., Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.23285,6.89051,0.0,0.0
+ChIJVaj08h2ylUcRpb0oTaSfqQM,"Grubenweg, Gersweiler Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.2404,6.90137,0.0,0.0
 ChIJwY8ohWGxlUcRIf7KPmZUdFY,HOLZHAUER KG HAUSTECHNIK,Wholesaler,Wholesaler,Grosshändler,49.2397016,6.9535364,3.4,5.0
-ChIJP2SDklSxlUcRcUmF1N6_8Fs,"Partyservice Laqué, P.E.S.G. Meisterbetrieb",Caterer,Caterer,Catering,49.2397706,6.981978499999999,,
-ChIJgfqT5VmxlUcR2gnFopJv3xU,Filippa Laque Partyservice,Caterer,Caterer,Catering,49.240706,6.9710573,,
-ChIJJ4tE442xlUcRaFw44nDLLkE,66126,Building,Building,,49.2492418,6.9172481,,
+ChIJP2SDklSxlUcRcUmF1N6_8Fs,"Partyservice Laqué, P.E.S.G. Meisterbetrieb",Caterer,Caterer,Catering,49.2397706,6.981978499999999,0.0,0.0
+ChIJgfqT5VmxlUcR2gnFopJv3xU,Filippa Laque Partyservice,Caterer,Caterer,Catering,49.240706,6.9710573,0.0,0.0
+ChIJJ4tE442xlUcRaFw44nDLLkE,66126,Building,Building,,49.2492418,6.9172481,0.0,0.0
 ChIJbRiXVf-xlUcRua9tijBlHwY,Praxis für Logopädie Mustafa Yazici,Speech pathologist,Speech pathologist,Logopäde,49.2462972,6.9674147,4.7,38.0
-ChIJCcer0d2xlUcRzXshpAEGXys,Hans-Jürgen Schneider,Pet groomer,Pet groomer,Tierfriseur,49.2445153,6.9250339,,
-ChIJj73i7GWxlUcRINHyXab9V-0,Kath. Kindergarten Herz Jesu,Kindergarten,Kindergarten,Kindergarten,49.2463984,6.954246899999999,,
-ChIJ9wWVeFixlUcRbY6NaTvp0C8,Elli Charging Station,Electric vehicle charging station,Electric vehicle charging station,Electric vehicle charging station,49.23672,6.968156,,
+ChIJCcer0d2xlUcRzXshpAEGXys,Hans-Jürgen Schneider,Pet groomer,Pet groomer,Tierfriseur,49.2445153,6.9250339,0.0,0.0
+ChIJj73i7GWxlUcRINHyXab9V-0,Kath. Kindergarten Herz Jesu,Kindergarten,Kindergarten,Kindergarten,49.2463984,6.954246899999999,0.0,0.0
+ChIJ9wWVeFixlUcRbY6NaTvp0C8,Elli Charging Station,Electric vehicle charging station,Electric vehicle charging station,Electric vehicle charging station,49.23672,6.968156,0.0,0.0
 ChIJHVqcWPKzlUcRN0kbvpbp5uQ,ALDI Süd Charging Station,Electric vehicle charging station,Electric vehicle charging station,Electric vehicle charging station,49.2188333,6.9684444,5.0,6.0
-ChIJe_byE2ixlUcR9-56gFLc8hk,Herr Prof. Dr. med. habil. Dirk Pickuth,Radiologist,Radiologist,Radiologe,49.2481327,6.9597418,,
-ChIJ3-BTaX2xlUcRp1OpsWDZFmI,Star Video Filmverleih GmbH,Movie rental,Movie rental,Videothek,49.24162459999999,6.943239699999999,,
-ChIJ49ywtuOzlUcRrjIDU_wtag4,MoneyGram,Money transfer service,Money transfer service,Para Transfer Hizmeti,49.2321423,6.9752855,,
+ChIJe_byE2ixlUcR9-56gFLc8hk,Herr Prof. Dr. med. habil. Dirk Pickuth,Radiologist,Radiologist,Radiologe,49.2481327,6.9597418,0.0,0.0
+ChIJ3-BTaX2xlUcRp1OpsWDZFmI,Star Video Filmverleih GmbH,Movie rental,Movie rental,Videothek,49.24162459999999,6.943239699999999,0.0,0.0
+ChIJ49ywtuOzlUcRrjIDU_wtag4,MoneyGram,Money transfer service,Money transfer service,Para Transfer Hizmeti,49.2321423,6.9752855,0.0,0.0
 ChIJ9abiiiKzlUcRQEei3ngXHGo,MediaMarkt Smartbar,Mobile phone repair shop,"Mobile phone repair shop, Computer repair service, Copier repair service, Printer repair service, Television repair service, Vacuum cleaner repair shop",Reparaturladen für Mobiltelefone,49.2370658,6.9573033,5.0,1.0
-ChIJ0-N_RAqxlUcRg6f173m_pyo,FooduristicAI,Takeout restaurant,Takeout restaurant,restaurants,49.2432285,6.9392068,,
+ChIJ0-N_RAqxlUcRg6f173m_pyo,FooduristicAI,Takeout restaurant,Takeout restaurant,restaurants,49.2432285,6.9392068,0.0,0.0
 ChIJr1SZ-mKxlUcRdKpTdFLurHc,Mahlstatt,Restaurant,Restaurant,restaurants,49.2396626,6.9487669,3.2,9.0
 ChIJ59zi_MKxlUcRcDIjO9ze7l0,DHL Packstation 189,Package locker,"Package locker, Shipping service",Paketkasten,49.2401146,6.9667878,4.3,23.0
 ChIJw9FLz3yxlUcR41V-CSOuAeo,Iris Louis Schreibwaren u. Geschenk,Post office,Post office,Postamt,49.2408655,6.946689699999999,5.0,9.0
 ChIJle0D_E2xlUcRFQf4BxqDHB0,Ferienwohnung Nähe Stadtmitte Saarbrücken,Holiday apartment,Holiday apartment,Ferienwohnung,49.2464752,6.9797869,3.1,8.0
-ChIJLV_W1TizlUcRlFbJ9LhvKAY,Möblierte Wohnung auf Zeit NOBLESSE,Holiday apartment,Holiday apartment,Ferienwohnung,49.2052611,6.9595359,,
+ChIJLV_W1TizlUcRlFbJ9LhvKAY,Möblierte Wohnung auf Zeit NOBLESSE,Holiday apartment,Holiday apartment,Ferienwohnung,49.2052611,6.9595359,0.0,0.0
 ChIJM9GI0-ixlUcRHnVY0Yo0y8Y,Nedher-Taransporte,,,,49.244721,6.9240634,5.0,4.0
 ChIJL-oa23yxlUcR7crWAgRvSY0,ELEKTRO THOME,Electrician,Electrician,Elektriker,49.2396821,6.9518793,4.4,14.0
-ChIJj7g6vauxlUcRQ5XYyE78wgE,Elektrotechnik Schüssler,Electrician,Electrician,Elektriker,49.2461202,6.9801142,,
+ChIJj7g6vauxlUcRQ5XYyE78wgE,Elektrotechnik Schüssler,Electrician,Electrician,Elektriker,49.2461202,6.9801142,0.0,0.0
 ChIJA2ZU4E2xlUcRbKheDolUAZE,Herges Schuhmanufaktur,Orthopedic shoe store,"Orthopedic shoe store, Foot care, Shoe repair shop",Fachhandel für orthopädische Schuhe,49.2471612,6.9798646,4.6,34.0
 ChIJp4XBiFixlUcRaxbodaYZZu0,Römer OfficeCenter GmbH,Office equipment supplier,"Office equipment supplier, Computer software store, Office furniture store, Office supply store, Video conferencing equipment supplier",Büroausstattungsanbieter,49.2374206,6.967529499999999,5.0,1.0
 ChIJzxjXly6xlUcRuhSZGBbsCQY,Brücke Kiosk,Store,Store,Shop,49.2411282,6.978706,1.0,1.0
@@ -257,36 +257,36 @@ ChIJB8Gf9JOzlUcRPeqRPYdJ9bU,Seyid Markt,Grocery store,Grocery store,Lebensmittel
 ChIJy-_53P2zlUcR9C77aLaFoek,ALDI SÜD,Supermarket,"Supermarket, Discount supermarket",Supermarkt,49.2344295,6.9759134,4.1,676.0
 ChIJA97SGJqzlUcRA-K5XBLW5NA,Agesa Rehatechnik GmbH - Logistikzentrum,Medical supply store,Medical supply store,Sanitätshaus,49.2311911,6.9055884,5.0,5.0
 ChIJ3WKSq1exlUcRn4e2Lq0wQ0k,Fitness- Gesundheitsclub Fortuna,Gym,Gym,Fitnessstudio,49.2385303,6.9741797,2.5,2.0
-ChIJKRnqjfixlUcRDhQS0wLSOQ0,Fitness und Kampfsportteam Saar,Gym,Gym,Fitnessstudio,49.242157,6.8934074,,
-ChIJDSwW8RCylUcRFXKpDQ7GRxk,Ying & Yang Fitness Akademie,Gym,Gym,Fitnessstudio,49.22902879999999,6.8976662,,
-ChIJX0hdiEGxlUcRR2zly5eZSmI,Palliative Care,,,,49.25227,6.96437,,
+ChIJKRnqjfixlUcRDhQS0wLSOQ0,Fitness und Kampfsportteam Saar,Gym,Gym,Fitnessstudio,49.242157,6.8934074,0.0,0.0
+ChIJDSwW8RCylUcRFXKpDQ7GRxk,Ying & Yang Fitness Akademie,Gym,Gym,Fitnessstudio,49.22902879999999,6.8976662,0.0,0.0
+ChIJX0hdiEGxlUcRR2zly5eZSmI,Palliative Care,,,,49.25227,6.96437,0.0,0.0
 ChIJl7zIlfyzlUcR9wg1EIxVC7Q,Frank GmbH,Software company,Software company,Softwareentwickler/-hersteller,49.2324667,6.971407399999999,5.0,1.0
-ChIJrdZCpR6xlUcRSIhS6CeAl-k,PinguinSoft IT-Service Ralf Bucke,Software company,Software company,Softwareentwickler/-hersteller,49.2733461,6.961925799999999,,
-ChIJn7X1MvyzlUcRZVpCJ5IK56A,IT-Systemhaus LASA EDV GmbH,Computer service,Computer service,Computerservice,49.2333894,6.9753744,,
-ChIJzz6qwhiylUcRlexrCIgb5nM,IT-Systemhaus LASA EDV GmbH,Computer service,Computer service,Computerservice,49.23389,6.90478,,
-ChIJpQ0NBGGxlUcR4HmwuEgCvrE,schaden.digital - ein Produkt der jure SPM GmbH,Software company,"Software company, Legal services",Softwareentwickler/-hersteller,49.2404269,6.9559359,,
-ChIJH9HS_xiylUcRSqEceIB46co,DA-Group Adformatics GmbH,Software company,Software company,Softwareentwickler/-hersteller,49.2329853,6.9044072,,
+ChIJrdZCpR6xlUcRSIhS6CeAl-k,PinguinSoft IT-Service Ralf Bucke,Software company,Software company,Softwareentwickler/-hersteller,49.2733461,6.961925799999999,0.0,0.0
+ChIJn7X1MvyzlUcRZVpCJ5IK56A,IT-Systemhaus LASA EDV GmbH,Computer service,Computer service,Computerservice,49.2333894,6.9753744,0.0,0.0
+ChIJzz6qwhiylUcRlexrCIgb5nM,IT-Systemhaus LASA EDV GmbH,Computer service,Computer service,Computerservice,49.23389,6.90478,0.0,0.0
+ChIJpQ0NBGGxlUcR4HmwuEgCvrE,schaden.digital - ein Produkt der jure SPM GmbH,Software company,"Software company, Legal services",Softwareentwickler/-hersteller,49.2404269,6.9559359,0.0,0.0
+ChIJH9HS_xiylUcRSqEceIB46co,DA-Group Adformatics GmbH,Software company,Software company,Softwareentwickler/-hersteller,49.2329853,6.9044072,0.0,0.0
 ChIJ9RwgUzyylUcRBj4vkbukjxY,Jochen Schütz Hard- und Software,Software company,Software company,Softwareentwickler/-hersteller,49.2270306,6.9091605,5.0,1.0
 ChIJEdULFCqxlUcR4P_6d4FrFjs,Damag Chicken,American restaurant,American restaurant,restaurants,49.2423812,6.9415586,4.4,10.0
-ChIJn_1tIluxlUcRnQdz18-LFB4,Ärztehaus,,,,49.2455419,6.969312299999999,,
-ChIJ6YTyMXyxlUcRleRSVyelDgU,CoZ,,,,49.2426022,6.9403912,,
-ChIJAxoZcIH3KycRBZPRPe2S2dc,Julien Nikolaus Tattoo Jules.tat2,Tattoo shop,Tattoo shop,Tattoostudio,49.2598156,6.916918799999999,,
+ChIJn_1tIluxlUcRnQdz18-LFB4,Ärztehaus,,,,49.2455419,6.969312299999999,0.0,0.0
+ChIJ6YTyMXyxlUcRleRSVyelDgU,CoZ,,,,49.2426022,6.9403912,0.0,0.0
+ChIJAxoZcIH3KycRBZPRPe2S2dc,Julien Nikolaus Tattoo Jules.tat2,Tattoo shop,Tattoo shop,Tattoostudio,49.2598156,6.916918799999999,0.0,0.0
 ChIJO9coHfyzlUcRNko06eZq2_Y,Sven Erik Klein Image Photo,Photographer,Photographer,Fotograf,49.23177769999999,6.9756357,5.0,1.0
 ChIJ_2jV-GmzlUcRcxnrj3MKD-s,Cliploft Media | Imagefilme | Recruitingfilme | Eventfilme,Video production service,Video production service,Videoproduktionsdienst,49.2324613,6.9699088,5.0,11.0
 ChIJ6QOzFGOxlUcR5XtAJGE41no,Cafe Dienhart,Cafe,"Cafe, Coffee shop",cafes,49.24162,6.9489,4.0,27.0
-ChIJKXCC8GuzlUcRwLybIjpsK2M,11. Mai 1944,Historical landmark,Historical landmark,Site historique,49.2278983,6.9747816,,
+ChIJKXCC8GuzlUcRwLybIjpsK2M,11. Mai 1944,Historical landmark,Historical landmark,Site historique,49.2278983,6.9747816,0.0,0.0
 ChIJxczJQXOxlUcRA3vVt1xm_T8,Schachtstein,Historical landmark,Historical landmark,Historical landmark,49.2841118,6.981425199999999,3.0,1.0
 ChIJdR7EDgCzlUcREaCkNJXxj30,Alte Radrennbahn,Historical landmark,Historical landmark,Historische Sehenswürdigkeit,49.2306871,6.9591938,4.3,4.0
 ChIJu8-Gw3GxlUcRV1Qqrl9gJQo,Ismail shop,Furniture store,Furniture store,Home Furniture Shop,49.2394804,6.9729527,4.3,15.0
-ChIJK7hyAuCzlUcRPq83xz0NhVk,Seats and Sofas GmbH,Furniture store,Furniture store,Möbelgeschäft,49.2372091,6.958021,,
+ChIJK7hyAuCzlUcRPq83xz0NhVk,Seats and Sofas GmbH,Furniture store,Furniture store,Möbelgeschäft,49.2372091,6.958021,0.0,0.0
 ChIJf5lzC1exlUcRMI1y_pqKyq0,Easy & Quick Shop,Furniture store,"Furniture store, Appliance store",Furniture store,49.2391446,6.973109,4.1,7.0
 ChIJ8exizP2zlUcRb_4cgy42T4k,Freiwillige Feuerwehr Alt-Saarbrücken - Löschbezirk 11,Voluntary fire brigade,Voluntary fire brigade,Freiwillige Feuerwehr,49.233825,6.9748076,5.0,5.0
 ChIJ10iLS5WxlUcRY4Uho4RUpEw,St. Johannes Baptista,Church,Church,Church,49.2592876,6.914182899999999,4.4,5.0
 ChIJxXf-sVyxlUcR2UDD98xSErU,Italienische Katholische Mission,Church,Church,Kirche,49.24661,6.96619,4.6,9.0
 ChIJqQGtLvTGlUcRKzq26VkwNXI,Kirchenkreis Saar-Ost,Evangelical church,Evangelical church,Evangelische Kirche,49.2325467,6.9811688,4.2,5.0
-ChIJq6oOMhuylUcRCYXVJTmbNQ8,El Camino,Church,Church,Church,49.2340448,6.895534899999999,,
+ChIJq6oOMhuylUcRCYXVJTmbNQ8,El Camino,Church,Church,Church,49.2340448,6.895534899999999,0.0,0.0
 ChIJ16d4wWCxlUcR1SHXSdBD2jI,WPW GmbH,Engineer,"Engineer, Civil engineer, Home inspector, Real estate appraiser",Ingenieur,49.2412048,6.957538,3.0,4.0
-ChIJwT7dFX2xlUcRfINWj4TDceA,NATURALiNA | Fachgeschäft für Naturkost und mehr,Organic food store,Organic food store,Bioladen,49.2396873,6.9448417,,
+ChIJwT7dFX2xlUcRfINWj4TDceA,NATURALiNA | Fachgeschäft für Naturkost und mehr,Organic food store,Organic food store,Bioladen,49.2396873,6.9448417,0.0,0.0
 ChIJcerY7oyxlUcRlAwd9d7KNLQ,Ibrahim Markt,Supermarket,Supermarket,Supermarkt,49.246812,6.9128494,4.6,26.0
 ChIJndMzr3-zlUcRp8HzdI95GRI,Dreispitzhütte,Hiking area,Hiking area,Wandergebiet,49.2180432,6.8927492,3.3,4.0
 ChIJpTgnby-xlUcRB6Bk6ROF7dA,Pizzeria Little Italy Saarbrücken,Italian restaurant,"Italian restaurant, Pizza restaurant",restaurants,49.2514209,6.962988699999999,4.2,186.0
@@ -294,16 +294,16 @@ ChIJKfmVUSqylUcRXKGyPDZ9pSM,Mr. X Pizza-service,Restaurant,Restaurant,restaurant
 ChIJxZQidxCxlUcRnKsjrxwdKxs,o2 Vertriebspartner Saarbrücken,Cell phone store,Cell phone store,Mobiltelefongeschäft,49.2436319,6.9713923,5.0,3.0
 ChIJzYjl2aqxlUcRfKWHU8aHC0Q,Vodafone Premium Fachhandel Malstatt,Cell phone store,"Cell phone store, Telecommunications service provider",Mobiltelefongeschäft,49.2436379,6.9713758,5.0,5.0
 ChIJI3LNNDmxlUcRwsluT95wlks,Demonty,Pest control service,Pest control service,Kammerjäger,49.2604871,6.9704248,5.0,13.0
-ChIJxUXEDnaxlUcRGscQIZ2ODfs,Berg str26 66115 saarbrücken,Supermarket,Supermarket,Supermarket,49.2423726,6.9417027,,
-ChIJxQwDAIqxlUcRpFt1UXJlxsM,Aktiv Markt Kunzler,Supermarket,Supermarket,Supermarkt,49.23986,6.91535,,
+ChIJxUXEDnaxlUcRGscQIZ2ODfs,Berg str26 66115 saarbrücken,Supermarket,Supermarket,Supermarket,49.2423726,6.9417027,0.0,0.0
+ChIJxQwDAIqxlUcRpFt1UXJlxsM,Aktiv Markt Kunzler,Supermarket,Supermarket,Supermarkt,49.23986,6.91535,0.0,0.0
 ChIJ8R-ooFyxlUcRQdkoPLRq8kc,Hubert Steil,Taxi service,Taxi service,Taxiunternehmen,49.2459154,6.966826699999999,5.0,1.0
 ChIJWakxelGxlUcRg8Mz8kYLXDY,DB Energie GmbH,Railroad company,Railroad company,Railroad company,49.2431869,6.9771642,4.1,11.0
-ChIJj2gGOWezlUcRHmhqsPOgB8g,Ashraf AL Tayasneh,Apartment building,Apartment building,Apartment building,49.2320064,6.9741984,,
-ChIJxc9ELFKxlUcRO_nTeRENNuo,CYTEC GmbH,Plastic fabrication company,Plastic fabrication company,Kunststoffhersteller,49.2436969,6.9794576,,
-ChIJEQypLEOxlUcRAl9QryUepls,CARDIAM Sarl Verbindungsbüro Deutschland,Manufacturer,Manufacturer,Hersteller,49.2437753,6.979269,,
+ChIJj2gGOWezlUcRHmhqsPOgB8g,Ashraf AL Tayasneh,Apartment building,Apartment building,Apartment building,49.2320064,6.9741984,0.0,0.0
+ChIJxc9ELFKxlUcRO_nTeRENNuo,CYTEC GmbH,Plastic fabrication company,Plastic fabrication company,Kunststoffhersteller,49.2436969,6.9794576,0.0,0.0
+ChIJEQypLEOxlUcRAl9QryUepls,CARDIAM Sarl Verbindungsbüro Deutschland,Manufacturer,Manufacturer,Hersteller,49.2437753,6.979269,0.0,0.0
 ChIJQTVRqGGxlUcRtPZ05Hu8WVw,twosmile GmbH,Pharmaceutical company,Pharmaceutical company,Pharmaunternehmen,49.2394062,6.954946199999999,5.0,2.0
-ChIJnZ9Hz1ixlUcRTJ2p5yYYT_A,WSK Planungsgesellschaft,Manufacturer,Manufacturer,Hersteller,49.23844,6.96565,,
-ChIJFysrYWSxlUcRLs4CUCqJ7kE,SCHREINER MARKIERUNG,Carpenter,Carpenter,Zimmermann,49.24387919999999,6.9510815,,
+ChIJnZ9Hz1ixlUcRTJ2p5yYYT_A,WSK Planungsgesellschaft,Manufacturer,Manufacturer,Hersteller,49.23844,6.96565,0.0,0.0
+ChIJFysrYWSxlUcRLs4CUCqJ7kE,SCHREINER MARKIERUNG,Carpenter,Carpenter,Zimmermann,49.24387919999999,6.9510815,0.0,0.0
 ChIJb98Hj4mzlUcRslcMu7cr1Zg,Saarstahl AG Werk Burbach,Steel fabricator,Steel fabricator,Stahlhersteller,49.23832609999999,6.9476955,4.7,44.0
 ChIJC6QcMmKxlUcR82CJBi8EjBw,Jürgen Meißner GmbH Technischer Industriebedarf,,,,49.2396617,6.9519851,4.0,2.0
 ChIJswALEHizlUcRU5PCoOSO4u0,Die Vegabunden,Food manufacturer,Food manufacturer,Lebensmittelhersteller,49.245721,6.9683949,5.0,3.0
@@ -311,13 +311,13 @@ ChIJA_hqItWzlUcRZlnpgK1tSAQ,"HYDAC Electronic GmbH, Werk 10",Manufacturer,Manufa
 ChIJPQyk5-GwlUcRCzTqpg-p8Uk,Hans Schwartz GmbH & Co. KG,Recycling center,"Recycling center, Waste management service",Recyclinghof,49.2797889,6.965257599999999,4.7,18.0
 ChIJkfZ7G5WxlUcRojKoIqAOHxI,Menue-Taxi,Taxi service,Taxi service,Taxiunternehmen,49.2579579,6.915739599999999,3.0,2.0
 ChIJDxZ_yeqxlUcRfq_VVcTW-VU,"Ergotherapie Altenkessel, Ralph Voigt",Occupational therapist,Occupational therapist,Ergotherapeut,49.2588462,6.9134585,1.0,1.0
-ChIJWwJ-KzexlUcRpJL3lpypKs0,"Rußhütte, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.26127,6.97959,,
-ChIJAZwy4k2xlUcR_QirYiByyuo,"Am Schönental, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.24704,6.979769999999999,,
-ChIJp8sF6UCxlUcRQq1tKuMkaB8,"Am Gilbenkopf, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.25534,6.96735,,
-ChIJLzlA-ZSxlUcREPOdwCJJhpc,"Jahnstr., Altenkessel Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.2572,6.9162,,
-ChIJ0eXvCpOxlUcRFXlS512fBkQ,"Am Dachsbau, Rockershausen Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.25369999999999,6.9155,,
-ChIJM5NmExeylUcRK4vad7Sd770,"An den Ziegelhütten, Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.22907,6.902229999999999,,
+ChIJWwJ-KzexlUcRpJL3lpypKs0,"Rußhütte, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.26127,6.97959,0.0,0.0
+ChIJAZwy4k2xlUcR_QirYiByyuo,"Am Schönental, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.24704,6.979769999999999,0.0,0.0
+ChIJp8sF6UCxlUcRQq1tKuMkaB8,"Am Gilbenkopf, Saarbrücken Malstatt",Bus stop,Bus stop,Bushaltestelle,49.25534,6.96735,0.0,0.0
+ChIJLzlA-ZSxlUcREPOdwCJJhpc,"Jahnstr., Altenkessel Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.2572,6.9162,0.0,0.0
+ChIJ0eXvCpOxlUcRFXlS512fBkQ,"Am Dachsbau, Rockershausen Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.25369999999999,6.9155,0.0,0.0
+ChIJM5NmExeylUcRK4vad7Sd770,"An den Ziegelhütten, Klarenthal Saarbrücken",Bus stop,Bus stop,Bushaltestelle,49.22907,6.902229999999999,0.0,0.0
 ChIJz22c_02zlUcRmtilVbn8mIs,Zahnärzte an der Bellevue,Dentist,Dentist,Zahnarzt,49.22529549999999,6.977397099999999,4.9,45.0
-ChIJ2e8rE3yxlUcRTCa2wta2Snc,DEVK Versicherung: Nico Steimer,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2419048,6.9557585,,
-ChIJc708pXWxlUcRfOP7190vXgI,DEVK Versicherung: Julia Kronser,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2419348,6.955741799999999,,
-ChIJgxXf0KKxlUcRfLsteAjFc4Q,DEVK Versicherung: Jannis Rudi,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2418728,6.9557492,,
+ChIJ2e8rE3yxlUcRTCa2wta2Snc,DEVK Versicherung: Nico Steimer,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2419048,6.9557585,0.0,0.0
+ChIJc708pXWxlUcRfOP7190vXgI,DEVK Versicherung: Julia Kronser,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2419348,6.955741799999999,0.0,0.0
+ChIJgxXf0KKxlUcRfLsteAjFc4Q,DEVK Versicherung: Jannis Rudi,Insurance agency,"Insurance agency, Auto insurance agency, Home insurance agency, Insurance company, Life insurance agency, Motorcycle insurance agency, Renter's insurance agency",Versicherungsagentur,49.2418728,6.9557492,0.0,0.0
